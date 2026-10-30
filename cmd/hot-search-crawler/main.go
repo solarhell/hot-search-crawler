@@ -89,6 +89,9 @@ func runCrawl(args []string, stdout, stderr io.Writer, daemon bool) int {
 		fs.DurationVar(&cfg.interval, "interval", defaultInterval, "常驻模式下的抓取间隔")
 	}
 	if err := fs.Parse(args); err != nil {
+		if errors.Is(err, flag.ErrHelp) {
+			return 0
+		}
 		return 2
 	}
 	if fs.NArg() > 0 {
