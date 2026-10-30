@@ -5,33 +5,33 @@
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-10-30 09:32**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-10-30 09:35**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [TES战胜BLG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG) — 184.7万 · 新
-2. [柜员手误多打个0储户称离柜不负责](https://s.weibo.com/weibo?q=%23%E6%9F%9C%E5%91%98%E6%89%8B%E8%AF%AF%E5%A4%9A%E6%89%93%E4%B8%AA0%E5%82%A8%E6%88%B7%E7%A7%B0%E7%A6%BB%E6%9F%9C%E4%B8%8D%E8%B4%9F%E8%B4%A3%23) — 120.1万 · 新
-3. [全面从严治党是全党的共同责任](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E6%98%AF%E5%85%A8%E5%85%9A%E7%9A%84%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB%23) — 72万
-4. [养猫后明白了辱追心理](https://s.weibo.com/weibo?q=%E5%85%BB%E7%8C%AB%E5%90%8E%E6%98%8E%E7%99%BD%E4%BA%86%E8%BE%B1%E8%BF%BD%E5%BF%83%E7%90%86) — 62.8万
-5. [TES晋级S16淘汰赛](https://s.weibo.com/weibo?q=TES%E6%99%8B%E7%BA%A7S16%E6%B7%98%E6%B1%B0%E8%B5%9B) — 31.4万 · 新
-6. [苹果高管回应iPadmini8被锁60Hz](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94iPadmini8%E8%A2%AB%E9%94%8160Hz%23) — 28.5万 · 新
-7. [369单杀Knight](https://s.weibo.com/weibo?q=%23369%E5%8D%95%E6%9D%80Knight%23) — 28.2万 · 新
-8. [开拓者官宣执行杨瀚森第三年合同](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8B%93%E8%80%85%E5%AE%98%E5%AE%A3%E6%89%A7%E8%A1%8C%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%AC%AC%E4%B8%89%E5%B9%B4%E5%90%88%E5%90%8C%23) — 27.8万 · 新
-9. [数说中国海洋经济动力澎湃](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%8A%A8%E5%8A%9B%E6%BE%8E%E6%B9%83%23) — 27.8万
-10. [JackeyLove带队扳回一城](https://s.weibo.com/weibo?q=%23JackeyLove%E5%B8%A6%E9%98%9F%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E%23) — 27.8万 · 新
+1. [TES战胜BLG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG) — 202万 · 新
+2. [柜员手误多打个0储户称离柜不负责](https://s.weibo.com/weibo?q=%23%E6%9F%9C%E5%91%98%E6%89%8B%E8%AF%AF%E5%A4%9A%E6%89%93%E4%B8%AA0%E5%82%A8%E6%88%B7%E7%A7%B0%E7%A6%BB%E6%9F%9C%E4%B8%8D%E8%B4%9F%E8%B4%A3%23) — 135.9万 · 新
+3. [全面从严治党是全党的共同责任](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E6%98%AF%E5%85%A8%E5%85%9A%E7%9A%84%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB%23) — 74万
+4. [养猫后明白了辱追心理](https://s.weibo.com/weibo?q=%E5%85%BB%E7%8C%AB%E5%90%8E%E6%98%8E%E7%99%BD%E4%BA%86%E8%BE%B1%E8%BF%BD%E5%BF%83%E7%90%86) — 61万
+5. [TES晋级S16淘汰赛](https://s.weibo.com/weibo?q=TES%E6%99%8B%E7%BA%A7S16%E6%B7%98%E6%B1%B0%E8%B5%9B) — 29.4万 · 新
+6. [JackeyLove带队扳回一城](https://s.weibo.com/weibo?q=%23JackeyLove%E5%B8%A6%E9%98%9F%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E%23) — 29.3万 · 新
+7. [369单杀Knight](https://s.weibo.com/weibo?q=%23369%E5%8D%95%E6%9D%80Knight%23) — 29.3万 · 新
+8. [苹果高管回应iPadmini8被锁60Hz](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94iPadmini8%E8%A2%AB%E9%94%8160Hz%23) — 29.2万 · 新
+9. [数说中国海洋经济动力澎湃](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%8A%A8%E5%8A%9B%E6%BE%8E%E6%B9%83%23) — 29.1万
+10. [开拓者官宣执行杨瀚森第三年合同](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8B%93%E8%80%85%E5%AE%98%E5%AE%A3%E6%89%A7%E8%A1%8C%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%AC%AC%E4%B8%89%E5%B9%B4%E5%90%88%E5%90%8C%23) — 29万 · 新
 
 ### 抖音
 
-1. [中共中央30日上午举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE30%E6%97%A5%E4%B8%8A%E5%8D%88%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1216.2万
-2. [中国U17女足首进世界杯8强](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA) — 1100.9万
-3. [持之以恒推进全面从严治党](https://www.douyin.com/search/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A) — 1087.5万
-4. [国防部回应美日近期军演](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%97%A5%E8%BF%91%E6%9C%9F%E5%86%9B%E6%BC%94) — 1084.9万
-5. [国防部称"以台制华"必付沉重代价](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%22%E4%BB%A5%E5%8F%B0%E5%88%B6%E5%8D%8E%22%E5%BF%85%E4%BB%98%E6%B2%89%E9%87%8D%E4%BB%A3%E4%BB%B7) — 1026.2万
-6. [中国电影出海步伐加快](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%87%BA%E6%B5%B7%E6%AD%A5%E4%BC%90%E5%8A%A0%E5%BF%AB) — 834.6万
-7. [寻味城市招牌美食](https://www.douyin.com/search/%E5%AF%BB%E5%91%B3%E5%9F%8E%E5%B8%82%E6%8B%9B%E7%89%8C%E7%BE%8E%E9%A3%9F) — 803万
-8. [TES战胜BLG晋级八强](https://www.douyin.com/search/TES%E6%88%98%E8%83%9CBLG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA) — 776.3万
-9. [造山女团的阿姨们太有劲了](https://www.douyin.com/search/%E9%80%A0%E5%B1%B1%E5%A5%B3%E5%9B%A2%E7%9A%84%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%A4%AA%E6%9C%89%E5%8A%B2%E4%BA%86) — 776万
-10. [纯稚恨是铺天盖地的委屈](https://www.douyin.com/search/%E7%BA%AF%E7%A8%9A%E6%81%A8%E6%98%AF%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0%E7%9A%84%E5%A7%94%E5%B1%88) — 775.1万
+1. [中共中央30日上午举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE30%E6%97%A5%E4%B8%8A%E5%8D%88%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1216.3万
+2. [国防部回应美日近期军演](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%97%A5%E8%BF%91%E6%9C%9F%E5%86%9B%E6%BC%94) — 1099.3万
+3. [持之以恒推进全面从严治党](https://www.douyin.com/search/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A) — 1091.4万
+4. [中国U17女足首进世界杯8强](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA) — 1086.9万
+5. [国防部称"以台制华"必付沉重代价](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%22%E4%BB%A5%E5%8F%B0%E5%88%B6%E5%8D%8E%22%E5%BF%85%E4%BB%98%E6%B2%89%E9%87%8D%E4%BB%A3%E4%BB%B7) — 1026.1万
+6. [中国电影出海步伐加快](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%87%BA%E6%B5%B7%E6%AD%A5%E4%BC%90%E5%8A%A0%E5%BF%AB) — 832.5万
+7. [寻味城市招牌美食](https://www.douyin.com/search/%E5%AF%BB%E5%91%B3%E5%9F%8E%E5%B8%82%E6%8B%9B%E7%89%8C%E7%BE%8E%E9%A3%9F) — 803.5万
+8. [TES战胜BLG晋级八强](https://www.douyin.com/search/TES%E6%88%98%E8%83%9CBLG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA) — 775.9万
+9. [纯稚恨是铺天盖地的委屈](https://www.douyin.com/search/%E7%BA%AF%E7%A8%9A%E6%81%A8%E6%98%AF%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0%E7%9A%84%E5%A7%94%E5%B1%88) — 775.7万
+10. [听完大麦哥关于“什么是爱情”](https://www.douyin.com/search/%E5%90%AC%E5%AE%8C%E5%A4%A7%E9%BA%A6%E5%93%A5%E5%85%B3%E4%BA%8E%E2%80%9C%E4%BB%80%E4%B9%88%E6%98%AF%E7%88%B1%E6%83%85%E2%80%9D) — 775.6万
 
 ### 小红书
 
