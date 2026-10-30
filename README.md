@@ -74,6 +74,12 @@ go run ./cmd/hot-search-crawler crawl --update-readme
 go run ./cmd/hot-search-crawler crawl --dry-run
 ```
 
+也可以直接安装：
+
+```bash
+go install github.com/solarhell/hot-search-crawler/cmd/hot-search-crawler@latest
+```
+
 构建二进制：
 
 ```bash
