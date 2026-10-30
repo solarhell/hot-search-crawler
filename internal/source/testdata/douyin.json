@@ -1,0 +1,32 @@
+{
+  "status_code": 0,
+  "data": {
+    "word_list": [
+      {
+        "word": "中共中央30日上午举行新闻发布会",
+        "hot_value": 12159378,
+        "position": 1,
+        "label": 3,
+        "event_time": 1793268093,
+        "video_count": 7,
+        "discuss_video_count": 1,
+        "sentence_id": "2719825"
+      },
+      {
+        "word": "中国U17女足首进世界杯8强",
+        "hot_value": 11001107,
+        "position": 2,
+        "label": 1,
+        "event_time": 1793268000,
+        "video_count": 0,
+        "discuss_video_count": 0,
+        "sentence_id": "2719826"
+      },
+      {
+        "word": "",
+        "hot_value": 0,
+        "position": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ok": 1,
+  "data": {
+    "realtime": [
+      {
+        "word": "TES战胜BLG",
+        "word_scheme": "TES战胜BLG",
+        "num": 2066277,
+        "label_name": "新",
+        "flag_desc": "新",
+        "is_ad": 0
+      },
+      {
+        "word": "柜员手误多打个0储户称离柜不负责",
+        "word_scheme": "#柜员手误多打个0储户称离柜不负责#",
+        "num": 996423,
+        "label_name": "新",
+        "is_ad": 0
+      },
+      {
+        "word": "双11必买榜上淘宝跟着买",
+        "word_scheme": "#双11必买榜上淘宝跟着买#",
+        "num": 759900,
+        "is_ad": 1
+      }
+    ]
+  }
+}
