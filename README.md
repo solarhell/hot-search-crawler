@@ -5,20 +5,20 @@
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-10-30 16:32**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-10-30 23:51**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [TES战胜BLG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG) — 194.5万 · 新
-2. [柜员手误多打个0储户称离柜不负责](https://s.weibo.com/weibo?q=%23%E6%9F%9C%E5%91%98%E6%89%8B%E8%AF%AF%E5%A4%9A%E6%89%93%E4%B8%AA0%E5%82%A8%E6%88%B7%E7%A7%B0%E7%A6%BB%E6%9F%9C%E4%B8%8D%E8%B4%9F%E8%B4%A3%23) — 136.5万 · 新
-3. [几个糊咖 几十倍杀](https://s.weibo.com/weibo?q=%E5%87%A0%E4%B8%AA%E7%B3%8A%E5%92%96+%E5%87%A0%E5%8D%81%E5%80%8D%E6%9D%80) — 107.8万 · 新
-4. [姆巴佩曾代言饮品清理剩余库存](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%9B%BE%E4%BB%A3%E8%A8%80%E9%A5%AE%E5%93%81%E6%B8%85%E7%90%86%E5%89%A9%E4%BD%99%E5%BA%93%E5%AD%98%23) — 105.2万 · 新
-5. [新时代全面从严治党伟大成就](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E4%BC%9F%E5%A4%A7%E6%88%90%E5%B0%B1%23) — 103.2万
-6. [男子会所按摩睡着遭技师侵犯已立案](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BC%9A%E6%89%80%E6%8C%89%E6%91%A9%E7%9D%A1%E7%9D%80%E9%81%AD%E6%8A%80%E5%B8%88%E4%BE%B5%E7%8A%AF%E5%B7%B2%E7%AB%8B%E6%A1%88%23) — 100万 · 新
-7. [白小纯 青稚](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A) — 97.7万 · 新
-8. [甲硝唑磨粉治鼻炎医生都懵了](https://s.weibo.com/weibo?q=%23%E7%94%B2%E7%A1%9D%E5%94%91%E7%A3%A8%E7%B2%89%E6%B2%BB%E9%BC%BB%E7%82%8E%E5%8C%BB%E7%94%9F%E9%83%BD%E6%87%B5%E4%BA%86%23) — 96.3万
-9. [Viper BLG语音](https://s.weibo.com/weibo?q=Viper+BLG%E8%AF%AD%E9%9F%B3) — 91.7万 · 新
-10. [披荆斩棘总决赛妆造](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%B3%E8%B5%9B%E5%A6%86%E9%80%A0%23) — 88.6万 · 新
+1. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95) — 323.5万 · 新
+2. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 240.5万 · 新
+3. [TES战胜BLG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG) — 194.5万 · 新
+4. [柜员手误多打个0储户称离柜不负责](https://s.weibo.com/weibo?q=%23%E6%9F%9C%E5%91%98%E6%89%8B%E8%AF%AF%E5%A4%9A%E6%89%93%E4%B8%AA0%E5%82%A8%E6%88%B7%E7%A7%B0%E7%A6%BB%E6%9F%9C%E4%B8%8D%E8%B4%9F%E8%B4%A3%23) — 136.5万 · 新
+5. [几个糊咖 几十倍杀](https://s.weibo.com/weibo?q=%E5%87%A0%E4%B8%AA%E7%B3%8A%E5%92%96+%E5%87%A0%E5%8D%81%E5%80%8D%E6%9D%80) — 107.8万 · 新
+6. [姆巴佩曾代言饮品清理剩余库存](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%9B%BE%E4%BB%A3%E8%A8%80%E9%A5%AE%E5%93%81%E6%B8%85%E7%90%86%E5%89%A9%E4%BD%99%E5%BA%93%E5%AD%98%23) — 105.2万 · 新
+7. [新时代全面从严治党伟大成就](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E4%BC%9F%E5%A4%A7%E6%88%90%E5%B0%B1%23) — 103.2万
+8. [男子会所按摩睡着遭技师侵犯已立案](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BC%9A%E6%89%80%E6%8C%89%E6%91%A9%E7%9D%A1%E7%9D%80%E9%81%AD%E6%8A%80%E5%B8%88%E4%BE%B5%E7%8A%AF%E5%B7%B2%E7%AB%8B%E6%A1%88%23) — 100万 · 新
+9. [白小纯 青稚](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A) — 97.7万 · 新
+10. [甲硝唑磨粉治鼻炎医生都懵了](https://s.weibo.com/weibo?q=%23%E7%94%B2%E7%A1%9D%E5%94%91%E7%A3%A8%E7%B2%89%E6%B2%BB%E9%BC%BB%E7%82%8E%E5%8C%BB%E7%94%9F%E9%83%BD%E6%87%B5%E4%BA%86%23) — 96.3万
 
 ### 抖音
 
@@ -26,12 +26,12 @@
 2. [中共中央举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1210.7万
 3. [比冬天先来的是一顿热火锅](https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85) — 1168.7万
 4. [党的二十届五中全会公报一图速览](https://www.douyin.com/search/%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88) — 1153万
-5. [中国U17女足首进世界杯8强](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA) — 1120.6万
-6. [国防部回应美日近期军演](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%97%A5%E8%BF%91%E6%9C%9F%E5%86%9B%E6%BC%94) — 1101.2万
-7. [持之以恒推进全面从严治党](https://www.douyin.com/search/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A) — 1095.1万
-8. [国防部称遵义舰从容应对侵权挑衅](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E9%81%B5%E4%B9%89%E8%88%B0%E4%BB%8E%E5%AE%B9%E5%BA%94%E5%AF%B9%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85) — 1054.6万
-9. [国防部称"以台制华"必付沉重代价](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%22%E4%BB%A5%E5%8F%B0%E5%88%B6%E5%8D%8E%22%E5%BF%85%E4%BB%98%E6%B2%89%E9%87%8D%E4%BB%A3%E4%BB%B7) — 1026万
-10. [369说打瓦真的有用](https://www.douyin.com/search/369%E8%AF%B4%E6%89%93%E7%93%A6%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8) — 915.8万
+5. [攻击-21无人机在四川舰成功起降](https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D) — 1135.5万
+6. [中国U17女足首进世界杯8强](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA) — 1120.6万
+7. [不怕远征难](https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE) — 1111.6万
+8. [国防部回应美日近期军演](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%97%A5%E8%BF%91%E6%9C%9F%E5%86%9B%E6%BC%94) — 1101.2万
+9. [持之以恒推进全面从严治党](https://www.douyin.com/search/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A) — 1095.1万
+10. [国防部称遵义舰从容应对侵权挑衅](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E9%81%B5%E4%B9%89%E8%88%B0%E4%BB%8E%E5%AE%B9%E5%BA%94%E5%AF%B9%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85) — 1054.6万
 
 ### 小红书
 
