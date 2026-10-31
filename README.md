@@ -5,33 +5,33 @@
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-10-31 04:42**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-10-31 08:43**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 29.6万 · 热
-2. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95) — 11.1万 · 沸
-3. [开创新时代管党治党兴党强党新局面](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23) — 7.7万
-4. [小沈阳披荆斩棘冠军](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23) — 7万 · 热
-5. [马天宇劝文吉儿不要做的太绝情](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%8A%9D%E6%96%87%E5%90%89%E5%84%BF%E4%B8%8D%E8%A6%81%E5%81%9A%E7%9A%84%E5%A4%AA%E7%BB%9D%E6%83%85%23) — 6.9万 · 热
-6. [宋慧乔是宋仲基的逆鳞](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%98%AF%E5%AE%8B%E4%BB%B2%E5%9F%BA%E7%9A%84%E9%80%86%E9%B3%9E%23) — 6.8万 · 热
-7. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 5.6万
-8. [披荆斩棘历届总冠军](https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%8E%86%E5%B1%8A%E6%80%BB%E5%86%A0%E5%86%9B%23) — 5.4万 · 综艺
-9. [英特尔跌30%市值蒸发近1500亿美元](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C30%25%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%BF%911500%E4%BA%BF%E7%BE%8E%E5%85%83%23) — 5.4万
-10. [今年全国实现生娃基本不花钱](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%23) — 5.2万
+1. [吾恩去世](https://s.weibo.com/weibo?q=%E5%90%BE%E6%81%A9%E5%8E%BB%E4%B8%96) — 132.8万 · 新
+2. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 95.5万 · 热
+3. [开创新时代管党治党兴党强党新局面](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23) — 71万
+4. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95) — 37.5万 · 沸
+5. [今年全国实现生娃基本不花钱](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%23) — 32.6万
+6. [小沈阳披荆斩棘冠军](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23) — 32.4万 · 热
+7. [以色列女演员直播翻车当场离席](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E6%BC%94%E5%91%98%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%E5%BD%93%E5%9C%BA%E7%A6%BB%E5%B8%AD%23) — 25.9万
+8. [BLG晋级S16八强难度骤降](https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S16%E5%85%AB%E5%BC%BA%E9%9A%BE%E5%BA%A6%E9%AA%A4%E9%99%8D%23) — 23.5万 · 新
+9. [Zeus神王回归](https://s.weibo.com/weibo?q=%23Zeus%E7%A5%9E%E7%8E%8B%E5%9B%9E%E5%BD%92%23) — 22.4万 · 新
+10. [小城良方品牌方攀比起来了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%93%81%E7%89%8C%E6%96%B9%E6%94%80%E6%AF%94%E8%B5%B7%E6%9D%A5%E4%BA%86%23) — 20万 · 新
 
 ### 抖音
 
-1. [中共中央举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1128.3万
-2. [攻击-21无人机在四川舰成功起降](https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D) — 1113.5万
-3. [不怕远征难](https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE) — 1110万
-4. [比冬天先来的是一顿热火锅](https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85) — 1109.9万
-5. [落日与风能发电机同框太治愈](https://www.douyin.com/search/%E8%90%BD%E6%97%A5%E4%B8%8E%E9%A3%8E%E8%83%BD%E5%8F%91%E7%94%B5%E6%9C%BA%E5%90%8C%E6%A1%86%E5%A4%AA%E6%B2%BB%E6%84%88) — 1053.7万
-6. [解放军霸气喊话菲律宾军机](https://www.douyin.com/search/%E8%A7%A3%E6%94%BE%E5%86%9B%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%86%9B%E6%9C%BA) — 1053.4万
-7. [10架美军机飞抵以色列空军基地](https://www.douyin.com/search/10%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E9%A3%9E%E6%8A%B5%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0) — 941.2万
-8. [中国U17女足首进世界杯8强](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA) — 940.9万
-9. [南部战区海空兵力黄岩岛战备警巡](https://www.douyin.com/search/%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E6%B5%B7%E7%A9%BA%E5%85%B5%E5%8A%9B%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1) — 936万
-10. [国防部称遵义舰从容应对侵权挑衅](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E9%81%B5%E4%B9%89%E8%88%B0%E4%BB%8E%E5%AE%B9%E5%BA%94%E5%AF%B9%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85) — 934.3万
+1. [冬天奶茶要挖着吃才满足](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%8C%96%E7%9D%80%E5%90%83%E6%89%8D%E6%BB%A1%E8%B6%B3) — 1146.5万
+2. [中国稀土筹划重大资产重组](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%AD%B9%E5%88%92%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84) — 1129.7万
+3. [中共中央举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1128.3万
+4. [攻击-21无人机在四川舰成功起降](https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D) — 1113.5万
+5. [不怕远征难](https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE) — 1110万
+6. [比冬天先来的是一顿热火锅](https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85) — 1109.9万
+7. [二十届五中全会公报一图速览](https://www.douyin.com/search/%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88) — 1102.3万
+8. [落日与风能发电机同框太治愈](https://www.douyin.com/search/%E8%90%BD%E6%97%A5%E4%B8%8E%E9%A3%8E%E8%83%BD%E5%8F%91%E7%94%B5%E6%9C%BA%E5%90%8C%E6%A1%86%E5%A4%AA%E6%B2%BB%E6%84%88) — 1053.7万
+9. [解放军霸气喊话菲律宾军机](https://www.douyin.com/search/%E8%A7%A3%E6%94%BE%E5%86%9B%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%86%9B%E6%9C%BA) — 1053.4万
+10. [梁靖崑3:2逆转西蒙高茨](https://www.douyin.com/search/%E6%A2%81%E9%9D%96%E5%B4%913:2%E9%80%86%E8%BD%AC%E8%A5%BF%E8%92%99%E9%AB%98%E8%8C%A8) — 1027.5万
 
 ### 小红书
 

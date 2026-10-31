@@ -1,143 +1,150 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T04:42:31.670237024+08:00",
+  "generated_at": "2026-10-31T08:43:32.360262014+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-10-31T04:42:32.569513592+08:00",
-      "elapsed_ms": 899,
+      "fetched_at": "2026-10-31T08:43:33.26252207+08:00",
+      "elapsed_ms": 902,
       "items": [
         {
           "rank": 1,
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
-          "hot": 296090,
-          "tag": "热"
+          "title": "吾恩去世",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%BE%E6%81%A9%E5%8E%BB%E4%B8%96",
+          "hot": 1327724,
+          "tag": "新"
         },
         {
           "rank": 2,
-          "title": "披荆斩棘成团名单",
-          "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
-          "hot": 111227,
-          "tag": "沸"
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+          "hot": 955356
         },
         {
           "rank": 3,
           "title": "开创新时代管党治党兴党强党新局面",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23",
-          "hot": 76746
+          "hot": 709836
         },
         {
           "rank": 4,
-          "title": "小沈阳披荆斩棘冠军",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23",
-          "hot": 70027,
-          "tag": "热"
-        },
-        {
-          "rank": 5,
-          "title": "马天宇劝文吉儿不要做的太绝情",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%8A%9D%E6%96%87%E5%90%89%E5%84%BF%E4%B8%8D%E8%A6%81%E5%81%9A%E7%9A%84%E5%A4%AA%E7%BB%9D%E6%83%85%23",
-          "hot": 68687,
-          "tag": "热"
-        },
-        {
-          "rank": 6,
-          "title": "宋慧乔是宋仲基的逆鳞",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%98%AF%E5%AE%8B%E4%BB%B2%E5%9F%BA%E7%9A%84%E9%80%86%E9%B3%9E%23",
-          "hot": 67929,
-          "tag": "热"
-        },
-        {
-          "rank": 7,
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1",
-          "hot": 55611
-        },
-        {
-          "rank": 8,
-          "title": "披荆斩棘历届总冠军",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%8E%86%E5%B1%8A%E6%80%BB%E5%86%A0%E5%86%9B%23",
-          "hot": 54149,
+          "title": "披荆斩棘成团名单",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95",
+          "hot": 375066,
           "tag": "综艺"
         },
         {
+          "rank": 5,
+          "title": "今年全国实现生娃基本不花钱",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%23",
+          "hot": 325720
+        },
+        {
+          "rank": 6,
+          "title": "小沈阳披荆斩棘冠军",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23",
+          "hot": 323842,
+          "tag": "综艺"
+        },
+        {
+          "rank": 7,
+          "title": "以色列女演员直播翻车当场离席",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E6%BC%94%E5%91%98%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%E5%BD%93%E5%9C%BA%E7%A6%BB%E5%B8%AD%23",
+          "hot": 258627
+        },
+        {
+          "rank": 8,
+          "title": "BLG晋级S16八强难度骤降",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S16%E5%85%AB%E5%BC%BA%E9%9A%BE%E5%BA%A6%E9%AA%A4%E9%99%8D%23",
+          "hot": 235145,
+          "tag": "新"
+        },
+        {
           "rank": 9,
-          "title": "英特尔跌30%市值蒸发近1500亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C30%25%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%BF%911500%E4%BA%BF%E7%BE%8E%E5%85%83%23",
-          "hot": 53510
+          "title": "Zeus神王回归",
+          "url": "https://s.weibo.com/weibo?q=%23Zeus%E7%A5%9E%E7%8E%8B%E5%9B%9E%E5%BD%92%23",
+          "hot": 223532,
+          "tag": "新"
         },
         {
           "rank": 10,
-          "title": "今年全国实现生娃基本不花钱",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%23",
-          "hot": 52442
+          "title": "小城良方品牌方攀比起来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%93%81%E7%89%8C%E6%96%B9%E6%94%80%E6%AF%94%E8%B5%B7%E6%9D%A5%E4%BA%86%23",
+          "hot": 199544,
+          "tag": "新"
         },
         {
           "rank": 11,
-          "title": "赵丽颖不鸣则已一鸣惊人",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E9%B8%A3%E5%88%99%E5%B7%B2%E4%B8%80%E9%B8%A3%E6%83%8A%E4%BA%BA%23",
-          "hot": 52419,
-          "tag": "热"
+          "title": "宋仲基宋慧乔当初离婚的原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%AE%8B%E6%85%A7%E4%B9%94%E5%BD%93%E5%88%9D%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
+          "hot": 198997,
+          "tag": "新"
         },
         {
           "rank": 12,
-          "title": "我觉得我都要爱上厉娜了",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E9%83%BD%E8%A6%81%E7%88%B1%E4%B8%8A%E5%8E%89%E5%A8%9C%E4%BA%86",
-          "hot": 52157,
+          "title": "赵丽颖不鸣则已一鸣惊人",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8D%E9%B8%A3%E5%88%99%E5%B7%B2%E4%B8%80%E9%B8%A3%E6%83%8A%E4%BA%BA%23",
+          "hot": 197795,
           "tag": "热"
         },
         {
           "rank": 13,
-          "title": "姜乘澜结婚了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%BB%93%E5%A9%9A%E4%BA%86%23",
-          "hot": 52012
+          "title": "波兰",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%85%B0",
+          "hot": 197054,
+          "tag": "新"
         },
         {
           "rank": 14,
-          "title": "肖战退后一步的动作熟练得让人心疼",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%80%80%E5%90%8E%E4%B8%80%E6%AD%A5%E7%9A%84%E5%8A%A8%E4%BD%9C%E7%86%9F%E7%BB%83%E5%BE%97%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23",
-          "hot": 51996
+          "title": "黄金又大跳水了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E5%A4%A7%E8%B7%B3%E6%B0%B4%E4%BA%86%23",
+          "hot": 196136,
+          "tag": "新"
         },
         {
           "rank": 15,
-          "title": "付辛博这段发言可以去后会友期了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%BE%9B%E5%8D%9A%E8%BF%99%E6%AE%B5%E5%8F%91%E8%A8%80%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%BA%86%23",
-          "hot": 51854,
-          "tag": "综艺"
+          "title": "曹骏成团",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%B9%E9%AA%8F%E6%88%90%E5%9B%A2",
+          "hot": 194698,
+          "tag": "新"
         },
         {
           "rank": 16,
-          "title": "西甲主席或亲自来华道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%94%B2%E4%B8%BB%E5%B8%AD%E6%88%96%E4%BA%B2%E8%87%AA%E6%9D%A5%E5%8D%8E%E9%81%93%E6%AD%89%23",
-          "hot": 51720
+          "title": "宋慧乔是宋仲基的逆鳞",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%98%AF%E5%AE%8B%E4%BB%B2%E5%9F%BA%E7%9A%84%E9%80%86%E9%B3%9E%23",
+          "hot": 193631,
+          "tag": "热"
         },
         {
           "rank": 17,
-          "title": "金银杀跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E6%9D%80%E8%B7%8C%E5%8E%9F%E5%9B%A0%23",
-          "hot": 48704
+          "title": "A股 半导体",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1+%E5%8D%8A%E5%AF%BC%E4%BD%93",
+          "hot": 192784,
+          "tag": "新"
         },
         {
           "rank": 18,
-          "title": "次仁拉姆逝世",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A1%E4%BB%81%E6%8B%89%E5%A7%86%E9%80%9D%E4%B8%96%23",
-          "hot": 47301
+          "title": "曝文吉儿的书有三个人写序",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E4%B9%A6%E6%9C%89%E4%B8%89%E4%B8%AA%E4%BA%BA%E5%86%99%E5%BA%8F%23",
+          "hot": 191897,
+          "tag": "新"
         },
         {
           "rank": 19,
-          "title": "英特尔",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%89%B9%E5%B0%94",
-          "hot": 44337
+          "title": "周启豪3比1F勒布伦",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%90%AF%E8%B1%AA3%E6%AF%941F%E5%8B%92%E5%B8%83%E4%BC%A6%23",
+          "hot": 190862,
+          "tag": "新"
         },
         {
           "rank": 20,
-          "title": "蔡磊妻子落泪称不甘心",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%A6%BB%E5%AD%90%E8%90%BD%E6%B3%AA%E7%A7%B0%E4%B8%8D%E7%94%98%E5%BF%83",
-          "hot": 40820
+          "title": "苹果智能国行12月拟正式上线",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E5%9B%BD%E8%A1%8C12%E6%9C%88%E6%8B%9F%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23",
+          "hot": 166696,
+          "tag": "新"
         }
       ]
     },
@@ -145,39 +152,38 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-10-31T04:42:33.011920577+08:00",
-      "elapsed_ms": 1341,
+      "fetched_at": "2026-10-31T08:43:34.374544218+08:00",
+      "elapsed_ms": 2014,
       "items": [
         {
           "rank": 1,
-          "title": "中共中央举行新闻发布会",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "hot": 11282706,
+          "title": "冬天奶茶要挖着吃才满足",
+          "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%8C%96%E7%9D%80%E5%90%83%E6%89%8D%E6%BB%A1%E8%B6%B3",
+          "hot": 11464511,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793268093,
-            "sentence_id": "2719825",
-            "video_count": 8
+            "event_time": 1793337690,
+            "sentence_id": "2720819",
+            "video_count": 3
           }
         },
         {
           "rank": 2,
-          "title": "攻击-21无人机在四川舰成功起降",
-          "url": "https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D",
-          "hot": 11135486,
+          "title": "中国稀土筹划重大资产重组",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%AD%B9%E5%88%92%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84",
+          "hot": 11296625,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793350774,
-            "label": 3,
-            "sentence_id": "2721373",
-            "video_count": 9
+            "event_time": 1793367092,
+            "sentence_id": "2721882",
+            "video_count": 1
           }
         },
         {
           "rank": 3,
           "title": "不怕远征难",
           "url": "https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE",
-          "hot": 11100238,
+          "hot": 11043995,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793360683,
@@ -188,97 +194,9 @@
         },
         {
           "rank": 4,
-          "title": "比冬天先来的是一顿热火锅",
-          "url": "https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85",
-          "hot": 11098663,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793332984,
-            "label": 3,
-            "sentence_id": "2720702",
-            "video_count": 3
-          }
-        },
-        {
-          "rank": 5,
-          "title": "落日与风能发电机同框太治愈",
-          "url": "https://www.douyin.com/search/%E8%90%BD%E6%97%A5%E4%B8%8E%E9%A3%8E%E8%83%BD%E5%8F%91%E7%94%B5%E6%9C%BA%E5%90%8C%E6%A1%86%E5%A4%AA%E6%B2%BB%E6%84%88",
-          "hot": 10537077,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793353142,
-            "label": 3,
-            "sentence_id": "2721515",
-            "video_count": 3
-          }
-        },
-        {
-          "rank": 6,
-          "title": "解放军霸气喊话菲律宾军机",
-          "url": "https://www.douyin.com/search/%E8%A7%A3%E6%94%BE%E5%86%9B%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%86%9B%E6%9C%BA",
-          "hot": 10533824,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793347591,
-            "label": 3,
-            "sentence_id": "2721276",
-            "video_count": 1
-          }
-        },
-        {
-          "rank": 7,
-          "title": "10架美军机飞抵以色列空军基地",
-          "url": "https://www.douyin.com/search/10%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E9%A3%9E%E6%8A%B5%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0",
-          "hot": 9411965,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793316016,
-            "sentence_id": "2720350",
-            "video_count": 7
-          }
-        },
-        {
-          "rank": 8,
-          "title": "中国U17女足首进世界杯8强",
-          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA",
-          "hot": 9408892,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793315077,
-            "sentence_id": "2720335",
-            "video_count": 5
-          }
-        },
-        {
-          "rank": 9,
-          "title": "南部战区海空兵力黄岩岛战备警巡",
-          "url": "https://www.douyin.com/search/%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E6%B5%B7%E7%A9%BA%E5%85%B5%E5%8A%9B%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1",
-          "hot": 9359996,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793346021,
-            "label": 3,
-            "sentence_id": "2721201",
-            "video_count": 5
-          }
-        },
-        {
-          "rank": 10,
-          "title": "国防部称遵义舰从容应对侵权挑衅",
-          "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E9%81%B5%E4%B9%89%E8%88%B0%E4%BB%8E%E5%AE%B9%E5%BA%94%E5%AF%B9%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85",
-          "hot": 9342874,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793326417,
-            "sentence_id": "2720500",
-            "video_count": 2
-          }
-        },
-        {
-          "rank": 11,
           "title": "二十届五中全会公报一图速览",
           "url": "https://www.douyin.com/search/%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88",
-          "hot": 9333895,
+          "hot": 11022789,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793347521,
@@ -287,48 +205,109 @@
           }
         },
         {
-          "rank": 12,
-          "title": "涉“那曲巴青地震”谣言案例",
-          "url": "https://www.douyin.com/search/%E6%B6%89%E2%80%9C%E9%82%A3%E6%9B%B2%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E2%80%9D%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B",
-          "hot": 9118389,
+          "rank": 5,
+          "title": "梁靖崑3:2逆转西蒙高茨",
+          "url": "https://www.douyin.com/search/%E6%A2%81%E9%9D%96%E5%B4%913:2%E9%80%86%E8%BD%AC%E8%A5%BF%E8%92%99%E9%AB%98%E8%8C%A8",
+          "hot": 10274956,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793359918,
-            "label": 16,
-            "sentence_id": "2721709",
+            "event_time": 1793373148,
+            "sentence_id": "2722018",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 6,
+          "title": "攻击-21无人机在四川舰成功起降",
+          "url": "https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D",
+          "hot": 9174807,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793350774,
+            "sentence_id": "2721373",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 7,
+          "title": "HLE战胜G2",
+          "url": "https://www.douyin.com/search/HLE%E6%88%98%E8%83%9CG2",
+          "hot": 8590464,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793371286,
+            "label": 3,
+            "sentence_id": "2721992",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 8,
+          "title": "陈熠3:0王曼昱",
+          "url": "https://www.douyin.com/search/%E9%99%88%E7%86%A03:0%E7%8E%8B%E6%9B%BC%E6%98%B1",
+          "hot": 8222642,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793361110,
+            "sentence_id": "2721742",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 9,
+          "title": "匿名玩家导演王巍在抖音有问必答",
+          "url": "https://www.douyin.com/search/%E5%8C%BF%E5%90%8D%E7%8E%A9%E5%AE%B6%E5%AF%BC%E6%BC%94%E7%8E%8B%E5%B7%8D%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%9C%89%E9%97%AE%E5%BF%85%E7%AD%94",
+          "hot": 7830010,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793355441,
+            "label": 8,
+            "sentence_id": "2721599",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 10,
+          "title": "国防部：台湾问题外部势力无权干涉",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%A4%96%E9%83%A8%E5%8A%BF%E5%8A%9B%E6%97%A0%E6%9D%83%E5%B9%B2%E6%B6%89",
+          "hot": 7824788,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793330353,
+            "sentence_id": "2720621",
             "video_count": 4
           }
         },
         {
-          "rank": 13,
-          "title": "G2对战HLE",
-          "url": "https://www.douyin.com/search/G2%E5%AF%B9%E6%88%98HLE",
-          "hot": 8821927,
+          "rank": 11,
+          "title": "姜乘澜回忆小时候的妈妈",
+          "url": "https://www.douyin.com/search/%E5%A7%9C%E4%B9%98%E6%BE%9C%E5%9B%9E%E5%BF%86%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E5%A6%88%E5%A6%88",
+          "hot": 7818510,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793371286,
-            "sentence_id": "2721992",
-            "video_count": 5
-          }
-        },
-        {
-          "rank": 14,
-          "title": "披荆斩棘2026总决赛",
-          "url": "https://www.douyin.com/search/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%982026%E6%80%BB%E5%86%B3%E8%B5%9B",
-          "hot": 8704233,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793361179,
+            "event_time": 1793366569,
             "label": 3,
-            "sentence_id": "2721744",
-            "video_count": 6
+            "sentence_id": "2721870",
+            "video_count": 1
           }
         },
         {
-          "rank": 15,
+          "rank": 12,
+          "title": "林丹杯桃田贤斗击败羊洋洋",
+          "url": "https://www.douyin.com/search/%E6%9E%97%E4%B8%B9%E6%9D%AF%E6%A1%83%E7%94%B0%E8%B4%A4%E6%96%97%E5%87%BB%E8%B4%A5%E7%BE%8A%E6%B4%8B%E6%B4%8B",
+          "hot": 7796787,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793358950,
+            "sentence_id": "2721695",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 13,
           "title": "复仇者联盟进入氛围感时代",
           "url": "https://www.douyin.com/search/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F%E8%BF%9B%E5%85%A5%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%97%B6%E4%BB%A3",
-          "hot": 8697275,
+          "hot": 7782339,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793350689,
@@ -338,36 +317,10 @@
           }
         },
         {
-          "rank": 16,
-          "title": "我家有只可爱鬼",
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%AE%B6%E6%9C%89%E5%8F%AA%E5%8F%AF%E7%88%B1%E9%AC%BC",
-          "hot": 8300340,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793334839,
-            "label": 9,
-            "sentence_id": "2720753",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 17,
-          "title": "AI珍珠圣女妆",
-          "url": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86",
-          "hot": 8243151,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793341728,
-            "label": 9,
-            "sentence_id": "2720954",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 18,
+          "rank": 14,
           "title": "星穹铁道4.7版本前瞻",
           "url": "https://www.douyin.com/search/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%934.7%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB",
-          "hot": 7935581,
+          "hot": 7782142,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793372174,
@@ -376,10 +329,23 @@
           }
         },
         {
-          "rank": 19,
+          "rank": 15,
+          "title": "披荆斩棘2026滚烫家族名单",
+          "url": "https://www.douyin.com/search/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%982026%E6%BB%9A%E7%83%AB%E5%AE%B6%E6%97%8F%E5%90%8D%E5%8D%95",
+          "hot": 7779016,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793401341,
+            "label": 13,
+            "sentence_id": "2722032",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 16,
           "title": "星游记官宣正式重启",
           "url": "https://www.douyin.com/search/%E6%98%9F%E6%B8%B8%E8%AE%B0%E5%AE%98%E5%AE%A3%E6%AD%A3%E5%BC%8F%E9%87%8D%E5%90%AF",
-          "hot": 7917883,
+          "hot": 7778982,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793354958,
@@ -389,16 +355,54 @@
           }
         },
         {
-          "rank": 20,
-          "title": "匿名玩家导演王巍在抖音有问必答",
-          "url": "https://www.douyin.com/search/%E5%8C%BF%E5%90%8D%E7%8E%A9%E5%AE%B6%E5%AF%BC%E6%BC%94%E7%8E%8B%E5%B7%8D%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%9C%89%E9%97%AE%E5%BF%85%E7%AD%94",
-          "hot": 7915936,
+          "rank": 17,
+          "title": "满地落叶的操场上是热热闹闹的童年",
+          "url": "https://www.douyin.com/search/%E6%BB%A1%E5%9C%B0%E8%90%BD%E5%8F%B6%E7%9A%84%E6%93%8D%E5%9C%BA%E4%B8%8A%E6%98%AF%E7%83%AD%E7%83%AD%E9%97%B9%E9%97%B9%E7%9A%84%E7%AB%A5%E5%B9%B4",
+          "hot": 7778796,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793355441,
-            "label": 8,
-            "sentence_id": "2721599",
+            "event_time": 1793342961,
+            "label": 3,
+            "sentence_id": "2721051",
             "video_count": 3
+          }
+        },
+        {
+          "rank": 18,
+          "title": "赵家驹巨人之路不止330公里",
+          "url": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E8%B7%AF%E4%B8%8D%E6%AD%A2330%E5%85%AC%E9%87%8C",
+          "hot": 7765443,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793372048,
+            "sentence_id": "2722005",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 19,
+          "title": "三角洲影之刃零黑伤实录爆料",
+          "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E9%BB%91%E4%BC%A4%E5%AE%9E%E5%BD%95%E7%88%86%E6%96%99",
+          "hot": 7742446,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793371569,
+            "label": 3,
+            "sentence_id": "2721997",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 20,
+          "title": "AI珍珠圣女妆",
+          "url": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86",
+          "hot": 7741924,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793341728,
+            "label": 9,
+            "sentence_id": "2720954",
+            "video_count": 10
           }
         }
       ]
@@ -407,8 +411,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": true,
-      "fetched_at": "2026-10-31T04:42:32.122060065+08:00",
-      "elapsed_ms": 451,
+      "fetched_at": "2026-10-31T08:43:32.827273345+08:00",
+      "elapsed_ms": 466,
       "items": [
         {
           "rank": 1,
