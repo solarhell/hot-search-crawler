@@ -5,33 +5,33 @@
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-10-31 14:56**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-10-31 21:36**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [吾恩去世](https://s.weibo.com/weibo?q=%E5%90%BE%E6%81%A9%E5%8E%BB%E4%B8%96) — 132.8万 · 新
 2. [卖650万捐赠房产要缴450万的税](https://s.weibo.com/weibo?q=%23%E5%8D%96650%E4%B8%87%E6%8D%90%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A6%81%E7%BC%B4450%E4%B8%87%E7%9A%84%E7%A8%8E%23) — 122.2万
-3. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 95.5万 · 热
-4. [昂跑未与姆巴佩解约或两头皆输](https://s.weibo.com/weibo?q=%23%E6%98%82%E8%B7%91%E6%9C%AA%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A7%A3%E7%BA%A6%E6%88%96%E4%B8%A4%E5%A4%B4%E7%9A%86%E8%BE%93%23) — 88.7万
-5. [开创新时代管党治党兴党强党新局面](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23) — 71万
-6. [六网协同夯实中国式现代化底座](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BD%91%E5%8D%8F%E5%90%8C%E5%A4%AF%E5%AE%9E%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BA%95%E5%BA%A7%23) — 69.6万
-7. [微博视界大会红毯](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%BA%A2%E6%AF%AF%23) — 49.9万 · 新
-8. [披荆斩棘成团名单](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95) — 37.5万 · 沸
-9. [今年全国实现生娃基本不花钱](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%23) — 32.6万
-10. [小沈阳披荆斩棘冠军](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23) — 32.4万 · 热
+3. [微博视界大会座位](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%BA%A7%E4%BD%8D) — 109万 · 综艺
+4. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 95.5万 · 热
+5. [昂跑未与姆巴佩解约或两头皆输](https://s.weibo.com/weibo?q=%23%E6%98%82%E8%B7%91%E6%9C%AA%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A7%A3%E7%BA%A6%E6%88%96%E4%B8%A4%E5%A4%B4%E7%9A%86%E8%BE%93%23) — 88.7万
+6. [将有2名中国人登陆月球](https://s.weibo.com/weibo?q=%23%E5%B0%86%E6%9C%892%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83%23) — 76.6万 · 新
+7. [开创新时代管党治党兴党强党新局面](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23) — 71万
+8. [六网协同夯实中国式现代化底座](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BD%91%E5%8D%8F%E5%90%8C%E5%A4%AF%E5%AE%9E%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BA%95%E5%BA%A7%23) — 69.6万
+9. [本周我国硬核成果持续上新](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E6%88%91%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%96%B0%23) — 64.9万 · 新
+10. [奔跑吧厉娜](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%8E%89%E5%A8%9C%23) — 62.2万 · 新
 
 ### 抖音
 
-1. [冬天奶茶要挖着吃才满足](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%8C%96%E7%9D%80%E5%90%83%E6%89%8D%E6%BB%A1%E8%B6%B3) — 1146.5万
-2. [中国稀土筹划重大资产重组](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%AD%B9%E5%88%92%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84) — 1129.7万
-3. [中共中央举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1128.3万
-4. [以色列选举最终结果公布](https://www.douyin.com/search/%E4%BB%A5%E8%89%B2%E5%88%97%E9%80%89%E4%B8%BE%E6%9C%80%E7%BB%88%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83) — 1115.2万
-5. [攻击-21无人机在四川舰成功起降](https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D) — 1113.5万
-6. [进博会展览展示面积首破44万平](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%B1%95%E8%A7%88%E5%B1%95%E7%A4%BA%E9%9D%A2%E7%A7%AF%E9%A6%96%E7%A0%B444%E4%B8%87%E5%B9%B3) — 1110.4万
-7. [不怕远征难](https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE) — 1110万
-8. [比冬天先来的是一顿热火锅](https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85) — 1109.9万
-9. [二十届五中全会公报一图速览](https://www.douyin.com/search/%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88) — 1102.3万
-10. [落日与风能发电机同框太治愈](https://www.douyin.com/search/%E8%90%BD%E6%97%A5%E4%B8%8E%E9%A3%8E%E8%83%BD%E5%8F%91%E7%94%B5%E6%9C%BA%E5%90%8C%E6%A1%86%E5%A4%AA%E6%B2%BB%E6%84%88) — 1053.7万
+1. [无锡队夺得苏超冠军](https://www.douyin.com/search/%E6%97%A0%E9%94%A1%E9%98%9F%E5%A4%BA%E5%BE%97%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B) — 1149.9万
+2. [冬天奶茶要挖着吃才满足](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%A5%B6%E8%8C%B6%E8%A6%81%E6%8C%96%E7%9D%80%E5%90%83%E6%89%8D%E6%BB%A1%E8%B6%B3) — 1146.5万
+3. [中国稀土筹划重大资产重组](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%AD%B9%E5%88%92%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84) — 1129.7万
+4. [中共中央举行新闻发布会](https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A) — 1128.3万
+5. [以色列选举最终结果公布](https://www.douyin.com/search/%E4%BB%A5%E8%89%B2%E5%88%97%E9%80%89%E4%B8%BE%E6%9C%80%E7%BB%88%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83) — 1115.2万
+6. [攻击-21无人机在四川舰成功起降](https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D) — 1113.5万
+7. [进博会展览展示面积首破44万平](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%B1%95%E8%A7%88%E5%B1%95%E7%A4%BA%E9%9D%A2%E7%A7%AF%E9%A6%96%E7%A0%B444%E4%B8%87%E5%B9%B3) — 1110.4万
+8. [不怕远征难](https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE) — 1110万
+9. [比冬天先来的是一顿热火锅](https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85) — 1109.9万
+10. [二十届五中全会公报一图速览](https://www.douyin.com/search/%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88) — 1102.3万
 
 ### 小红书
 
