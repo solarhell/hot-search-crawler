@@ -5,33 +5,33 @@
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-01 06:25**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-01 10:08**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [苹果Duo中国版被指偷工减料](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CDuo%E4%B8%AD%E5%9B%BD%E7%89%88%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99) — 39.2万 · 热
-2. [孙颖莎把早田希娜打哭了](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E6%89%93%E5%93%AD%E4%BA%86) — 27.6万
-3. [新动能持续释放助力经济稳增长](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A8%E8%83%BD%E6%8C%81%E7%BB%AD%E9%87%8A%E6%94%BE%E5%8A%A9%E5%8A%9B%E7%BB%8F%E6%B5%8E%E7%A8%B3%E5%A2%9E%E9%95%BF%23) — 22.3万
-4. [五中全会释放了哪些信号](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7%23) — 17.7万
-5. [王子璇 文吉儿](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87+%E6%96%87%E5%90%89%E5%84%BF) — 15.9万 · 热
-6. [刘诗诗牵着关晓彤上台](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E7%89%B5%E7%9D%80%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8A%E5%8F%B0) — 15万 · 热
-7. [早田希娜否认孙颖莎发球擦网](https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%90%A6%E8%AE%A4%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%91%E7%90%83%E6%93%A6%E7%BD%91%23) — 15万
-8. [侯卓成杨汝晴官宣分手](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23) — 14.7万 · 沸
-9. [4AM任和咚咚和好了](https://s.weibo.com/weibo?q=%234AM%E4%BB%BB%E5%92%8C%E5%92%9A%E5%92%9A%E5%92%8C%E5%A5%BD%E4%BA%86%23) — 14万
-10. [林诗栋3比4负莫雷加德](https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B3%E6%AF%944%E8%B4%9F%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%23) — 13.4万
+1. [不要加杠杆太吓人了](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%8A%A0%E6%9D%A0%E6%9D%86%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86) — 112.3万
+2. [主教练向杨瀚森道歉](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%95%99%E7%BB%83%E5%90%91%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%81%93%E6%AD%89%23) — 82.4万
+3. [中国机遇清单不断扩展](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E4%B8%8D%E6%96%AD%E6%89%A9%E5%B1%95%23) — 63.1万 · 新
+4. [世界是个巨大的草台班子](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90) — 60.4万 · 新
+5. [韩网热议HLE遭BLG淘汰](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AEHLE%E9%81%ADBLG%E6%B7%98%E6%B1%B0%23) — 59.6万 · 新
+6. [许飞 厉娜](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%8E%89%E5%A8%9C) — 56.1万 · 新
+7. [Viper母亲患癌](https://s.weibo.com/weibo?q=%23Viper%E6%AF%8D%E4%BA%B2%E6%82%A3%E7%99%8C%23) — 55.5万 · 新
+8. [iG抽到TES](https://s.weibo.com/weibo?q=%23iG%E6%8A%BD%E5%88%B0TES%23) — 47.1万 · 新
+9. [苹果Duo中国版被指偷工减料](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CDuo%E4%B8%AD%E5%9B%BD%E7%89%88%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99) — 39.2万 · 热
+10. [肖战史冠](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8F%B2%E5%86%A0%23) — 39.2万 · 新
 
 ### 抖音
 
-1. [无锡队夺得苏超冠军](https://www.douyin.com/search/%E6%97%A0%E9%94%A1%E9%98%9F%E5%A4%BA%E5%BE%97%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B) — 1211.9万
+1. [无锡队夺得苏超冠军](https://www.douyin.com/search/%E6%97%A0%E9%94%A1%E9%98%9F%E5%A4%BA%E5%BE%97%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B) — 1218.9万
 2. [赵心童国锦赛首秀势不可挡](https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%9B%BD%E9%94%A6%E8%B5%9B%E9%A6%96%E7%A7%80%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1) — 1211.6万
 3. [我国公布首次载人登月乘组计划](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%85%AC%E5%B8%83%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E4%B9%98%E7%BB%84%E8%AE%A1%E5%88%92) — 1133.5万
 4. [这届进博会出行有了AI助手](https://www.douyin.com/search/%E8%BF%99%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%87%BA%E8%A1%8C%E6%9C%89%E4%BA%86AI%E5%8A%A9%E6%89%8B) — 1132万
 5. [中国石化原董事长傅成玉被查](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5) — 1124.1万
-6. [CBA山东85:76逆转广东终结连败](https://www.douyin.com/search/CBA%E5%B1%B1%E4%B8%9C85:76%E9%80%86%E8%BD%AC%E5%B9%BF%E4%B8%9C%E7%BB%88%E7%BB%93%E8%BF%9E%E8%B4%A5) — 1054.5万
-7. [阳朔的山压迫感太强了](https://www.douyin.com/search/%E9%98%B3%E6%9C%94%E7%9A%84%E5%B1%B1%E5%8E%8B%E8%BF%AB%E6%84%9F%E5%A4%AA%E5%BC%BA%E4%BA%86) — 923.2万
-8. [切尔西2:0曼联](https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF2:0%E6%9B%BC%E8%81%94) — 912.1万
-9. [男子编造餐馆给外国人免单被拘](https://www.douyin.com/search/%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E9%A4%90%E9%A6%86%E7%BB%99%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%8D%E5%8D%95%E8%A2%AB%E6%8B%98) — 911.3万
-10. [李荣浩郑州演唱会](https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%83%91%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A) — 905.3万
+6. [经济大省三季报释放什么新信号](https://www.douyin.com/search/%E7%BB%8F%E6%B5%8E%E5%A4%A7%E7%9C%81%E4%B8%89%E5%AD%A3%E6%8A%A5%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E6%96%B0%E4%BF%A1%E5%8F%B7) — 1116.6万
+7. [CBA山东85:76逆转广东终结连败](https://www.douyin.com/search/CBA%E5%B1%B1%E4%B8%9C85:76%E9%80%86%E8%BD%AC%E5%B9%BF%E4%B8%9C%E7%BB%88%E7%BB%93%E8%BF%9E%E8%B4%A5) — 1054.5万
+8. [BLG零封HLE晋级八强](https://www.douyin.com/search/BLG%E9%9B%B6%E5%B0%81HLE%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA) — 1013.6万
+9. [郑丽文呼吁重启核电](https://www.douyin.com/search/%E9%83%91%E4%B8%BD%E6%96%87%E5%91%BC%E5%90%81%E9%87%8D%E5%90%AF%E6%A0%B8%E7%94%B5) — 972.5万
+10. [阳朔的山压迫感太强了](https://www.douyin.com/search/%E9%98%B3%E6%9C%94%E7%9A%84%E5%B1%B1%E5%8E%8B%E8%BF%AB%E6%84%9F%E5%A4%AA%E5%BC%BA%E4%BA%86) — 923.2万
 
 ### 小红书
 
