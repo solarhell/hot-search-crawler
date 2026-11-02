@@ -5,33 +5,33 @@
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-02 05:10**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-02 09:28**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [画地为牢](https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 120.4万 · 沸
-2. [85花很刻意避免同台了](https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%BE%88%E5%88%BB%E6%84%8F%E9%81%BF%E5%85%8D%E5%90%8C%E5%8F%B0%E4%BA%86%23) — 89.5万 · 新
-3. [被一棵棵红军树背后的故事感动了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%80%E6%A3%B5%E6%A3%B5%E7%BA%A2%E5%86%9B%E6%A0%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E4%BA%86%23) — 43.2万
-4. [曝王子璇录制结束抱着经纪人流泪](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%AD%90%E7%92%87%E5%BD%95%E5%88%B6%E7%BB%93%E6%9D%9F%E6%8A%B1%E7%9D%80%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B5%81%E6%B3%AA%23) — 42.5万 · 综艺
-5. [影视行业真的来春天了](https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86) — 40.3万 · 热
-6. [吴磊婉拒蔡徐坤](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%A9%89%E6%8B%92%E8%94%A1%E5%BE%90%E5%9D%A4%23) — 36.5万 · 热
-7. [马天宇张萌 和好](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C+%E5%92%8C%E5%A5%BD) — 34.1万 · 热
-8. [35岁保时捷女销售登顶全国销冠](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E7%99%BB%E9%A1%B6%E5%85%A8%E5%9B%BD%E9%94%80%E5%86%A0%23) — 28.4万
-9. [KSG 流浪](https://s.weibo.com/weibo?q=KSG+%E6%B5%81%E6%B5%AA) — 25.2万
-10. [孙颖莎vs蒯曼](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC) — 24.6万 · 新
+1. [微信转账加一个动作](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23) — 185.1万 · 新
+2. [画地为牢](https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 120.4万 · 沸
+3. [影视行业真的来春天了](https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86) — 108.6万 · 热
+4. [今年乌镇峰会首次向社会开放预约](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E9%A6%96%E6%AC%A1%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BC%80%E6%94%BE%E9%A2%84%E7%BA%A6%23) — 93.5万
+5. [金价大跌白银价格腰斩](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9) — 92.1万 · 新
+6. [罗技跟用户干上了](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8A%80%E8%B7%9F%E7%94%A8%E6%88%B7%E5%B9%B2%E4%B8%8A%E4%BA%86) — 89.7万 · 新
+7. [85花很刻意避免同台了](https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%BE%88%E5%88%BB%E6%84%8F%E9%81%BF%E5%85%8D%E5%90%8C%E5%8F%B0%E4%BA%86%23) — 89.5万 · 新
+8. [美公务机坠毁致9死](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%AC%E5%8A%A1%E6%9C%BA%E5%9D%A0%E6%AF%81%E8%87%B49%E6%AD%BB%23) — 75.1万
+9. [电诈团伙已转移到非洲](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%88%B0%E9%9D%9E%E6%B4%B2%23) — 60.5万
+10. [台媒劝少看红果短剧反被喷](https://s.weibo.com/weibo?q=%E5%8F%B0%E5%AA%92%E5%8A%9D%E5%B0%91%E7%9C%8B%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%8F%8D%E8%A2%AB%E5%96%B7) — 48万 · 新
 
 ### 抖音
 
-1. [孙颖莎力克王艺迪闯入决赛](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8A%9B%E5%85%8B%E7%8E%8B%E8%89%BA%E8%BF%AA%E9%97%AF%E5%85%A5%E5%86%B3%E8%B5%9B) — 1210.9万
-2. [俄乌在奥列什基局部停火](https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E5%9C%A8%E5%A5%A5%E5%88%97%E4%BB%80%E5%9F%BA%E5%B1%80%E9%83%A8%E5%81%9C%E7%81%AB) — 1210.3万
-3. [云南玉昆队史首入足协杯决赛](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%E9%98%9F%E5%8F%B2%E9%A6%96%E5%85%A5%E8%B6%B3%E5%8D%8F%E6%9D%AF%E5%86%B3%E8%B5%9B) — 1131.1万
-4. [广交会中国造智能搭子又上新](https://www.douyin.com/search/%E5%B9%BF%E4%BA%A4%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E6%99%BA%E8%83%BD%E6%90%AD%E5%AD%90%E5%8F%88%E4%B8%8A%E6%96%B0) — 1115万
-5. [林丹杯桃田贤斗战胜王正行夺冠](https://www.douyin.com/search/%E6%9E%97%E4%B8%B9%E6%9D%AF%E6%A1%83%E7%94%B0%E8%B4%A4%E6%96%97%E6%88%98%E8%83%9C%E7%8E%8B%E6%AD%A3%E8%A1%8C%E5%A4%BA%E5%86%A0) — 1108万
-6. [请大家选出最适合我的发型](https://www.douyin.com/search/%E8%AF%B7%E5%A4%A7%E5%AE%B6%E9%80%89%E5%87%BA%E6%9C%80%E9%80%82%E5%90%88%E6%88%91%E7%9A%84%E5%8F%91%E5%9E%8B) — 1097.3万
-7. [即梦首个剧本模型上线](https://www.douyin.com/search/%E5%8D%B3%E6%A2%A6%E9%A6%96%E4%B8%AA%E5%89%A7%E6%9C%AC%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF) — 1050.8万
-8. [费兰托雷斯入驻抖音](https://www.douyin.com/search/%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3) — 1027.4万
-9. [就这样变身大佬霸气出场](https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%8F%98%E8%BA%AB%E5%A4%A7%E4%BD%AC%E9%9C%B8%E6%B0%94%E5%87%BA%E5%9C%BA) — 939.3万
-10. [将有2名中国人登陆月球](https://www.douyin.com/search/%E5%B0%86%E6%9C%892%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83) — 914.6万
+1. [央行证监会将召开座谈会](https://www.douyin.com/search/%E5%A4%AE%E8%A1%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E5%8F%AC%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A) — 1213.7万
+2. [请大家选出最适合我的发型](https://www.douyin.com/search/%E8%AF%B7%E5%A4%A7%E5%AE%B6%E9%80%89%E5%87%BA%E6%9C%80%E9%80%82%E5%90%88%E6%88%91%E7%9A%84%E5%8F%91%E5%9E%8B) — 1211.6万
+3. [孙颖莎力克王艺迪闯入决赛](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8A%9B%E5%85%8B%E7%8E%8B%E8%89%BA%E8%BF%AA%E9%97%AF%E5%85%A5%E5%86%B3%E8%B5%9B) — 1210.9万
+4. [俄乌在奥列什基局部停火](https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E5%9C%A8%E5%A5%A5%E5%88%97%E4%BB%80%E5%9F%BA%E5%B1%80%E9%83%A8%E5%81%9C%E7%81%AB) — 1210.3万
+5. [广交会中国造智能搭子又上新](https://www.douyin.com/search/%E5%B9%BF%E4%BA%A4%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%A0%E6%99%BA%E8%83%BD%E6%90%AD%E5%AD%90%E5%8F%88%E4%B8%8A%E6%96%B0) — 1183.4万
+6. [孙颖莎夺WTT蒙彼利埃站冠军](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BAWTT%E8%92%99%E5%BD%BC%E5%88%A9%E5%9F%83%E7%AB%99%E5%86%A0%E5%86%9B) — 1133.8万
+7. [云南玉昆队史首入足协杯决赛](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%E9%98%9F%E5%8F%B2%E9%A6%96%E5%85%A5%E8%B6%B3%E5%8D%8F%E6%9D%AF%E5%86%B3%E8%B5%9B) — 1131.1万
+8. [林丹杯桃田贤斗战胜王正行夺冠](https://www.douyin.com/search/%E6%9E%97%E4%B8%B9%E6%9D%AF%E6%A1%83%E7%94%B0%E8%B4%A4%E6%96%97%E6%88%98%E8%83%9C%E7%8E%8B%E6%AD%A3%E8%A1%8C%E5%A4%BA%E5%86%A0) — 1108万
+9. [即梦首个剧本模型上线](https://www.douyin.com/search/%E5%8D%B3%E6%A2%A6%E9%A6%96%E4%B8%AA%E5%89%A7%E6%9C%AC%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF) — 1050.8万
+10. [中国U17女足1:2巴西](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B31:2%E5%B7%B4%E8%A5%BF) — 1049.2万
 
 ### 小红书
 
