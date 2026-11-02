@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-02 10:37**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-02 10:38**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [微信转账加一个动作](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23) — 185.1万 · 新
 2. [画地为牢](https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 120.4万 · 沸
 3. [影视行业真的来春天了](https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86) — 108.6万 · 热
-4. [电诈园区从柬埔寨转移到马达加斯加](https://s.weibo.com/weibo?q=%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%AC%E7%A7%BB%E5%88%B0%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0) — 94.3万 · 新
+4. [电诈园区从柬埔寨转移到马达加斯加](https://s.weibo.com/weibo?q=%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%AC%E7%A7%BB%E5%88%B0%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0) — 96.4万 · 新
 5. [今年乌镇峰会首次向社会开放预约](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E9%A6%96%E6%AC%A1%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BC%80%E6%94%BE%E9%A2%84%E7%BA%A6%23) — 93.5万
 6. [金价大跌白银价格腰斩](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9) — 92.1万 · 新
 7. [罗技跟用户干上了](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8A%80%E8%B7%9F%E7%94%A8%E6%88%B7%E5%B9%B2%E4%B8%8A%E4%BA%86) — 89.7万 · 新
 8. [85花很刻意避免同台了](https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%BE%88%E5%88%BB%E6%84%8F%E9%81%BF%E5%85%8D%E5%90%8C%E5%8F%B0%E4%BA%86%23) — 89.5万 · 新
 9. [美公务机坠毁致9死](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%AC%E5%8A%A1%E6%9C%BA%E5%9D%A0%E6%AF%81%E8%87%B49%E6%AD%BB%23) — 75.1万
-10. [看思维导图学五中全会决定](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%AD%A6%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%23) — 72.7万 · 新
+10. [看思维导图学五中全会决定](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%AD%A6%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%23) — 71.5万 · 新
 
 ### 抖音
 
