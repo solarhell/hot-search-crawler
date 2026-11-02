@@ -1,0 +1,53 @@
+name: live
+
+# 高频实时发布：由外部定时器每 10 分钟触发 workflow_dispatch。
+# 只把最新快照发布到 GitHub Pages，不写回 git，避免仓库历史膨胀。
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: live
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Go
+        uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Crawl live snapshot
+        run: go run ./cmd/hot-search-crawler crawl --live --data dist
+
+      - name: Add index redirect
+        run: |
+          printf '%s\n' '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=latest.json"><title>hot-search-crawler</title><a href="latest.json">latest.json</a>' > dist/index.html
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v5

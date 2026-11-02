@@ -47,6 +47,7 @@ type config struct {
 	translate    bool
 	dryRun       bool
 	debug        bool
+	live         bool
 	interval     time.Duration
 }
 
@@ -140,7 +141,7 @@ func runCrawl(args []string, stdout, stderr io.Writer, daemon bool) int {
 	if daemon {
 		return runDaemon(sources, crawlOpts, cfg, st, logger)
 	}
-	return runOnce(context.Background(), sources, crawlOpts, cfg, st, logger)
+	return runOnce(context.Background(), sources, crawlOpts, cfg, st, logger, cfg.live)
 }
 
 func runOnce(
@@ -150,6 +151,7 @@ func runOnce(
 	cfg *config,
 	st *store.Store,
 	logger *slog.Logger,
+	live bool,
 ) int {
 	snapshot := crawl.Run(ctx, sources, crawlOpts)
 	okBoards := okCount(snapshot)
@@ -157,6 +159,21 @@ func runOnce(
 		logger.Error("所有平台抓取失败", "boards", len(snapshot.Boards))
 	} else {
 		logger.Info("抓取完成", "ok_boards", okBoards, "total_boards", len(snapshot.Boards))
+	}
+
+	// 实时模式只写 latest.json，不生成小时快照、日报和 README，
+	// 避免高频运行时往 git 历史里灌入大量重复数据。
+	if live {
+		if okBoards == 0 {
+			return 1
+		}
+		latestPath, err := st.WriteLatest(snapshot)
+		if err != nil {
+			logger.Error("写入实时快照失败", "error", err)
+			return 1
+		}
+		logger.Info("实时快照已写入", "path", latestPath)
+		return 0
 	}
 
 	snapshotPath, err := st.WriteSnapshot(snapshot)
@@ -226,7 +243,7 @@ func runDaemon(
 			return 0
 		}
 
-		code := runOnce(ctx, sources, crawlOpts, cfg, st, logger)
+		code := runOnce(ctx, sources, crawlOpts, cfg, st, logger, cfg.live)
 
 		var wait time.Duration
 		if code == 0 {
@@ -269,6 +286,7 @@ func bindCommonFlags(fs *flag.FlagSet, cfg *config) {
 	fs.IntVar(&cfg.retries, "retries", defaultRetries, "失败重试次数")
 	fs.BoolVar(&cfg.translate, "translate", false, "启用翻译（读取 TRANSLATE_* 环境变量）")
 	fs.BoolVar(&cfg.dryRun, "dry-run", false, "只把快照 JSON 输出到标准输出，不写文件")
+	fs.BoolVar(&cfg.live, "live", false, "只写 latest.json，不生成小时快照/日报/README（用于高频发布）")
 	fs.BoolVar(&cfg.debug, "debug", false, "输出调试日志")
 }
 
@@ -345,6 +363,7 @@ func printUsage(w io.Writer) {
 示例:
   hot-search-crawler crawl --update-readme
   hot-search-crawler crawl --sources weibo,douyin --top 10 --dry-run
+  hot-search-crawler crawl --live --data dist
   hot-search-crawler daemon --interval 30m
 
 运行 "hot-search-crawler crawl -h" 查看全部参数。

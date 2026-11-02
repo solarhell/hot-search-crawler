@@ -1,8 +1,14 @@
 # 热搜爬虫
 
-抓取**微博、抖音、小红书**热榜，输出统一结构的 JSON 快照。配合仓库自带的 GitHub Actions，每小时自动抓取并提交数据，仓库本身就是一份可检索的热搜历史。
+抓取**微博、抖音、小红书**热榜，输出统一结构的 JSON 快照。仓库自带两条发布链路：
+
+- **实时**：配置外部定时器后，每 10 分钟触发一次 GitHub Actions，把最新榜单发布到 GitHub Pages。
+- **归档**：每小时把快照、日报和 README 提交回仓库，仓库本身就是一份可检索的热搜历史。
 
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
+[![live](https://github.com/solarhell/hot-search-crawler/actions/workflows/live.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/live.yml)
+
+**实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
 > 数据更新于 **2026-11-02 09:28**（Asia/Shanghai），展示今日榜单前 10。
@@ -52,6 +58,7 @@
 ## 特性
 
 - **三个平台，一种结构**：微博、抖音、小红书统一为 `rank / title / url / hot / tag`，平台特有字段放进 `extra`。
+- **实时与归档分离**：高频运行只发布 `latest.json` 到 GitHub Pages，不写 git；每小时才落一份归档，避免仓库历史膨胀。
 - **过滤广告**：微博接口里混在 `realtime` 中的推广位（`is_ad=1`）会被剔除，不占榜单名次。
 - **限流友好**：识别小红书 `300013` 限流码，不连续重试；普通失败按 2s → 4s → 8s 指数退避。
 - **零数据库依赖**：默认写文件，可直接用 GitHub Pages、对象存储或任意静态服务消费。
@@ -72,6 +79,9 @@ go run ./cmd/hot-search-crawler crawl --update-readme
 
 # 只看看当前数据，不落盘
 go run ./cmd/hot-search-crawler crawl --dry-run
+
+# 只生成实时 JSON（用于 Pages 发布，不写小时快照/日报）
+go run ./cmd/hot-search-crawler crawl --live --data dist
 ```
 
 也可以直接安装：
@@ -92,10 +102,10 @@ go build -o bin/hot-search-crawler ./cmd/hot-search-crawler
 ```text
 data/
   2026-10-30/
-    09.json          # 09:07 的一次完整抓取（含各平台成功/失败状态）
+    09.json          # 每小时一次完整抓取（含各平台成功/失败状态）
     10.json
     summary.json     # 当天聚合：最高热度、最好名次、在榜次数、首次/最后出现
-  latest.json        # 最近一次快照，适合直接给前端消费
+  latest.json        # 最近一次归档快照；实时数据见 GitHub Pages
 archives/
   2026-10-30.md      # 当天热榜 Markdown 归档
 README.md            # 标记区间内的今日热榜
@@ -162,6 +172,7 @@ hot-search-crawler version           显示版本
 | `--archives` | `archives` | 每日 Markdown 归档目录 |
 | `--readme` | `README.md` | README 路径 |
 | `--update-readme` | `false` | 把今日热榜写入 README |
+| `--live` | `false` | 只写 `latest.json`，不生成小时快照/日报/README |
 | `--dry-run` | `false` | 只输出快照 JSON，不写文件 |
 | `--timeout` | `25s` | 单次请求超时 |
 | `--retries` | `2` | 普通失败的重试次数（限流不重试） |
@@ -170,15 +181,30 @@ hot-search-crawler version           显示版本
 
 `crawl` 在至少一个平台成功时返回 0；全部失败返回 1，但失败快照仍会写入，便于排查。`daemon` 不会因单轮失败退出。
 
-## GitHub Actions 持续归档
+## 更新频率与调度
 
-仓库内置 [`.github/workflows/crawl.yml`](.github/workflows/crawl.yml)：
+| 数据 | 频率 | 发布位置 | 触发方式 |
+| --- | --- | --- | --- |
+| 实时快照 | 每 10 分钟 | GitHub Pages `latest.json` | 外部定时器 → `live.yml` |
+| 小时归档 | 每小时 | `data/`、`archives/`、README | 外部定时器 `:23` + GitHub `schedule` `:47` 兜底 |
 
-- 每小时第 7 分钟运行一次，也支持手动触发。
-- 抓取后把 `data/`、`archives/` 和 README 的变更提交回仓库。
-- 使用 `GITHUB_TOKEN` 推送，不需要额外配置 secret。
+GitHub Actions 自带的 `schedule` 是 best-effort：2026 年实测常见延迟 1.5–4.5 小时，低活跃仓库的每小时任务实际每天只跑 4–8 次，丢跑不会留下记录。因此实时链路改为外部定时器调用 `workflow_dispatch`，配置步骤见 **[docs/external-scheduler.md](docs/external-scheduler.md)**。
 
-Fork 或新建仓库后，在 **Settings → Actions → General** 确认 Workflow permissions 为 **Read and write permissions**，然后启用 Actions 即可。
+高频运行只发布 Pages，不写 git，原因是单次快照约 24KB，10 分钟一次会让仓库一年增长数百 MB；归档仍保持每小时一份，兼顾历史价值和仓库体积。
+
+## GitHub Actions
+
+仓库内置三个工作流：
+
+- [`live.yml`](.github/workflows/live.yml)：由外部定时器每 10 分钟触发，抓取后只把 `latest.json` 部署到 GitHub Pages，不产生 git 提交。
+- [`crawl.yml`](.github/workflows/crawl.yml)：每小时归档，写入小时快照、日报和 README。外部定时器在 `:23` 触发，GitHub 自带 `schedule` 在 `:47` 兜底；如果当前小时已有快照则自动跳过，避免重复提交。
+- [`test.yml`](.github/workflows/test.yml)：只在代码变更时运行 `go vet` 和 `go test -race`，数据提交不会触发。
+
+第一次使用需要：
+
+1. 在 **Settings → Actions → General** 确认 Workflow permissions 为 **Read and write permissions**。
+2. 在 **Settings → Pages** 把 Source 设为 **GitHub Actions**（或运行一次 `live.yml`，按提示授权）。
+3. 按 [外部定时器文档](docs/external-scheduler.md) 创建 fine-grained PAT 并配置 cron-job.org 或自己的 timer。
 
 如果 GitHub Runner 访问国内接口不稳定，可以在 workflow 中给抓取步骤设置 `HTTPS_PROXY`，surf 会读取标准代理环境变量：
 

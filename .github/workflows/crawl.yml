@@ -2,9 +2,15 @@ name: crawl
 
 on:
   schedule:
-    # 每小时第 7 分钟抓取一次，避开整点的定时任务高峰。
-    - cron: "7 * * * *"
+    # GitHub 自带定时的兜底：外部定时器每小时的 :23 也会触发一次。
+    # 谁先跑谁归档；后跑的一方会因本小时快照已存在而跳过。
+    - cron: "47 * * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "强制重新归档当前小时（忽略已存在的快照）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -25,16 +31,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+      - name: Check if this hour is already archived
+        id: check
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          hour_file="data/$(date +%F)/$(date +%H).json"
+          if [ -f "$hour_file" ] && [ "$FORCE" != "true" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "本小时已有归档：$hour_file，跳过"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Go
+        if: steps.check.outputs.skip != 'true'
         uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
           cache: true
 
       - name: Crawl
+        if: steps.check.outputs.skip != 'true'
         run: go run ./cmd/hot-search-crawler crawl --update-readme
 
       - name: Commit data
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
