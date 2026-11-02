@@ -32,6 +32,17 @@ npm run deploy
 
 `wrangler login` 会打开浏览器完成 Cloudflare 授权。`GITHUB_TOKEN` 直接粘贴到命令行提示里，不会写进仓库或 shell 历史。
 
+如果这台机器没有浏览器，或不想用交互式登录，可以在 Cloudflare Dashboard 创建一个 API token（模板 **Edit Cloudflare Workers**），然后用环境变量部署：
+
+```bash
+export CLOUDFLARE_API_TOKEN=...   # 只放当前 shell，不要提交
+npx wrangler whoami               # 确认账号
+npx wrangler secret put GITHUB_TOKEN
+npm run deploy
+```
+
+如果账号下有多个 Cloudflare account，再设置 `CLOUDFLARE_ACCOUNT_ID`。
+
 可选：配置失败告警 webhook（Slack 兼容，接收 `{"text": "..."}`）：
 
 ```bash
