@@ -185,7 +185,7 @@ hot-search-crawler version           显示版本
 
 | 数据 | 频率 | 发布位置 | 触发方式 |
 | --- | --- | --- | --- |
-| 实时快照 | 每 10 分钟 | GitHub Pages `latest.json` | 外部定时器 → `live.yml` |
+| 实时快照 | 每 10 分钟 | GitHub Pages `latest.json` | 外部定时器 → `live.yml`；GitHub `schedule` `:13/:43` 兜底 |
 | 小时归档 | 每小时 | `data/`、`archives/`、README | 外部定时器 `:23` + GitHub `schedule` `:47` 兜底 |
 
 GitHub Actions 自带的 `schedule` 是 best-effort：2026 年实测常见延迟 1.5–4.5 小时，低活跃仓库的每小时任务实际每天只跑 4–8 次，丢跑不会留下记录。因此实时链路改为外部定时器调用 `workflow_dispatch`，配置步骤见 **[docs/external-scheduler.md](docs/external-scheduler.md)**。
@@ -196,7 +196,7 @@ GitHub Actions 自带的 `schedule` 是 best-effort：2026 年实测常见延迟
 
 仓库内置三个工作流：
 
-- [`live.yml`](.github/workflows/live.yml)：由外部定时器每 10 分钟触发，抓取后只把 `latest.json` 部署到 GitHub Pages，不产生 git 提交。
+- [`live.yml`](.github/workflows/live.yml)：由外部定时器每 10 分钟触发，抓取后只把 `latest.json` 部署到 GitHub Pages，不产生 git 提交；GitHub `schedule` 在 `:13/:43` 做低频兜底。
 - [`crawl.yml`](.github/workflows/crawl.yml)：每小时归档，写入小时快照、日报和 README。外部定时器在 `:23` 触发，GitHub 自带 `schedule` 在 `:47` 兜底；如果当前小时已有快照则自动跳过，避免重复提交。
 - [`test.yml`](.github/workflows/test.yml)：只在代码变更时运行 `go vet` 和 `go test -race`，数据提交不会触发。
 

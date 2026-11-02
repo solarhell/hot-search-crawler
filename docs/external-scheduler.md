@@ -6,7 +6,7 @@ GitHub Actions 自带的 `schedule` 是 **best-effort**：2026 年实测常见�
 
 | 工作流 | 触发方式 | 频率 | 产物 |
 | --- | --- | --- | --- |
-| `live.yml` | 外部定时器 → `workflow_dispatch` | 每 10 分钟 | 只发布 `latest.json` 到 GitHub Pages，不写 git |
+| `live.yml` | 外部定时器 → `workflow_dispatch`，GitHub `schedule` 在 `:13/:43` 兜底 | 每 10 分钟 | 只发布 `latest.json` 到 GitHub Pages，不写 git |
 | `crawl.yml` | 外部定时器每小时 `:23`，GitHub `schedule` 在 `:47` 兜底 | 每小时 | 写入小时快照、日报、README |
 
 两个工作流都带并发组：`live` 不会重叠部署；`crawl` 会检查当前小时的快照是否已存在，已存在则跳过，因此外部定时器和 GitHub 兜底同时触发也不会重复提交。
@@ -183,7 +183,7 @@ export default {
 
 ## 5. 注意事项
 
-- **Pages 部署频率**：GitHub Pages 通过 Actions 部署有软限制（约 10 次/小时）。10 分钟一次是 6 次/小时，留有余量；不要改成 5 分钟。
+- **Pages 部署频率**：GitHub Pages 通过 Actions 部署有软限制（约 10 次/小时）。10 分钟一次是 6 次/小时，加上 GitHub 兜底最多 2 次/小时，仍低于限制；不要改成 5 分钟。
 - **token 最小权限**：只给这个仓库的 `Actions: Read and write`。token 泄露时立即在 GitHub 设置里 Revoke。
 - **token 轮换**：fine-grained PAT 到期后外部定时器会收到 401，cron-job.org 的失败通知会提醒；更新 token 即可。
 - **Pages 缓存**：`latest.json` 可能被 CDN 缓存几分钟；消费端可以加 `?t=<timestamp>` 绕过缓存。

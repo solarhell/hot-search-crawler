@@ -3,6 +3,9 @@ name: live
 # 高频实时发布：由外部定时器每 10 分钟触发 workflow_dispatch。
 # 只把最新快照发布到 GitHub Pages，不写回 git，避免仓库历史膨胀。
 on:
+  schedule:
+    # 外部定时器未配置时的低频兜底；配置后仍保留，频率远低于 10 分钟。
+    - cron: "13,43 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,7 +15,7 @@ permissions:
 
 concurrency:
   group: live
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   publish:
