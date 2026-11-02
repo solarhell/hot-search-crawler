@@ -1,0 +1,11 @@
+name = "hot-search-crawler-scheduler"
+main = "src/index.js"
+compatibility_date = "2026-11-02"
+
+# 两个 cron 都按 UTC 执行；北京时间是整点偏移，所以 :23 也是本地 :23。
+# 每 10 分钟触发实时发布；每小时 :23 触发一次归档。
+[triggers]
+crons = ["*/10 * * * *", "23 * * * *"]
+
+[observability]
+enabled = true

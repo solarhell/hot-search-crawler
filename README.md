@@ -2,7 +2,7 @@
 
 抓取**微博、抖音、小红书**热榜，输出统一结构的 JSON 快照。仓库自带两条发布链路：
 
-- **实时**：配置外部定时器后，每 10 分钟触发一次 GitHub Actions，把最新榜单发布到 GitHub Pages。
+- **实时**：用仓库内置的 Cloudflare Worker 每 10 分钟触发一次 GitHub Actions，把最新榜单发布到 GitHub Pages。
 - **归档**：每小时把快照、日报和 README 提交回仓库，仓库本身就是一份可检索的热搜历史。
 
 [![crawl](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml/badge.svg)](https://github.com/solarhell/hot-search-crawler/actions/workflows/crawl.yml)
@@ -185,10 +185,10 @@ hot-search-crawler version           显示版本
 
 | 数据 | 频率 | 发布位置 | 触发方式 |
 | --- | --- | --- | --- |
-| 实时快照 | 每 10 分钟 | GitHub Pages `latest.json` | 外部定时器 → `live.yml`；GitHub `schedule` `:13/:43` 兜底 |
-| 小时归档 | 每小时 | `data/`、`archives/`、README | 外部定时器 `:23` + GitHub `schedule` `:47` 兜底 |
+| 实时快照 | 每 10 分钟 | GitHub Pages `latest.json` | Cloudflare Worker → `live.yml`；GitHub `schedule` `:13/:43` 兜底 |
+| 小时归档 | 每小时 | `data/`、`archives/`、README | Cloudflare Worker `:23` + GitHub `schedule` `:47` 兜底 |
 
-GitHub Actions 自带的 `schedule` 是 best-effort：2026 年实测常见延迟 1.5–4.5 小时，低活跃仓库的每小时任务实际每天只跑 4–8 次，丢跑不会留下记录。因此实时链路改为外部定时器调用 `workflow_dispatch`，配置步骤见 **[docs/external-scheduler.md](docs/external-scheduler.md)**。
+GitHub Actions 自带的 `schedule` 是 best-effort：2026 年实测常见延迟 1.5–4.5 小时，低活跃仓库的每小时任务实际每天只跑 4–8 次，丢跑不会留下记录。因此实时链路改为 Cloudflare Worker 调用 `workflow_dispatch`，部署步骤见 **[Cloudflare Worker 文档](deploy/cloudflare-worker/README.md)**；cron-job.org 和 systemd timer 的替代方案见 [外部定时器文档](docs/external-scheduler.md)。
 
 高频运行只发布 Pages，不写 git，原因是单次快照约 24KB，10 分钟一次会让仓库一年增长数百 MB；归档仍保持每小时一份，兼顾历史价值和仓库体积。
 
@@ -196,15 +196,27 @@ GitHub Actions 自带的 `schedule` 是 best-effort：2026 年实测常见延迟
 
 仓库内置三个工作流：
 
-- [`live.yml`](.github/workflows/live.yml)：由外部定时器每 10 分钟触发，抓取后只把 `latest.json` 部署到 GitHub Pages，不产生 git 提交；GitHub `schedule` 在 `:13/:43` 做低频兜底。
-- [`crawl.yml`](.github/workflows/crawl.yml)：每小时归档，写入小时快照、日报和 README。外部定时器在 `:23` 触发，GitHub 自带 `schedule` 在 `:47` 兜底；如果当前小时已有快照则自动跳过，避免重复提交。
+- [`live.yml`](.github/workflows/live.yml)：由 Cloudflare Worker 每 10 分钟触发，抓取后只把 `latest.json` 部署到 GitHub Pages，不产生 git 提交；GitHub `schedule` 在 `:13/:43` 做低频兜底。
+- [`crawl.yml`](.github/workflows/crawl.yml)：每小时归档，写入小时快照、日报和 README。Cloudflare Worker 在 `:23` 触发，GitHub 自带 `schedule` 在 `:47` 兜底；如果当前小时已有快照则自动跳过，避免重复提交。
 - [`test.yml`](.github/workflows/test.yml)：只在代码变更时运行 `go vet` 和 `go test -race`，数据提交不会触发。
 
 第一次使用需要：
 
 1. 在 **Settings → Actions → General** 确认 Workflow permissions 为 **Read and write permissions**。
 2. 在 **Settings → Pages** 把 Source 设为 **GitHub Actions**（或运行一次 `live.yml`，按提示授权）。
-3. 按 [外部定时器文档](docs/external-scheduler.md) 创建 fine-grained PAT 并配置 cron-job.org 或自己的 timer。
+3. 按 [Cloudflare Worker 部署文档](deploy/cloudflare-worker/README.md) 创建 fine-grained PAT 并部署 Worker；也支持 cron-job.org 或自己的 systemd timer，见 [外部定时器文档](docs/external-scheduler.md)。
+
+### 部署 Cloudflare Worker
+
+```bash
+cd deploy/cloudflare-worker
+npm install
+npx wrangler login
+npx wrangler secret put GITHUB_TOKEN
+npm run deploy
+```
+
+Worker 的两个 cron 会分别触发 `live.yml`（每 10 分钟）和 `crawl.yml`（每小时 :23）。完整说明和失败告警配置见 [deploy/cloudflare-worker/README.md](deploy/cloudflare-worker/README.md)。
 
 如果 GitHub Runner 访问国内接口不稳定，可以在 workflow 中给抓取步骤设置 `HTTPS_PROXY`，surf 会读取标准代理环境变量：
 
