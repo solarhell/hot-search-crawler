@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-03 04:30**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-03 10:39**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [嫁金钗](https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97) — 7.4万 · 新
-2. [青稚白小纯对摄影师发火](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E6%91%84%E5%BD%B1%E5%B8%88%E5%8F%91%E7%81%AB%23) — 7.3万 · 综艺
-3. [在乌镇峰会提前体验未来](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%89%8D%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%23) — 7.3万
-4. [超20万人看了一场假乒乓球比赛](https://s.weibo.com/weibo?q=%23%E8%B6%8520%E4%B8%87%E4%BA%BA%E7%9C%8B%E4%BA%86%E4%B8%80%E5%9C%BA%E5%81%87%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B%23) — 7.3万
-5. [红果短剧刷到天亮](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%88%B7%E5%88%B0%E5%A4%A9%E4%BA%AE) — 6万
-6. [蔡文静父亲全程偏袒无血缘的孙子](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E7%88%B6%E4%BA%B2%E5%85%A8%E7%A8%8B%E5%81%8F%E8%A2%92%E6%97%A0%E8%A1%80%E7%BC%98%E7%9A%84%E5%AD%99%E5%AD%90%23) — 5.7万 · 热
-7. [马天宇仅互关评论后的杨幂](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BB%85%E4%BA%92%E5%85%B3%E8%AF%84%E8%AE%BA%E5%90%8E%E7%9A%84%E6%9D%A8%E5%B9%82) — 5.6万 · 热
-8. [鲍蕾娱乐圈理财顶级天花板](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E5%A8%B1%E4%B9%90%E5%9C%88%E7%90%86%E8%B4%A2%E9%A1%B6%E7%BA%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23) — 5.3万
-9. [2027或是最舒服年](https://s.weibo.com/weibo?q=%232027%E6%88%96%E6%98%AF%E6%9C%80%E8%88%92%E6%9C%8D%E5%B9%B4%23) — 5.2万
-10. [今年WTT高级别赛事国乒男单仅1冠](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4WTT%E9%AB%98%E7%BA%A7%E5%88%AB%E8%B5%9B%E4%BA%8B%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E4%BB%851%E5%86%A0%23) — 5万
+1. [武汉工商学院通报](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%23) — 133.5万 · 新
+2. [雷军误写小米YU7首付7.99元](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%AF%E5%86%99%E5%B0%8F%E7%B1%B3YU7%E9%A6%96%E4%BB%987.99%E5%85%83%23) — 118.8万 · 新
+3. [世界互联网大会乌镇峰会创下多个首次](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E9%A6%96%E6%AC%A1%23) — 85.4万 · 新
+4. [许飞什么都敢回啊厉娜](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E5%9B%9E%E5%95%8A%E5%8E%89%E5%A8%9C) — 84.3万 · 新
+5. [红果这些短剧人气好高](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E8%BF%99%E4%BA%9B%E7%9F%AD%E5%89%A7%E4%BA%BA%E6%B0%94%E5%A5%BD%E9%AB%98%23) — 82.3万 · 热
+6. [新郎结婚当天离世父母为其掏空家底](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E7%A6%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E4%B8%BA%E5%85%B6%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%23) — 65.5万 · 新
+7. [多读书真的会影响三观](https://s.weibo.com/weibo?q=%E5%A4%9A%E8%AF%BB%E4%B9%A6%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%B8%89%E8%A7%82) — 52.3万
+8. [主动脉夹层被称为死亡的天花板](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%A8%E8%84%89%E5%A4%B9%E5%B1%82%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%AD%BB%E4%BA%A1%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%23) — 48.4万 · 新
+9. [高圆圆随便打扮一下就成法拉利了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E9%9A%8F%E4%BE%BF%E6%89%93%E6%89%AE%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%88%90%E6%B3%95%E6%8B%89%E5%88%A9%E4%BA%86%23) — 45.5万 · 热
+10. [新华社追问国乒男队怎么了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%BF%BD%E9%97%AE%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%80%8E%E4%B9%88%E4%BA%86%23) — 35.4万 · 热
 
 ### 抖音
 
 1. [多海域连发航行警告](https://www.douyin.com/search/%E5%A4%9A%E6%B5%B7%E5%9F%9F%E8%BF%9E%E5%8F%91%E8%88%AA%E8%A1%8C%E8%AD%A6%E5%91%8A) — 1205万
-2. [丁俊晖6:5战胜张安达](https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%966:5%E6%88%98%E8%83%9C%E5%BC%A0%E5%AE%89%E8%BE%BE) — 1178.7万
-3. [长征路上学党史](https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E5%AD%A6%E5%85%9A%E5%8F%B2) — 1165万
-4. [我的北京秋天封神时刻](https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%8C%97%E4%BA%AC%E7%A7%8B%E5%A4%A9%E5%B0%81%E7%A5%9E%E6%97%B6%E5%88%BB) — 1163.1万
-5. [吴宜泽6:1横扫对手晋级32强](https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD6:1%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E6%99%8B%E7%BA%A732%E5%BC%BA) — 1093.7万
-6. [影之刃零系列背景解说](https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E7%B3%BB%E5%88%97%E8%83%8C%E6%99%AF%E8%A7%A3%E8%AF%B4) — 1053.6万
-7. [北京的秋藏在这片水杉林里](https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E7%9A%84%E7%A7%8B%E8%97%8F%E5%9C%A8%E8%BF%99%E7%89%87%E6%B0%B4%E6%9D%89%E6%9E%97%E9%87%8C) — 939.7万
-8. [冬天一秒出门的百搭外套](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E4%B8%80%E7%A7%92%E5%87%BA%E9%97%A8%E7%9A%84%E7%99%BE%E6%90%AD%E5%A4%96%E5%A5%97) — 938.9万
-9. [演员邵万林去世](https://www.douyin.com/search/%E6%BC%94%E5%91%98%E9%82%B5%E4%B8%87%E6%9E%97%E5%8E%BB%E4%B8%96) — 938万
-10. [8个问题看懂美国中期选举](https://www.douyin.com/search/8%E4%B8%AA%E9%97%AE%E9%A2%98%E7%9C%8B%E6%87%82%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE) — 929.4万
+2. [雷霆将退役威少0号球衣](https://www.douyin.com/search/%E9%9B%B7%E9%9C%86%E5%B0%86%E9%80%80%E5%BD%B9%E5%A8%81%E5%B0%910%E5%8F%B7%E7%90%83%E8%A1%A3) — 1192.4万
+3. [丁俊晖6:5战胜张安达](https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%966:5%E6%88%98%E8%83%9C%E5%BC%A0%E5%AE%89%E8%BE%BE) — 1178.7万
+4. [长征路上学党史](https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E5%AD%A6%E5%85%9A%E5%8F%B2) — 1165万
+5. [我的北京秋天封神时刻](https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%8C%97%E4%BA%AC%E7%A7%8B%E5%A4%A9%E5%B0%81%E7%A5%9E%E6%97%B6%E5%88%BB) — 1163.1万
+6. [开源开放 共建共享](https://www.douyin.com/search/%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE%20%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB) — 1130.9万
+7. [高校通报有人男扮女装进女生宿舍](https://www.douyin.com/search/%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%9C%89%E4%BA%BA%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D) — 1115.6万
+8. [吴宜泽6:1横扫对手晋级32强](https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD6:1%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E6%99%8B%E7%BA%A732%E5%BC%BA) — 1093.7万
+9. [斯诺克国锦赛赵心童晋级16强](https://www.douyin.com/search/%E6%96%AF%E8%AF%BA%E5%85%8B%E5%9B%BD%E9%94%A6%E8%B5%9B%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A716%E5%BC%BA) — 1053.7万
+10. [影之刃零系列背景解说](https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E7%B3%BB%E5%88%97%E8%83%8C%E6%99%AF%E8%A7%A3%E8%AF%B4) — 1053.6万
 
 ### 小红书
 
