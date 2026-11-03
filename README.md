@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-03 10:39**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-03 18:06**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [武汉工商学院通报](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%23) — 133.5万 · 新
-2. [雷军误写小米YU7首付7.99元](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%AF%E5%86%99%E5%B0%8F%E7%B1%B3YU7%E9%A6%96%E4%BB%987.99%E5%85%83%23) — 118.8万 · 新
-3. [世界互联网大会乌镇峰会创下多个首次](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E9%A6%96%E6%AC%A1%23) — 85.4万 · 新
-4. [许飞什么都敢回啊厉娜](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E5%9B%9E%E5%95%8A%E5%8E%89%E5%A8%9C) — 84.3万 · 新
-5. [红果这些短剧人气好高](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E8%BF%99%E4%BA%9B%E7%9F%AD%E5%89%A7%E4%BA%BA%E6%B0%94%E5%A5%BD%E9%AB%98%23) — 82.3万 · 热
-6. [新郎结婚当天离世父母为其掏空家底](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E7%A6%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E4%B8%BA%E5%85%B6%E6%8E%8F%E7%A9%BA%E5%AE%B6%E5%BA%95%23) — 65.5万 · 新
-7. [多读书真的会影响三观](https://s.weibo.com/weibo?q=%E5%A4%9A%E8%AF%BB%E4%B9%A6%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%B8%89%E8%A7%82) — 52.3万
-8. [主动脉夹层被称为死亡的天花板](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%A8%E8%84%89%E5%A4%B9%E5%B1%82%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%AD%BB%E4%BA%A1%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%23) — 48.4万 · 新
-9. [高圆圆随便打扮一下就成法拉利了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E9%9A%8F%E4%BE%BF%E6%89%93%E6%89%AE%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%88%90%E6%B3%95%E6%8B%89%E5%88%A9%E4%BA%86%23) — 45.5万 · 热
-10. [新华社追问国乒男队怎么了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%BF%BD%E9%97%AE%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%80%8E%E4%B9%88%E4%BA%86%23) — 35.4万 · 热
+1. [中国不申办2036年奥运会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A%23) — 267.1万 · 新
+2. [武汉工商学院通报](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%23) — 133.5万 · 新
+3. [雷军误写小米YU7首付7.99元](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%AF%E5%86%99%E5%B0%8F%E7%B1%B3YU7%E9%A6%96%E4%BB%987.99%E5%85%83%23) — 118.8万 · 新
+4. [当你想在网上吵架的时候想想这张图](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E6%83%B3%E5%9C%A8%E7%BD%91%E4%B8%8A%E5%90%B5%E6%9E%B6%E7%9A%84%E6%97%B6%E5%80%99%E6%83%B3%E6%83%B3%E8%BF%99%E5%BC%A0%E5%9B%BE) — 100.7万 · 新
+5. [本届乌镇峰会分论坛数量创新高](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%B1%8A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%88%86%E8%AE%BA%E5%9D%9B%E6%95%B0%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98%23) — 92.3万
+6. [是我告的密厉娜](https://s.weibo.com/weibo?q=%E6%98%AF%E6%88%91%E5%91%8A%E7%9A%84%E5%AF%86%E5%8E%89%E5%A8%9C) — 91.4万 · 综艺
+7. [世界互联网大会乌镇峰会创下多个首次](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E9%A6%96%E6%AC%A1%23) — 85.4万 · 新
+8. [许飞什么都敢回啊厉娜](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E5%9B%9E%E5%95%8A%E5%8E%89%E5%A8%9C) — 84.3万 · 新
+9. [红果这些短剧人气好高](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E8%BF%99%E4%BA%9B%E7%9F%AD%E5%89%A7%E4%BA%BA%E6%B0%94%E5%A5%BD%E9%AB%98%23) — 82.3万 · 热
+10. [清华女生研一生娃寒假坐月子](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A5%B3%E7%94%9F%E7%A0%94%E4%B8%80%E7%94%9F%E5%A8%83%E5%AF%92%E5%81%87%E5%9D%90%E6%9C%88%E5%AD%90%23) — 65.7万 · 新
 
 ### 抖音
 
@@ -33,11 +33,11 @@
 3. [丁俊晖6:5战胜张安达](https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%966:5%E6%88%98%E8%83%9C%E5%BC%A0%E5%AE%89%E8%BE%BE) — 1178.7万
 4. [长征路上学党史](https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E5%AD%A6%E5%85%9A%E5%8F%B2) — 1165万
 5. [我的北京秋天封神时刻](https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%8C%97%E4%BA%AC%E7%A7%8B%E5%A4%A9%E5%B0%81%E7%A5%9E%E6%97%B6%E5%88%BB) — 1163.1万
-6. [开源开放 共建共享](https://www.douyin.com/search/%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE%20%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB) — 1130.9万
-7. [高校通报有人男扮女装进女生宿舍](https://www.douyin.com/search/%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%9C%89%E4%BA%BA%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D) — 1115.6万
-8. [吴宜泽6:1横扫对手晋级32强](https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD6:1%E6%A8%AA%E6%89%AB%E5%AF%B9%E6%89%8B%E6%99%8B%E7%BA%A732%E5%BC%BA) — 1093.7万
-9. [斯诺克国锦赛赵心童晋级16强](https://www.douyin.com/search/%E6%96%AF%E8%AF%BA%E5%85%8B%E5%9B%BD%E9%94%A6%E8%B5%9B%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A716%E5%BC%BA) — 1053.7万
-10. [影之刃零系列背景解说](https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E7%B3%BB%E5%88%97%E8%83%8C%E6%99%AF%E8%A7%A3%E8%AF%B4) — 1053.6万
+6. [刘延东同志遗体在京火化](https://www.douyin.com/search/%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96) — 1147.7万
+7. [开源开放 共建共享](https://www.douyin.com/search/%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE%20%E5%85%B1%E5%BB%BA%E5%85%B1%E4%BA%AB) — 1130.9万
+8. [高校通报有人男扮女装进女生宿舍](https://www.douyin.com/search/%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%9C%89%E4%BA%BA%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D) — 1115.6万
+9. [2026世界互联网大会乌镇峰会开幕](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1111.3万
+10. [今年的进博会有哪些看点](https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%9A%84%E8%BF%9B%E5%8D%9A%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9) — 1109.2万
 
 ### 小红书
 
