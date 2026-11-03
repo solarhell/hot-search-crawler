@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-04 02:04**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-04 07:42**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [女生刷到另一个自己竟是双胞胎](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E) — 74.5万
-2. [印度确认申办2036年夏季奥运会](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%A1%AE%E8%AE%A4%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A%23) — 54.9万
-3. [2026世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23) — 42.7万
-4. [iPhone天气下周五温差](https://s.weibo.com/weibo?q=iPhone%E5%A4%A9%E6%B0%94%E4%B8%8B%E5%91%A8%E4%BA%94%E6%B8%A9%E5%B7%AE) — 40.1万 · 新
-5. [李钟硕新剧回春了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E6%96%B0%E5%89%A7%E5%9B%9E%E6%98%A5%E4%BA%86%23) — 24万
-6. [许飞经纪人 去找厉娜](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E7%BB%8F%E7%BA%AA%E4%BA%BA+%E5%8E%BB%E6%89%BE%E5%8E%89%E5%A8%9C) — 22.4万 · 热
-7. [倪萍 医美](https://s.weibo.com/weibo?q=%E5%80%AA%E8%90%8D+%E5%8C%BB%E7%BE%8E) — 22.3万 · 热
-8. [杂交水稻专家邓国富被开除党籍](https://s.weibo.com/weibo?q=%23%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E4%B8%93%E5%AE%B6%E9%82%93%E5%9B%BD%E5%AF%8C%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23) — 18.8万
-9. [孙颖莎](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E) — 15.5万 · 新
-10. [女子每天玩手机10小时患手机痴呆症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%23) — 14.8万
+1. [女生刷到另一个自己竟是双胞胎](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E) — 107.5万 · 热
+2. [TES对战IG](https://s.weibo.com/weibo?q=TES%E5%AF%B9%E6%88%98IG) — 75.4万 · 新
+3. [2026世界市长对话宁波](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2%23) — 66.3万
+4. [iPhone天气下周五温差](https://s.weibo.com/weibo?q=iPhone%E5%A4%A9%E6%B0%94%E4%B8%8B%E5%91%A8%E4%BA%94%E6%B8%A9%E5%B7%AE) — 64.8万 · 新
+5. [杨幂曾偷偷观察唐嫣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9B%BE%E5%81%B7%E5%81%B7%E8%A7%82%E5%AF%9F%E5%94%90%E5%AB%A3%23) — 62.5万 · 新
+6. [印度确认申办2036年夏季奥运会](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%A1%AE%E8%AE%A4%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A%23) — 54.9万
+7. [红果历史短剧有点出乎意料](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E5%8E%86%E5%8F%B2%E7%9F%AD%E5%89%A7%E6%9C%89%E7%82%B9%E5%87%BA%E4%B9%8E%E6%84%8F%E6%96%99) — 44万 · 新
+8. [2026世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23) — 42.7万
+9. [李钟硕新剧回春了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E6%96%B0%E5%89%A7%E5%9B%9E%E6%98%A5%E4%BA%86%23) — 24万 · 热
+10. [女子每天玩手机10小时患手机痴呆症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%23) — 22.6万
 
 ### 抖音
 
-1. [英国男子花费28年完成环球徒步](https://www.douyin.com/search/%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E8%8A%B1%E8%B4%B928%E5%B9%B4%E5%AE%8C%E6%88%90%E7%8E%AF%E7%90%83%E5%BE%92%E6%AD%A5) — 1140.9万
-2. [赵心童晋级斯诺克国锦赛八强](https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E6%96%AF%E8%AF%BA%E5%85%8B%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%85%AB%E5%BC%BA) — 1138.3万
-3. [世界互联网大会乌镇峰会开幕](https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1111.7万
-4. [真正好吃的美味在民间](https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E5%A5%BD%E5%90%83%E7%9A%84%E7%BE%8E%E5%91%B3%E5%9C%A8%E6%B0%91%E9%97%B4) — 1109.6万
-5. [一句你好胜过千言万语](https://www.douyin.com/search/%E4%B8%80%E5%8F%A5%E4%BD%A0%E5%A5%BD%E8%83%9C%E8%BF%87%E5%8D%83%E8%A8%80%E4%B8%87%E8%AF%AD) — 1048万
-6. [闯入毛茸茸的奇妙世界](https://www.douyin.com/search/%E9%97%AF%E5%85%A5%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C) — 1043.7万
-7. [王楚钦3:0战胜林德](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63:0%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7) — 929.7万
-8. [中方特使特代本月将赴多国访问](https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E7%89%B9%E4%BD%BF%E7%89%B9%E4%BB%A3%E6%9C%AC%E6%9C%88%E5%B0%86%E8%B5%B4%E5%A4%9A%E5%9B%BD%E8%AE%BF%E9%97%AE) — 920.8万
-9. [西班牙足协停赛悼念德米格尔](https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B6%B3%E5%8D%8F%E5%81%9C%E8%B5%9B%E6%82%BC%E5%BF%B5%E5%BE%B7%E7%B1%B3%E6%A0%BC%E5%B0%94) — 917.5万
-10. [画地为牢是什么意思](https://www.douyin.com/search/%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D) — 916.6万
+1. [曼联3:2逆转罗马](https://www.douyin.com/search/%E6%9B%BC%E8%81%943:2%E9%80%86%E8%BD%AC%E7%BD%97%E9%A9%AC) — 1211.7万
+2. [巴萨主场3:0阿斯顿维拉](https://www.douyin.com/search/%E5%B7%B4%E8%90%A8%E4%B8%BB%E5%9C%BA3:0%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89) — 1210.7万
+3. [世界互联网大会乌镇峰会开幕](https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1179.6万
+4. [S16淘汰赛IG对战TES](https://www.douyin.com/search/S16%E6%B7%98%E6%B1%B0%E8%B5%9BIG%E5%AF%B9%E6%88%98TES) — 1165.2万
+5. [英国男子花费28年完成环球徒步](https://www.douyin.com/search/%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E8%8A%B1%E8%B4%B928%E5%B9%B4%E5%AE%8C%E6%88%90%E7%8E%AF%E7%90%83%E5%BE%92%E6%AD%A5) — 1140.9万
+6. [赵心童晋级斯诺克国锦赛八强](https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E6%96%AF%E8%AF%BA%E5%85%8B%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%85%AB%E5%BC%BA) — 1138.3万
+7. [真正好吃的美味在民间](https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E5%A5%BD%E5%90%83%E7%9A%84%E7%BE%8E%E5%91%B3%E5%9C%A8%E6%B0%91%E9%97%B4) — 1109.6万
+8. [一句你好胜过千言万语](https://www.douyin.com/search/%E4%B8%80%E5%8F%A5%E4%BD%A0%E5%A5%BD%E8%83%9C%E8%BF%87%E5%8D%83%E8%A8%80%E4%B8%87%E8%AF%AD) — 1048万
+9. [闯入毛茸茸的奇妙世界](https://www.douyin.com/search/%E9%97%AF%E5%85%A5%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C) — 1043.7万
+10. [王楚钦3:0战胜林德](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63:0%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7) — 939.4万
 
 ### 小红书
 
