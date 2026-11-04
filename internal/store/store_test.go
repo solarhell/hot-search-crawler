@@ -70,6 +70,49 @@ func TestWriteSnapshotAndLatest(t *testing.T) {
 	}
 }
 
+// TestWriteLatestHourly 验证归档快照写入独立文件，且不影响实时 latest.json。
+func TestWriteLatestHourly(t *testing.T) {
+	store := newTestStore(t)
+	snap := snapshotAt(t, store, 9, board("weibo", "微博", source.Item{Title: "a", Rank: 1}))
+
+	if err := os.MkdirAll(store.DataDir, 0o755); err != nil {
+		t.Fatalf("mkdir: %v", err)
+	}
+	livePath := filepath.Join(store.DataDir, "latest.json")
+	if err := os.WriteFile(livePath, []byte("live"), 0o644); err != nil {
+		t.Fatalf("seed latest.json: %v", err)
+	}
+
+	path, err := store.WriteLatestHourly(snap)
+	if err != nil {
+		t.Fatalf("WriteLatestHourly: %v", err)
+	}
+	want := filepath.Join(store.DataDir, "latest-hourly.json")
+	if path != want {
+		t.Errorf("path = %q, want %q", path, want)
+	}
+
+	data, err := os.ReadFile(want)
+	if err != nil {
+		t.Fatalf("ReadFile: %v", err)
+	}
+	var decoded crawl.Snapshot
+	if err := json.Unmarshal(data, &decoded); err != nil {
+		t.Fatalf("JSON 无法解析: %v", err)
+	}
+	if len(decoded.Boards) != 1 || len(decoded.Boards[0].Items) != 1 || decoded.Boards[0].Items[0].Title != "a" {
+		t.Errorf("decoded = %+v", decoded)
+	}
+
+	got, err := os.ReadFile(livePath)
+	if err != nil {
+		t.Fatalf("read latest.json: %v", err)
+	}
+	if string(got) != "live" {
+		t.Errorf("WriteLatestHourly 修改了 latest.json: %q", got)
+	}
+}
+
 func TestBuildSummaryMergesHours(t *testing.T) {
 	store := newTestStore(t)
 
@@ -203,6 +246,7 @@ func TestWriteSummaryAndArchive(t *testing.T) {
 	}
 }
 
+// TestUpdateReadmeReplacesSection 验证 README 标记区间被替换，且区间外内容保持不变。
 func TestUpdateReadmeReplacesSection(t *testing.T) {
 	store := newTestStore(t)
 	path := filepath.Join(t.TempDir(), "README.md")
@@ -244,6 +288,9 @@ func TestUpdateReadmeReplacesSection(t *testing.T) {
 	if !strings.Contains(text, "### 微博") || !strings.Contains(text, "10万") {
 		t.Errorf("新内容缺失: %s", text)
 	}
+	if !strings.Contains(text, "data/latest-hourly.json") {
+		t.Error("归档快照链接缺失")
+	}
 	if strings.Count(text, beginMarker) != 1 || strings.Count(text, endMarker) != 1 {
 		t.Error("标记数量异常")
 	}
@@ -282,6 +329,7 @@ func TestFormatHot(t *testing.T) {
 	}
 }
 
+// TestIsHourFile 验证只接受 00-23 的两位小时文件名。
 func TestIsHourFile(t *testing.T) {
 	valid := []string{"00.json", "09.json", "23.json"}
 	for _, name := range valid {
@@ -289,7 +337,7 @@ func TestIsHourFile(t *testing.T) {
 			t.Errorf("%q 应为小时文件", name)
 		}
 	}
-	invalid := []string{"summary.json", "9.json", "24.txt", "latest.json", "a9.json"}
+	invalid := []string{"summary.json", "9.json", "24.txt", "latest.json", "latest-hourly.json", "a9.json"}
 	for _, name := range invalid {
 		if isHourFile(name) {
 			t.Errorf("%q 不应为小时文件", name)

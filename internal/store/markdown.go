@@ -41,6 +41,7 @@ func (s *Store) UpdateReadme(path string, summary Summary) error {
 	return writeFileAtomic(path, []byte(text), 0o644)
 }
 
+// renderReadmeSection 生成 README 标记区间内的今日热榜。
 func renderReadmeSection(summary Summary) string {
 	var b strings.Builder
 
@@ -74,7 +75,7 @@ func renderReadmeSection(summary Summary) string {
 		b.WriteString("\n")
 	}
 
-	fmt.Fprintf(&b, "[完整快照](data/latest.json) · [今日归档](archives/%s.md)\n", summary.Date)
+	fmt.Fprintf(&b, "[完整快照](data/latest-hourly.json) · [今日归档](archives/%s.md)\n", summary.Date)
 	return strings.TrimRight(b.String(), "\n")
 }
 

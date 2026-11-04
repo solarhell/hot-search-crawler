@@ -83,9 +83,22 @@ func (s *Store) WriteSnapshot(snapshot crawl.Snapshot) (string, error) {
 	return path, nil
 }
 
-// WriteLatest 写入 data/latest.json，供静态页面直接消费。
+// WriteLatest 写入 latest.json，供实时页面直接消费。
+//
+// 归档侧使用 WriteLatestHourly，避免和实时端点共用文件名。
 func (s *Store) WriteLatest(snapshot crawl.Snapshot) (string, error) {
-	path := filepath.Join(s.DataDir, "latest.json")
+	return s.writeLatestFile("latest.json", snapshot)
+}
+
+// WriteLatestHourly 写入 data/latest-hourly.json，保留最近一次小时归档快照。
+// 实时数据仍由 WriteLatest 写入 latest.json（例如 Pages 的 dist/latest.json）。
+func (s *Store) WriteLatestHourly(snapshot crawl.Snapshot) (string, error) {
+	return s.writeLatestFile("latest-hourly.json", snapshot)
+}
+
+// writeLatestFile 将快照写入指定文件名，供实时与归档路径复用。
+func (s *Store) writeLatestFile(name string, snapshot crawl.Snapshot) (string, error) {
+	path := filepath.Join(s.DataDir, name)
 	if err := writeJSON(path, snapshot); err != nil {
 		return "", err
 	}
