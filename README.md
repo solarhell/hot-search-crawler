@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-04 16:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-04 17:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [特朗普全面惨败](https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5) — 201.7万 · 新
 2. [气象局回应苹果天气APP预报极端天气](https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%B1%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94APP%E9%A2%84%E6%8A%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%23) — 195.4万 · 热
 3. [iG战胜TES](https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CTES) — 185.3万 · 新
-4. [美民主党夺回参议院](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%BA%E5%9B%9E%E5%8F%82%E8%AE%AE%E9%99%A2%23) — 134.2万 · 新
-5. [A股暴力反弹原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E5%8E%9F%E5%9B%A0%23) — 116.7万 · 新
-6. [369说被TheShy征服了](https://s.weibo.com/weibo?q=%23369%E8%AF%B4%E8%A2%ABTheShy%E5%BE%81%E6%9C%8D%E4%BA%86%23) — 116.1万 · 新
-7. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1) — 114.1万 · 新
-8. [2026中国广播电视精品创作大会](https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%A4%A7%E4%BC%9A%23) — 109.6万 · 新
-9. [肖战四部剧都上榜了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9B%E9%83%A8%E5%89%A7%E9%83%BD%E4%B8%8A%E6%A6%9C%E4%BA%86%23) — 108.2万
-10. [TES止步S16八强](https://s.weibo.com/weibo?q=TES%E6%AD%A2%E6%AD%A5S16%E5%85%AB%E5%BC%BA) — 108.2万 · 新
+4. [这就是勤换洗水杯的原因](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8B%A4%E6%8D%A2%E6%B4%97%E6%B0%B4%E6%9D%AF%E7%9A%84%E5%8E%9F%E5%9B%A0) — 161万 · 新
+5. [美民主党夺回参议院](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%BA%E5%9B%9E%E5%8F%82%E8%AE%AE%E9%99%A2%23) — 134.2万 · 新
+6. [A股暴力反弹原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E5%8E%9F%E5%9B%A0%23) — 116.7万 · 新
+7. [369说被TheShy征服了](https://s.weibo.com/weibo?q=%23369%E8%AF%B4%E8%A2%ABTheShy%E5%BE%81%E6%9C%8D%E4%BA%86%23) — 116.1万 · 新
+8. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1) — 114.1万 · 新
+9. [2026中国广播电视精品创作大会](https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%A4%A7%E4%BC%9A%23) — 109.6万 · 新
+10. [肖战四部剧都上榜了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9B%E9%83%A8%E5%89%A7%E9%83%BD%E4%B8%8A%E6%A6%9C%E4%BA%86%23) — 108.2万
 
 ### 抖音
 
@@ -36,8 +36,8 @@
 6. [A股](https://www.douyin.com/search/A%E8%82%A1) — 1181.9万
 7. [世界互联网大会乌镇峰会开幕](https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1179.6万
 8. [男生秋冬简约穿搭攻略](https://www.douyin.com/search/%E7%94%B7%E7%94%9F%E7%A7%8B%E5%86%AC%E7%AE%80%E7%BA%A6%E7%A9%BF%E6%90%AD%E6%94%BB%E7%95%A5) — 1174.9万
-9. [我国核电技术双龙出海电力拉满](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8C%E9%BE%99%E5%87%BA%E6%B5%B7%E7%94%B5%E5%8A%9B%E6%8B%89%E6%BB%A1) — 1166.4万
-10. [S16淘汰赛IG对战TES](https://www.douyin.com/search/S16%E6%B7%98%E6%B1%B0%E8%B5%9BIG%E5%AF%B9%E6%88%98TES) — 1165.2万
+9. [原来深秋是咕嘟的](https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B7%B1%E7%A7%8B%E6%98%AF%E5%92%95%E5%98%9F%E7%9A%84) — 1168.5万
+10. [我国核电技术双龙出海电力拉满](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%A0%B8%E7%94%B5%E6%8A%80%E6%9C%AF%E5%8F%8C%E9%BE%99%E5%87%BA%E6%B5%B7%E7%94%B5%E5%8A%9B%E6%8B%89%E6%BB%A1) — 1166.4万
 
 ### 小红书
 
