@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-04 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-04 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [iG战胜TES](https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CTES) — 185.3万 · 新
 4. [kong控 退网](https://s.weibo.com/weibo?q=kong%E6%8E%A7+%E9%80%80%E7%BD%91) — 182.5万 · 新
 5. [这就是勤换洗水杯的原因](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8B%A4%E6%8D%A2%E6%B4%97%E6%B0%B4%E6%9D%AF%E7%9A%84%E5%8E%9F%E5%9B%A0) — 161万 · 新
-6. [美民主党夺回参议院](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%BA%E5%9B%9E%E5%8F%82%E8%AE%AE%E9%99%A2%23) — 134.2万 · 新
-7. [女子每月花3600住酒店上班](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13600%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%8A%E7%8F%AD%23) — 130.9万 · 新
-8. [一起响应举报护企倡议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%93%8D%E5%BA%94%E4%B8%BE%E6%8A%A5%E6%8A%A4%E4%BC%81%E5%80%A1%E8%AE%AE%23) — 123万 · 新
-9. [A股暴力反弹原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E5%8E%9F%E5%9B%A0%23) — 116.7万 · 新
-10. [亚洲大学排名揭晓](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E6%8F%AD%E6%99%93) — 116.3万 · 新
+6. [后会友期第二季呼声TOP10](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%91%BC%E5%A3%B0TOP10%23) — 155.5万 · 新
+7. [美民主党夺回参议院](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%BA%E5%9B%9E%E5%8F%82%E8%AE%AE%E9%99%A2%23) — 134.2万 · 新
+8. [女子每月花3600住酒店上班](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13600%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%8A%E7%8F%AD%23) — 130.9万 · 新
+9. [一起响应举报护企倡议](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%93%8D%E5%BA%94%E4%B8%BE%E6%8A%A5%E6%8A%A4%E4%BC%81%E5%80%A1%E8%AE%AE%23) — 123万 · 新
+10. [A股暴力反弹原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E5%8E%9F%E5%9B%A0%23) — 116.7万 · 新
 
 ### 抖音
 
