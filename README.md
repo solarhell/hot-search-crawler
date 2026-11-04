@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-05 01:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-05 02:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -37,7 +37,7 @@
 7. [中印尼利刃2026联训在广州结训](https://www.douyin.com/search/%E4%B8%AD%E5%8D%B0%E5%B0%BC%E5%88%A9%E5%88%832026%E8%81%94%E8%AE%AD%E5%9C%A8%E5%B9%BF%E5%B7%9E%E7%BB%93%E8%AE%AD) — 986.6万
 8. [大摆羽绒服不用当肥粽子](https://www.douyin.com/search/%E5%A4%A7%E6%91%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E7%94%A8%E5%BD%93%E8%82%A5%E7%B2%BD%E5%AD%90) — 930.2万
 9. [气象部门回应iPhone天气异常数据](https://www.douyin.com/search/%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94iPhone%E5%A4%A9%E6%B0%94%E5%BC%82%E5%B8%B8%E6%95%B0%E6%8D%AE) — 916.5万
-10. [曼联3:2逆转罗马](https://www.douyin.com/search/%E6%9B%BC%E8%81%943:2%E9%80%86%E8%BD%AC%E7%BD%97%E9%A9%AC) — 913.3万
+10. [特朗普称将停止对以色列援助](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%8F%B4%E5%8A%A9) — 916.4万
 
 ### 小红书
 
