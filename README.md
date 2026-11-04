@@ -63,7 +63,6 @@
 - **限流友好**：识别小红书 `300013` 限流码，不连续重试；普通失败按 2s → 4s → 8s 指数退避。
 - **零数据库依赖**：默认写文件，可直接用 GitHub Pages、对象存储或任意静态服务消费。
 - **可持续归档**：小时快照 + 按天重建的 `summary.json` + 每日 Markdown 归档，重复运行或补抓都不会污染统计。
-- **可选翻译**：内置 OpenAI 兼容接口的批量翻译，三个国内平台不需要，留给后续海外数据源。
 - **常驻模式**：`daemon` 子命令按间隔运行，连续失败时自动退避到 15 分钟。
 
 ## 快速开始
@@ -227,20 +226,6 @@ Worker 的两个 cron 会分别触发 `live.yml`（每 10 分钟）和 `crawl.ym
   run: go run ./cmd/hot-search-crawler crawl --update-readme
 ```
 
-## 可选翻译
-
-当前三个平台都是中文，不需要翻译。翻译模块是为新增海外数据源预留的，接口为 OpenAI 兼容的 Chat Completions：
-
-```bash
-export TRANSLATE_BASE_URL=https://api.openai.com/v1   # 可换成任意兼容服务
-export TRANSLATE_API_KEY=sk-...
-export TRANSLATE_MODEL=gpt-4.1-mini
-
-go run ./cmd/hot-search-crawler crawl --translate
-```
-
-数据源通过 `Translatable()` 声明是否需要翻译，翻译失败时自动降级为只保留原文，不影响抓取结果。
-
 ## 新增平台
 
 实现 `internal/source.Source`：
@@ -249,7 +234,6 @@ go run ./cmd/hot-search-crawler crawl --translate
 type Source interface {
     ID() string
     Name() string
-    Translatable() bool
     Fetch(ctx context.Context, limit int) ([]Item, error)
 }
 ```

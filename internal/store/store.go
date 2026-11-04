@@ -39,7 +39,6 @@ type SummaryItem struct {
 	Hot         int64     `json:"hot,omitempty"`
 	HotText     string    `json:"hot_text,omitempty"`
 	Tag         string    `json:"tag,omitempty"`
-	Translated  string    `json:"translated,omitempty"`
 	BestRank    int       `json:"best_rank"`
 	FirstSeen   time.Time `json:"first_seen"`
 	LastSeen    time.Time `json:"last_seen"`
@@ -197,7 +196,6 @@ func (s *Store) BuildSummary(date string) (Summary, error) {
 						Hot:         item.Hot,
 						HotText:     item.HotText,
 						Tag:         item.Tag,
-						Translated:  item.Translated,
 						BestRank:    item.Rank,
 						FirstSeen:   seenAt,
 						LastSeen:    seenAt,
@@ -217,9 +215,6 @@ func (s *Store) BuildSummary(date string) (Summary, error) {
 				}
 				if existing.Tag == "" {
 					existing.Tag = item.Tag
-				}
-				if item.Translated != "" {
-					existing.Translated = item.Translated
 				}
 				if item.Rank > 0 && (existing.BestRank == 0 || item.Rank < existing.BestRank) {
 					existing.BestRank = item.Rank

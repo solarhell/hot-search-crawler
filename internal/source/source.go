@@ -23,8 +23,6 @@ type Item struct {
 	HotText string `json:"hot_text,omitempty"`
 	// Tag 是平台标注，例如 "新"、"热"、"爆"。
 	Tag string `json:"tag,omitempty"`
-	// Translated 是可选的中文译文，国内平台通常为空。
-	Translated string `json:"translated,omitempty"`
 	// Extra 保存平台特有字段，例如抖音的视频数、小红书的榜位变化。
 	Extra map[string]any `json:"extra,omitempty"`
 }
@@ -34,7 +32,6 @@ type Item struct {
 type Source interface {
 	ID() string
 	Name() string
-	Translatable() bool
 	Fetch(ctx context.Context, limit int) ([]Item, error)
 }
 

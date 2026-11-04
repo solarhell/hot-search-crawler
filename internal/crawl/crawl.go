@@ -8,7 +8,6 @@ import (
 	"time"
 
 	"github.com/solarhell/hot-search-crawler/internal/source"
-	"github.com/solarhell/hot-search-crawler/internal/translate"
 )
 
 // SchemaVersion 是输出 JSON 的结构版本。
@@ -42,8 +41,6 @@ type Options struct {
 	Timeout time.Duration
 	// Retries 是单次抓取失败后的重试次数，默认 0。
 	Retries int
-	// Translator 为空表示不做翻译。
-	Translator translate.Translator
 	// Location 用于 GeneratedAt 和文件名，为空时使用本地时区。
 	Location *time.Location
 	// Logger 为空时使用 slog.Default()。
@@ -129,10 +126,6 @@ func fetchOne(ctx context.Context, src source.Source, opts Options) Board {
 		return board
 	}
 
-	if opts.Translator != nil && src.Translatable() {
-		items = translateItems(ctx, opts, logger, items)
-	}
-
 	if len(items) > opts.Top {
 		items = items[:opts.Top]
 	}
@@ -201,32 +194,4 @@ func retryWait(attempt int) time.Duration {
 		wait = 10 * time.Second
 	}
 	return wait
-}
-
-func translateItems(
-	ctx context.Context,
-	opts Options,
-	logger *slog.Logger,
-	items []source.Item,
-) []source.Item {
-	titles := make([]string, len(items))
-	for i := range items {
-		titles[i] = items[i].Title
-	}
-
-	translateCtx, cancel := context.WithTimeout(ctx, 30*time.Second)
-	defer cancel()
-
-	translated, err := opts.Translator.Translate(translateCtx, titles)
-	if err != nil {
-		// 翻译是尽力而为，失败时保留原文。
-		logger.Warn("翻译失败，保留原文", "error", err)
-		return items
-	}
-	for i := range items {
-		if i < len(translated) {
-			items[i].Translated = translated[i]
-		}
-	}
-	return items
 }
