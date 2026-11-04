@@ -144,6 +144,7 @@ func runCrawl(args []string, stdout, stderr io.Writer, daemon bool) int {
 	return runOnce(context.Background(), sources, crawlOpts, cfg, st, logger, cfg.live)
 }
 
+// runOnce 执行一次抓取，并按 live 模式写入实时或归档数据。
 func runOnce(
 	ctx context.Context,
 	sources []source.Source,

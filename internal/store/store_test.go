@@ -70,9 +70,18 @@ func TestWriteSnapshotAndLatest(t *testing.T) {
 	}
 }
 
+// TestWriteLatestHourly 验证归档快照写入独立文件，且不影响实时 latest.json。
 func TestWriteLatestHourly(t *testing.T) {
 	store := newTestStore(t)
 	snap := snapshotAt(t, store, 9, board("weibo", "微博", source.Item{Title: "a", Rank: 1}))
+
+	if err := os.MkdirAll(store.DataDir, 0o755); err != nil {
+		t.Fatalf("mkdir: %v", err)
+	}
+	livePath := filepath.Join(store.DataDir, "latest.json")
+	if err := os.WriteFile(livePath, []byte("live"), 0o644); err != nil {
+		t.Fatalf("seed latest.json: %v", err)
+	}
 
 	path, err := store.WriteLatestHourly(snap)
 	if err != nil {
@@ -82,11 +91,25 @@ func TestWriteLatestHourly(t *testing.T) {
 	if path != want {
 		t.Errorf("path = %q, want %q", path, want)
 	}
-	if _, err := os.Stat(want); err != nil {
-		t.Errorf("stat: %v", err)
+
+	data, err := os.ReadFile(want)
+	if err != nil {
+		t.Fatalf("ReadFile: %v", err)
 	}
-	if _, err := os.Stat(filepath.Join(store.DataDir, "latest.json")); !os.IsNotExist(err) {
-		t.Errorf("WriteLatestHourly 不应写入 latest.json，stat err = %v", err)
+	var decoded crawl.Snapshot
+	if err := json.Unmarshal(data, &decoded); err != nil {
+		t.Fatalf("JSON 无法解析: %v", err)
+	}
+	if len(decoded.Boards) != 1 || len(decoded.Boards[0].Items) != 1 || decoded.Boards[0].Items[0].Title != "a" {
+		t.Errorf("decoded = %+v", decoded)
+	}
+
+	got, err := os.ReadFile(livePath)
+	if err != nil {
+		t.Fatalf("read latest.json: %v", err)
+	}
+	if string(got) != "live" {
+		t.Errorf("WriteLatestHourly 修改了 latest.json: %q", got)
 	}
 }
 
@@ -223,6 +246,7 @@ func TestWriteSummaryAndArchive(t *testing.T) {
 	}
 }
 
+// TestUpdateReadmeReplacesSection 验证 README 标记区间被替换，且区间外内容保持不变。
 func TestUpdateReadmeReplacesSection(t *testing.T) {
 	store := newTestStore(t)
 	path := filepath.Join(t.TempDir(), "README.md")
@@ -305,6 +329,7 @@ func TestFormatHot(t *testing.T) {
 	}
 }
 
+// TestIsHourFile 验证只接受 00-23 的两位小时文件名。
 func TestIsHourFile(t *testing.T) {
 	valid := []string{"00.json", "09.json", "23.json"}
 	for _, name := range valid {

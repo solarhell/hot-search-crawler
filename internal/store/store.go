@@ -96,6 +96,7 @@ func (s *Store) WriteLatestHourly(snapshot crawl.Snapshot) (string, error) {
 	return s.writeLatestFile("latest-hourly.json", snapshot)
 }
 
+// writeLatestFile 将快照写入指定文件名，供实时与归档路径复用。
 func (s *Store) writeLatestFile(name string, snapshot crawl.Snapshot) (string, error) {
 	path := filepath.Join(s.DataDir, name)
 	if err := writeJSON(path, snapshot); err != nil {

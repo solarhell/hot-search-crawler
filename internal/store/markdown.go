@@ -41,6 +41,7 @@ func (s *Store) UpdateReadme(path string, summary Summary) error {
 	return writeFileAtomic(path, []byte(text), 0o644)
 }
 
+// renderReadmeSection 生成 README 标记区间内的今日热榜。
 func renderReadmeSection(summary Summary) string {
 	var b strings.Builder
 
