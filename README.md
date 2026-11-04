@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-05 02:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-05 03:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -34,7 +34,7 @@
 4. [北京周末有明显雨雪天气](https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E5%91%A8%E6%9C%AB%E6%9C%89%E6%98%8E%E6%98%BE%E9%9B%A8%E9%9B%AA%E5%A4%A9%E6%B0%94) — 1178.9万
 5. [王艺迪0:3韩莹](https://www.douyin.com/search/%E7%8E%8B%E8%89%BA%E8%BF%AA0:3%E9%9F%A9%E8%8E%B9) — 1104.7万
 6. [外交部：就中俄美元首会晤保持沟通](https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B0%B1%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A) — 1102.7万
-7. [中印尼利刃2026联训在广州结训](https://www.douyin.com/search/%E4%B8%AD%E5%8D%B0%E5%B0%BC%E5%88%A9%E5%88%832026%E8%81%94%E8%AE%AD%E5%9C%A8%E5%B9%BF%E5%B7%9E%E7%BB%93%E8%AE%AD) — 986.6万
+7. [中印尼利刃2026联训在广州结训](https://www.douyin.com/search/%E4%B8%AD%E5%8D%B0%E5%B0%BC%E5%88%A9%E5%88%832026%E8%81%94%E8%AE%AD%E5%9C%A8%E5%B9%BF%E5%B7%9E%E7%BB%93%E8%AE%AD) — 1040.8万
 8. [大摆羽绒服不用当肥粽子](https://www.douyin.com/search/%E5%A4%A7%E6%91%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E7%94%A8%E5%BD%93%E8%82%A5%E7%B2%BD%E5%AD%90) — 930.2万
 9. [气象部门回应iPhone天气异常数据](https://www.douyin.com/search/%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94iPhone%E5%A4%A9%E6%B0%94%E5%BC%82%E5%B8%B8%E6%95%B0%E6%8D%AE) — 916.5万
 10. [特朗普称将停止对以色列援助](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%8F%B4%E5%8A%A9) — 916.4万
