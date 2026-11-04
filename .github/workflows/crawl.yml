@@ -65,5 +65,5 @@ jobs:
             echo "No data changes"
             exit 0
           fi
-          git commit -m "chore(data): snapshot $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git commit -m "chore(data): snapshot $(date +'%Y-%m-%d %H:%M %z')"
           git push

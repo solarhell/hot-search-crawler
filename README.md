@@ -52,13 +52,13 @@
 9. [原来古诗词里的河南真的存在](https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8) — 727.8万 · 热
 10. [蒸出了奶香爆米花馒头](https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4) — 716.2万 · 热
 
-[完整快照](data/latest.json) · [今日归档](archives/2026-11-04.md)
+[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-04.md)
 <!-- END HOTSEARCH -->
 
 ## 特性
 
 - **三个平台，一种结构**：微博、抖音、小红书统一为 `rank / title / url / hot / tag`，平台特有字段放进 `extra`。
-- **实时与归档分离**：高频运行只发布 `latest.json` 到 GitHub Pages，不写 git；每小时才落一份归档，避免仓库历史膨胀。
+- **实时与归档分离**：高频运行只发布 Pages 的 `latest.json`，不写 git；每小时才落一份归档（最新归档快照为 `data/latest-hourly.json`），避免仓库历史膨胀。
 - **过滤广告**：微博接口里混在 `realtime` 中的推广位（`is_ad=1`）会被剔除，不占榜单名次。
 - **限流友好**：识别小红书 `300013` 限流码，不连续重试；普通失败按 2s → 4s → 8s 指数退避。
 - **零数据库依赖**：默认写文件，可直接用 GitHub Pages、对象存储或任意静态服务消费。
@@ -105,7 +105,7 @@ data/
     09.json          # 每小时一次完整抓取（含各平台成功/失败状态）
     10.json
     summary.json     # 当天聚合：最高热度、最好名次、在榜次数、首次/最后出现
-  latest.json        # 最近一次归档快照；实时数据见 GitHub Pages
+  latest-hourly.json # 最近一次小时归档快照；实时数据见 GitHub Pages
 archives/
   2026-10-30.md      # 当天热榜 Markdown 归档
 README.md            # 标记区间内的今日热榜
@@ -172,7 +172,7 @@ hot-search-crawler version           显示版本
 | `--archives` | `archives` | 每日 Markdown 归档目录 |
 | `--readme` | `README.md` | README 路径 |
 | `--update-readme` | `false` | 把今日热榜写入 README |
-| `--live` | `false` | 只写 `latest.json`，不生成小时快照/日报/README |
+| `--live` | `false` | 只写实时 `latest.json`，不生成小时快照/日报/README |
 | `--dry-run` | `false` | 只输出快照 JSON，不写文件 |
 | `--timeout` | `25s` | 单次请求超时 |
 | `--retries` | `2` | 普通失败的重试次数（限流不重试） |

@@ -181,9 +181,9 @@ func runOnce(
 		logger.Error("写入小时快照失败", "error", err)
 		return 1
 	}
-	latestPath, err := st.WriteLatest(snapshot)
+	latestPath, err := st.WriteLatestHourly(snapshot)
 	if err != nil {
-		logger.Error("写入 latest.json 失败", "error", err)
+		logger.Error("写入 latest-hourly.json 失败", "error", err)
 		return 1
 	}
 
@@ -197,7 +197,7 @@ func runOnce(
 		logger.Error("写入日报失败", "error", err)
 		return 1
 	}
-	logger.Info("数据已写入", "snapshot", snapshotPath, "latest", latestPath, "summary", summaryPath)
+	logger.Info("数据已写入", "snapshot", snapshotPath, "latest_hourly", latestPath, "summary", summaryPath)
 
 	if store.HasData(summary) {
 		archivePath, err := st.WriteArchive(summary)
@@ -286,7 +286,7 @@ func bindCommonFlags(fs *flag.FlagSet, cfg *config) {
 	fs.IntVar(&cfg.retries, "retries", defaultRetries, "失败重试次数")
 	fs.BoolVar(&cfg.translate, "translate", false, "启用翻译（读取 TRANSLATE_* 环境变量）")
 	fs.BoolVar(&cfg.dryRun, "dry-run", false, "只把快照 JSON 输出到标准输出，不写文件")
-	fs.BoolVar(&cfg.live, "live", false, "只写 latest.json，不生成小时快照/日报/README（用于高频发布）")
+	fs.BoolVar(&cfg.live, "live", false, "只写实时 latest.json，不生成小时快照/日报/README（用于高频发布）")
 	fs.BoolVar(&cfg.debug, "debug", false, "输出调试日志")
 }
 

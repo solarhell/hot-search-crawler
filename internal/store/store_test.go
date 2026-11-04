@@ -70,6 +70,26 @@ func TestWriteSnapshotAndLatest(t *testing.T) {
 	}
 }
 
+func TestWriteLatestHourly(t *testing.T) {
+	store := newTestStore(t)
+	snap := snapshotAt(t, store, 9, board("weibo", "微博", source.Item{Title: "a", Rank: 1}))
+
+	path, err := store.WriteLatestHourly(snap)
+	if err != nil {
+		t.Fatalf("WriteLatestHourly: %v", err)
+	}
+	want := filepath.Join(store.DataDir, "latest-hourly.json")
+	if path != want {
+		t.Errorf("path = %q, want %q", path, want)
+	}
+	if _, err := os.Stat(want); err != nil {
+		t.Errorf("stat: %v", err)
+	}
+	if _, err := os.Stat(filepath.Join(store.DataDir, "latest.json")); !os.IsNotExist(err) {
+		t.Errorf("WriteLatestHourly 不应写入 latest.json，stat err = %v", err)
+	}
+}
+
 func TestBuildSummaryMergesHours(t *testing.T) {
 	store := newTestStore(t)
 
@@ -244,6 +264,9 @@ func TestUpdateReadmeReplacesSection(t *testing.T) {
 	if !strings.Contains(text, "### 微博") || !strings.Contains(text, "10万") {
 		t.Errorf("新内容缺失: %s", text)
 	}
+	if !strings.Contains(text, "data/latest-hourly.json") {
+		t.Error("归档快照链接缺失")
+	}
 	if strings.Count(text, beginMarker) != 1 || strings.Count(text, endMarker) != 1 {
 		t.Error("标记数量异常")
 	}
@@ -289,7 +312,7 @@ func TestIsHourFile(t *testing.T) {
 			t.Errorf("%q 应为小时文件", name)
 		}
 	}
-	invalid := []string{"summary.json", "9.json", "24.txt", "latest.json", "a9.json"}
+	invalid := []string{"summary.json", "9.json", "24.txt", "latest.json", "latest-hourly.json", "a9.json"}
 	for _, name := range invalid {
 		if isHourFile(name) {
 			t.Errorf("%q 不应为小时文件", name)

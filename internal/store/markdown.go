@@ -74,7 +74,7 @@ func renderReadmeSection(summary Summary) string {
 		b.WriteString("\n")
 	}
 
-	fmt.Fprintf(&b, "[完整快照](data/latest.json) · [今日归档](archives/%s.md)\n", summary.Date)
+	fmt.Fprintf(&b, "[完整快照](data/latest-hourly.json) · [今日归档](archives/%s.md)\n", summary.Date)
 	return strings.TrimRight(b.String(), "\n")
 }
 
