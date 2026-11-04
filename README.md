@@ -11,24 +11,24 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-04 07:42**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-04 11:19**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [女生刷到另一个自己竟是双胞胎](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E) — 107.5万 · 热
-2. [TES对战IG](https://s.weibo.com/weibo?q=TES%E5%AF%B9%E6%88%98IG) — 75.4万 · 新
-3. [2026世界市长对话宁波](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2%23) — 66.3万
-4. [iPhone天气下周五温差](https://s.weibo.com/weibo?q=iPhone%E5%A4%A9%E6%B0%94%E4%B8%8B%E5%91%A8%E4%BA%94%E6%B8%A9%E5%B7%AE) — 64.8万 · 新
-5. [杨幂曾偷偷观察唐嫣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9B%BE%E5%81%B7%E5%81%B7%E8%A7%82%E5%AF%9F%E5%94%90%E5%AB%A3%23) — 62.5万 · 新
-6. [印度确认申办2036年夏季奥运会](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%A1%AE%E8%AE%A4%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A%23) — 54.9万
-7. [红果历史短剧有点出乎意料](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E5%8E%86%E5%8F%B2%E7%9F%AD%E5%89%A7%E6%9C%89%E7%82%B9%E5%87%BA%E4%B9%8E%E6%84%8F%E6%96%99) — 44万 · 新
-8. [2026世界互联网大会乌镇峰会](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23) — 42.7万
-9. [李钟硕新剧回春了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E6%96%B0%E5%89%A7%E5%9B%9E%E6%98%A5%E4%BA%86%23) — 24万 · 热
-10. [女子每天玩手机10小时患手机痴呆症](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%23) — 22.6万
+1. [iG战胜TES](https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CTES) — 185.3万 · 新
+2. [气象局回应苹果天气APP预报极端天气](https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%B1%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94APP%E9%A2%84%E6%8A%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94%23) — 115.5万 · 热
+3. [2026中国广播电视精品创作大会](https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E7%B2%BE%E5%93%81%E5%88%9B%E4%BD%9C%E5%A4%A7%E4%BC%9A%23) — 109.6万 · 新
+4. [TES止步S16八强](https://s.weibo.com/weibo?q=TES%E6%AD%A2%E6%AD%A5S16%E5%85%AB%E5%BC%BA) — 108.2万 · 新
+5. [女生刷到另一个自己竟是双胞胎](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E) — 107.5万 · 热
+6. [苹果天气突现-32](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94%E7%AA%81%E7%8E%B0-32) — 101.9万 · 新
+7. [LOL官方回应S16长暂停](https://s.weibo.com/weibo?q=%23LOL%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94S16%E9%95%BF%E6%9A%82%E5%81%9C%23) — 87.6万 · 新
+8. [TES对战IG](https://s.weibo.com/weibo?q=TES%E5%AF%B9%E6%88%98IG) — 75.4万 · 新
+9. [2026世界市长对话宁波](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2%23) — 66.3万
+10. [iPhone天气下周五温差](https://s.weibo.com/weibo?q=iPhone%E5%A4%A9%E6%B0%94%E4%B8%8B%E5%91%A8%E4%BA%94%E6%B8%A9%E5%B7%AE) — 64.8万 · 新
 
 ### 抖音
 
-1. [曼联3:2逆转罗马](https://www.douyin.com/search/%E6%9B%BC%E8%81%943:2%E9%80%86%E8%BD%AC%E7%BD%97%E9%A9%AC) — 1211.7万
+1. [曼联3:2逆转罗马](https://www.douyin.com/search/%E6%9B%BC%E8%81%943:2%E9%80%86%E8%BD%AC%E7%BD%97%E9%A9%AC) — 1224.6万
 2. [巴萨主场3:0阿斯顿维拉](https://www.douyin.com/search/%E5%B7%B4%E8%90%A8%E4%B8%BB%E5%9C%BA3:0%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89) — 1210.7万
 3. [世界互联网大会乌镇峰会开幕](https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95) — 1179.6万
 4. [S16淘汰赛IG对战TES](https://www.douyin.com/search/S16%E6%B7%98%E6%B1%B0%E8%B5%9BIG%E5%AF%B9%E6%88%98TES) — 1165.2万
@@ -37,7 +37,7 @@
 7. [真正好吃的美味在民间](https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E5%A5%BD%E5%90%83%E7%9A%84%E7%BE%8E%E5%91%B3%E5%9C%A8%E6%B0%91%E9%97%B4) — 1109.6万
 8. [一句你好胜过千言万语](https://www.douyin.com/search/%E4%B8%80%E5%8F%A5%E4%BD%A0%E5%A5%BD%E8%83%9C%E8%BF%87%E5%8D%83%E8%A8%80%E4%B8%87%E8%AF%AD) — 1048万
 9. [闯入毛茸茸的奇妙世界](https://www.douyin.com/search/%E9%97%AF%E5%85%A5%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C) — 1043.7万
-10. [王楚钦3:0战胜林德](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63:0%E6%88%98%E8%83%9C%E6%9E%97%E5%BE%B7) — 939.4万
+10. [五部门发文促消费基建升级](https://www.douyin.com/search/%E4%BA%94%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E4%BF%83%E6%B6%88%E8%B4%B9%E5%9F%BA%E5%BB%BA%E5%8D%87%E7%BA%A7) — 993.7万
 
 ### 小红书
 
