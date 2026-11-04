@@ -12,18 +12,16 @@ import (
 )
 
 type fakeSource struct {
-	id           string
-	name         string
-	translatable bool
-	items        []source.Item
-	err          error
-	failures     int
-	calls        int
+	id       string
+	name     string
+	items    []source.Item
+	err      error
+	failures int
+	calls    int
 }
 
-func (f *fakeSource) ID() string         { return f.id }
-func (f *fakeSource) Name() string       { return f.name }
-func (f *fakeSource) Translatable() bool { return f.translatable }
+func (f *fakeSource) ID() string   { return f.id }
+func (f *fakeSource) Name() string { return f.name }
 func (f *fakeSource) Fetch(context.Context, int) ([]source.Item, error) {
 	f.calls++
 	if f.err != nil {
@@ -33,17 +31,6 @@ func (f *fakeSource) Fetch(context.Context, int) ([]source.Item, error) {
 		return nil, errors.New("temporary failure")
 	}
 	return f.items, nil
-}
-
-type fakeTranslator struct {
-	results []string
-	err     error
-	calls   int
-}
-
-func (f *fakeTranslator) Translate(context.Context, []string) ([]string, error) {
-	f.calls++
-	return f.results, f.err
 }
 
 func quietLogger() *slog.Logger {
@@ -180,48 +167,6 @@ func TestRunDoesNotRetryThrottle(t *testing.T) {
 	}
 	if src.calls != 1 {
 		t.Errorf("calls = %d, want 1（限流不应重试）", src.calls)
-	}
-}
-
-func TestRunTranslatesTranslatableSource(t *testing.T) {
-	now := time.Date(2026, 10, 30, 9, 5, 0, 0, time.UTC)
-	src := &fakeSource{
-		id:           "twitter",
-		name:         "Twitter",
-		translatable: true,
-		items:        []source.Item{{Title: "hello"}},
-	}
-	tr := &fakeTranslator{results: []string{"你好"}}
-	opts := testOptions(now)
-	opts.Translator = tr
-
-	snapshot := Run(context.Background(), []source.Source{src}, opts)
-	if tr.calls != 1 {
-		t.Fatalf("translator calls = %d, want 1", tr.calls)
-	}
-	if got := snapshot.Boards[0].Items[0].Translated; got != "你好" {
-		t.Errorf("translated = %q, want 你好", got)
-	}
-}
-
-func TestRunKeepsOriginalWhenTranslationFails(t *testing.T) {
-	now := time.Date(2026, 10, 30, 9, 5, 0, 0, time.UTC)
-	src := &fakeSource{
-		id:           "twitter",
-		name:         "Twitter",
-		translatable: true,
-		items:        []source.Item{{Title: "hello"}},
-	}
-	tr := &fakeTranslator{err: errors.New("model down")}
-	opts := testOptions(now)
-	opts.Translator = tr
-
-	snapshot := Run(context.Background(), []source.Source{src}, opts)
-	if !snapshot.Boards[0].OK {
-		t.Fatal("翻译失败不应导致抓取失败")
-	}
-	if snapshot.Boards[0].Items[0].Translated != "" {
-		t.Error("翻译失败时应保留空译文")
 	}
 }
 

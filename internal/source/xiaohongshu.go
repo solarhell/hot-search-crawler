@@ -42,10 +42,8 @@ func NewXiaohongshu() Source {
 	return &xiaohongshuSource{endpoint: xiaohongshuEndpoint}
 }
 
-func (s *xiaohongshuSource) ID() string         { return "xiaohongshu" }
-func (s *xiaohongshuSource) Name() string       { return "小红书" }
-func (s *xiaohongshuSource) Translatable() bool { return false }
-
+func (s *xiaohongshuSource) ID() string   { return "xiaohongshu" }
+func (s *xiaohongshuSource) Name() string { return "小红书" }
 func (s *xiaohongshuSource) Fetch(ctx context.Context, limit int) ([]Item, error) {
 	body, err := getBody(ctx, s.endpoint, requestOptions{
 		impersonate: false,

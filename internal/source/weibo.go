@@ -22,10 +22,8 @@ func NewWeibo() Source {
 	return &weiboSource{endpoint: weiboEndpoint}
 }
 
-func (s *weiboSource) ID() string         { return "weibo" }
-func (s *weiboSource) Name() string       { return "微博" }
-func (s *weiboSource) Translatable() bool { return false }
-
+func (s *weiboSource) ID() string   { return "weibo" }
+func (s *weiboSource) Name() string { return "微博" }
 func (s *weiboSource) Fetch(ctx context.Context, limit int) ([]Item, error) {
 	body, err := getBody(ctx, s.endpoint, requestOptions{
 		impersonate: true,

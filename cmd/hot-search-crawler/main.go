@@ -11,14 +11,12 @@ import (
 	"log/slog"
 	"os"
 	"os/signal"
-	"strings"
 	"syscall"
 	"time"
 
 	"github.com/solarhell/hot-search-crawler/internal/crawl"
 	"github.com/solarhell/hot-search-crawler/internal/source"
 	"github.com/solarhell/hot-search-crawler/internal/store"
-	"github.com/solarhell/hot-search-crawler/internal/translate"
 )
 
 // version 可在构建时通过 -ldflags "-X main.version=v0.1.0" 覆盖。
@@ -44,7 +42,6 @@ type config struct {
 	updateReadme bool
 	timeout      time.Duration
 	retries      int
-	translate    bool
 	dryRun       bool
 	debug        bool
 	live         bool
@@ -108,19 +105,12 @@ func runCrawl(args []string, stdout, stderr io.Writer, daemon bool) int {
 		return 2
 	}
 
-	translator, err := buildTranslator(cfg, sources, logger)
-	if err != nil {
-		logger.Error("翻译配置错误", "error", err)
-		return 2
-	}
-
 	crawlOpts := crawl.Options{
-		Top:        cfg.top,
-		Timeout:    cfg.timeout,
-		Retries:    cfg.retries,
-		Translator: translator,
-		Location:   location,
-		Logger:     logger,
+		Top:      cfg.top,
+		Timeout:  cfg.timeout,
+		Retries:  cfg.retries,
+		Location: location,
+		Logger:   logger,
 	}
 	st := store.New(cfg.dataDir, cfg.archiveDir, location)
 
@@ -285,51 +275,15 @@ func bindCommonFlags(fs *flag.FlagSet, cfg *config) {
 	fs.BoolVar(&cfg.updateReadme, "update-readme", false, "把今日热榜写进 README")
 	fs.DurationVar(&cfg.timeout, "timeout", defaultTimeout, "单次请求超时")
 	fs.IntVar(&cfg.retries, "retries", defaultRetries, "失败重试次数")
-	fs.BoolVar(&cfg.translate, "translate", false, "启用翻译（读取 TRANSLATE_* 环境变量）")
 	fs.BoolVar(&cfg.dryRun, "dry-run", false, "只把快照 JSON 输出到标准输出，不写文件")
 	fs.BoolVar(&cfg.live, "live", false, "只写实时 latest.json，不生成小时快照/日报/README（用于高频发布）")
 	fs.BoolVar(&cfg.debug, "debug", false, "输出调试日志")
 }
 
-func buildTranslator(cfg *config, sources []source.Source, logger *slog.Logger) (translate.Translator, error) {
-	if !cfg.translate {
-		return nil, nil
-	}
-
-	needed := false
-	for _, src := range sources {
-		if src.Translatable() {
-			needed = true
-			break
-		}
-	}
-	if !needed {
-		logger.Info("当前启用的平台都是中文平台，翻译不会执行")
-		return nil, nil
-	}
-
-	baseURL := strings.TrimSpace(os.Getenv("TRANSLATE_BASE_URL"))
-	apiKey := strings.TrimSpace(os.Getenv("TRANSLATE_API_KEY"))
-	model := strings.TrimSpace(os.Getenv("TRANSLATE_MODEL"))
-	if baseURL == "" {
-		baseURL = "https://api.openai.com/v1"
-	}
-	if apiKey == "" || model == "" {
-		return nil, errors.New("启用 --translate 需要设置 TRANSLATE_API_KEY 和 TRANSLATE_MODEL")
-	}
-
-	logger.Info("翻译已启用", "model", model, "base_url", baseURL)
-	return translate.NewOpenAI(translate.OpenAIConfig{
-		BaseURL: baseURL,
-		APIKey:  apiKey,
-		Model:   model,
-	}), nil
-}
-
 func runSources(stdout io.Writer) int {
-	_, _ = fmt.Fprintln(stdout, "ID\t名称\t需要翻译")
+	_, _ = fmt.Fprintln(stdout, "ID\t名称")
 	for _, src := range source.All() {
-		_, _ = fmt.Fprintf(stdout, "%s\t%s\t%t\n", src.ID(), src.Name(), src.Translatable())
+		_, _ = fmt.Fprintf(stdout, "%s\t%s\n", src.ID(), src.Name())
 	}
 	return 0
 }

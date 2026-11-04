@@ -22,10 +22,8 @@ func NewDouyin() Source {
 	return &douyinSource{endpoint: douyinEndpoint}
 }
 
-func (s *douyinSource) ID() string         { return "douyin" }
-func (s *douyinSource) Name() string       { return "抖音" }
-func (s *douyinSource) Translatable() bool { return false }
-
+func (s *douyinSource) ID() string   { return "douyin" }
+func (s *douyinSource) Name() string { return "抖音" }
 func (s *douyinSource) Fetch(ctx context.Context, limit int) ([]Item, error) {
 	body, err := getBody(ctx, s.endpoint, requestOptions{
 		impersonate: true,
