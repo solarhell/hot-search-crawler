@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-05 20:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-05 21:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -29,7 +29,7 @@
 ### 抖音
 
 1. [2027年放假安排来了](https://www.douyin.com/search/2027%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86) — 1234.4万
-2. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1216.6万
+2. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1218.1万
 3. [GEN战胜LYON挺进半决赛](https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CLYON%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B) — 1216.5万
 4. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1211.1万
 5. [同赴进博之约共享东方机遇](https://www.douyin.com/search/%E5%90%8C%E8%B5%B4%E8%BF%9B%E5%8D%9A%E4%B9%8B%E7%BA%A6%E5%85%B1%E4%BA%AB%E4%B8%9C%E6%96%B9%E6%9C%BA%E9%81%87) — 1210.3万
