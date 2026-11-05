@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-05 22:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-05 23:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -31,13 +31,13 @@
 1. [2027年放假安排来了](https://www.douyin.com/search/2027%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86) — 1234.4万
 2. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1218.1万
 3. [GEN战胜LYON挺进半决赛](https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CLYON%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B) — 1216.5万
-4. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1211.1万
-5. [同赴进博之约共享东方机遇](https://www.douyin.com/search/%E5%90%8C%E8%B5%B4%E8%BF%9B%E5%8D%9A%E4%B9%8B%E7%BA%A6%E5%85%B1%E4%BA%AB%E4%B8%9C%E6%96%B9%E6%9C%BA%E9%81%87) — 1210.3万
-6. [GEN对战LYON](https://www.douyin.com/search/GEN%E5%AF%B9%E6%88%98LYON) — 1209.6万
-7. [男生秋冬简约穿搭攻略](https://www.douyin.com/search/%E7%94%B7%E7%94%9F%E7%A7%8B%E5%86%AC%E7%AE%80%E7%BA%A6%E7%A9%BF%E6%90%AD%E6%94%BB%E7%95%A5) — 1208.9万
-8. [原来深秋是咕嘟的](https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B7%B1%E7%A7%8B%E6%98%AF%E5%92%95%E5%98%9F%E7%9A%84) — 1206.2万
-9. [第九届进博会开幕](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%BC%80%E5%B9%95) — 1193.1万
-10. [多部门部署加强消费基础设施建设](https://www.douyin.com/search/%E5%A4%9A%E9%83%A8%E9%97%A8%E9%83%A8%E7%BD%B2%E5%8A%A0%E5%BC%BA%E6%B6%88%E8%B4%B9%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE) — 1181.1万
+4. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1216.4万
+5. [路漫漫终有归处](https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84) — 1215.1万
+6. [同赴进博之约共享东方机遇](https://www.douyin.com/search/%E5%90%8C%E8%B5%B4%E8%BF%9B%E5%8D%9A%E4%B9%8B%E7%BA%A6%E5%85%B1%E4%BA%AB%E4%B8%9C%E6%96%B9%E6%9C%BA%E9%81%87) — 1210.3万
+7. [GEN对战LYON](https://www.douyin.com/search/GEN%E5%AF%B9%E6%88%98LYON) — 1209.6万
+8. [男生秋冬简约穿搭攻略](https://www.douyin.com/search/%E7%94%B7%E7%94%9F%E7%A7%8B%E5%86%AC%E7%AE%80%E7%BA%A6%E7%A9%BF%E6%90%AD%E6%94%BB%E7%95%A5) — 1208.9万
+9. [原来深秋是咕嘟的](https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B7%B1%E7%A7%8B%E6%98%AF%E5%92%95%E5%98%9F%E7%9A%84) — 1206.2万
+10. [第九届进博会开幕](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%BC%80%E5%B9%95) — 1205.5万
 
 ### 小红书
 
