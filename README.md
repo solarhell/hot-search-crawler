@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-05 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-05 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [上岸第一件先娶意中人](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E4%BB%B6%E5%85%88%E5%A8%B6%E6%84%8F%E4%B8%AD%E4%BA%BA) — 207.8万 · 热
 2. [白小纯青稚 文盲吵架](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A+%E6%96%87%E7%9B%B2%E5%90%B5%E6%9E%B6) — 180.4万 · 新
-3. [女子用筋膜枪打肚子减赘肉查出卵巢癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%89%93%E8%82%9A%E5%AD%90%E5%87%8F%E8%B5%98%E8%82%89%E6%9F%A5%E5%87%BA%E5%8D%B5%E5%B7%A2%E7%99%8C%23) — 125万 · 新
-4. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 121.5万 · 新
-5. [第九届进博会亮点扎堆](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%89%8E%E5%A0%86%23) — 120万 · 新
-6. [陕西重大刑案嫌疑人弃车疑逃入山林](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BC%83%E8%BD%A6%E7%96%91%E9%80%83%E5%85%A5%E5%B1%B1%E6%9E%97%23) — 115.8万 · 新
-7. [陕西重大刑案伤者中包括民警](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E4%BC%A4%E8%80%85%E4%B8%AD%E5%8C%85%E6%8B%AC%E6%B0%91%E8%AD%A6%23) — 115.6万
-8. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 115.1万 · 新
-9. [嫁金钗忘删AI水印了](https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86) — 109.7万 · 热
-10. [高市早苗以怪异姿势面见日本天皇](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A5%E6%80%AA%E5%BC%82%E5%A7%BF%E5%8A%BF%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%23) — 98.8万 · 热
+3. [黄之锋再判10年](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E5%88%A410%E5%B9%B4%23) — 126万 · 新
+4. [女子用筋膜枪打肚子减赘肉查出卵巢癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%89%93%E8%82%9A%E5%AD%90%E5%87%8F%E8%B5%98%E8%82%89%E6%9F%A5%E5%87%BA%E5%8D%B5%E5%B7%A2%E7%99%8C%23) — 125万 · 新
+5. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 121.5万 · 新
+6. [第九届进博会亮点扎堆](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%89%8E%E5%A0%86%23) — 120万 · 新
+7. [陕西重大刑案嫌疑人弃车疑逃入山林](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%BC%83%E8%BD%A6%E7%96%91%E9%80%83%E5%85%A5%E5%B1%B1%E6%9E%97%23) — 115.8万 · 新
+8. [陕西重大刑案伤者中包括民警](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E4%BC%A4%E8%80%85%E4%B8%AD%E5%8C%85%E6%8B%AC%E6%B0%91%E8%AD%A6%23) — 115.6万
+9. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 115.1万 · 新
+10. [嫁金钗忘删AI水印了](https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86) — 109.7万 · 热
 
 ### 抖音
 
@@ -35,9 +35,9 @@
 5. [多部门部署加强消费基础设施建设](https://www.douyin.com/search/%E5%A4%9A%E9%83%A8%E9%97%A8%E9%83%A8%E7%BD%B2%E5%8A%A0%E5%BC%BA%E6%B6%88%E8%B4%B9%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE) — 1181.1万
 6. [北京周末有明显雨雪天气](https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E5%91%A8%E6%9C%AB%E6%9C%89%E6%98%8E%E6%98%BE%E9%9B%A8%E9%9B%AA%E5%A4%A9%E6%B0%94) — 1178.9万
 7. [王艺迪0:3韩莹](https://www.douyin.com/search/%E7%8E%8B%E8%89%BA%E8%BF%AA0:3%E9%9F%A9%E8%8E%B9) — 1175.8万
-8. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1153.1万
-9. [读懂31省份三季报三大看点](https://www.douyin.com/search/%E8%AF%BB%E6%87%8231%E7%9C%81%E4%BB%BD%E4%B8%89%E5%AD%A3%E6%8A%A5%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9) — 1147.6万
-10. [马兴瑞被提起公诉](https://www.douyin.com/search/%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89) — 1118.1万
+8. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1168.7万
+9. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1153.1万
+10. [读懂31省份三季报三大看点](https://www.douyin.com/search/%E8%AF%BB%E6%87%8231%E7%9C%81%E4%BB%BD%E4%B8%89%E5%AD%A3%E6%8A%A5%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9) — 1147.6万
 
 ### 小红书
 
