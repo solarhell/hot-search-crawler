@@ -1,145 +1,148 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T18:24:20.008301663+08:00",
+  "generated_at": "2026-11-05T19:24:20.616430536+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-05T18:24:20.784713552+08:00",
-      "elapsed_ms": 776,
+      "fetched_at": "2026-11-05T19:24:21.321985665+08:00",
+      "elapsed_ms": 705,
       "items": [
         {
           "rank": 1,
           "title": "2027放假安排公布",
           "url": "https://s.weibo.com/weibo?q=%232027%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E5%85%AC%E5%B8%83%23",
-          "hot": 14891618,
+          "hot": 10385628,
           "tag": "爆"
         },
         {
           "rank": 2,
-          "title": "端午中秋各1天假",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E5%90%841%E5%A4%A9%E5%81%87%23",
-          "hot": 3540247,
-          "tag": "新"
+          "title": "黄之锋再判10年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E5%88%A410%E5%B9%B4%23",
+          "hot": 2066649
         },
         {
           "rank": 3,
           "title": "100秒解锁进博会亮点",
           "url": "https://s.weibo.com/weibo?q=%23100%E7%A7%92%E8%A7%A3%E9%94%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%23",
-          "hot": 1762995
+          "hot": 1648986
         },
         {
           "rank": 4,
-          "title": "青稚听到王子璇说不会和好表情",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%90%AC%E5%88%B0%E7%8E%8B%E5%AD%90%E7%92%87%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%92%8C%E5%A5%BD%E8%A1%A8%E6%83%85%23",
-          "hot": 1075129,
-          "tag": "热"
+          "title": "C罗从国家队退役",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9%23",
+          "hot": 1635543,
+          "tag": "新"
         },
         {
           "rank": 5,
-          "title": "2027春节9天假",
-          "url": "https://s.weibo.com/weibo?q=%232027%E6%98%A5%E8%8A%829%E5%A4%A9%E5%81%87%23",
-          "hot": 747922,
-          "tag": "新"
+          "title": "端午中秋各1天假",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E5%90%841%E5%A4%A9%E5%81%87%23",
+          "hot": 1560559,
+          "tag": "沸"
         },
         {
           "rank": 6,
-          "title": "白小纯青稚排名",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E6%8E%92%E5%90%8D%23",
-          "hot": 670307
-        },
-        {
-          "rank": 7,
-          "title": "黄之锋再判10年",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E5%88%A410%E5%B9%B4%23",
-          "hot": 604664
-        },
-        {
-          "rank": 8,
-          "title": "雇主辞退阿姨后称付出真心遭报应",
-          "url": "https://s.weibo.com/weibo?q=%E9%9B%87%E4%B8%BB%E8%BE%9E%E9%80%80%E9%98%BF%E5%A7%A8%E5%90%8E%E7%A7%B0%E4%BB%98%E5%87%BA%E7%9C%9F%E5%BF%83%E9%81%AD%E6%8A%A5%E5%BA%94",
-          "hot": 540395
-        },
-        {
-          "rank": 9,
-          "title": "许飞脚踹厉娜",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E8%84%9A%E8%B8%B9%E5%8E%89%E5%A8%9C%23",
-          "hot": 534265,
+          "title": "多地宣布结婚奖钱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%E5%A5%96%E9%92%B1%23",
+          "hot": 394773,
           "tag": "新"
         },
         {
+          "rank": 7,
+          "title": "白小纯青稚排名",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E6%8E%92%E5%90%8D%23",
+          "hot": 359964
+        },
+        {
+          "rank": 8,
+          "title": "C罗结束23年国家队生涯",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%BB%93%E6%9D%9F23%E5%B9%B4%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF%23",
+          "hot": 301674,
+          "tag": "新"
+        },
+        {
+          "rank": 9,
+          "title": "缅甸水牢虐待中国公民细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%B0%B4%E7%89%A2%E8%99%90%E5%BE%85%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23",
+          "hot": 301147
+        },
+        {
           "rank": 10,
-          "title": "独生子女不一定能继承父母全部遗产",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%23",
-          "hot": 458700
+          "title": "折月亮",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%98%E6%9C%88%E4%BA%AE",
+          "hot": 300510,
+          "tag": "新"
         },
         {
           "rank": 11,
-          "title": "王子璇口碑",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E5%8F%A3%E7%A2%91",
-          "hot": 445230,
+          "title": "王子璇光是这一段话就秒了作家文吉儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%85%89%E6%98%AF%E8%BF%99%E4%B8%80%E6%AE%B5%E8%AF%9D%E5%B0%B1%E7%A7%92%E4%BA%86%E4%BD%9C%E5%AE%B6%E6%96%87%E5%90%89%E5%84%BF%23",
+          "hot": 300268,
           "tag": "新"
         },
         {
           "rank": 12,
-          "title": "张子萱拍穿搭视频陈赫忍不住抱她",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E8%90%B1%E6%8B%8D%E7%A9%BF%E6%90%AD%E8%A7%86%E9%A2%91%E9%99%88%E8%B5%AB%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%8A%B1%E5%A5%B9%23",
-          "hot": 429935,
+          "title": "许飞脚踹厉娜",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E8%84%9A%E8%B8%B9%E5%8E%89%E5%A8%9C%23",
+          "hot": 298852,
           "tag": "热"
         },
         {
           "rank": 13,
-          "title": "张萌觉得马天宇认为她是老板娘",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E8%A7%89%E5%BE%97%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AE%A4%E4%B8%BA%E5%A5%B9%E6%98%AF%E8%80%81%E6%9D%BF%E5%A8%98",
-          "hot": 414049
+          "title": "张子萱拍穿搭视频陈赫忍不住抱她",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E8%90%B1%E6%8B%8D%E7%A9%BF%E6%90%AD%E8%A7%86%E9%A2%91%E9%99%88%E8%B5%AB%E5%BF%8D%E4%B8%8D%E4%BD%8F%E6%8A%B1%E5%A5%B9%23",
+          "hot": 297938
         },
         {
           "rank": 14,
-          "title": "元旦清明端午中秋不调休",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E6%B8%85%E6%98%8E%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E4%B8%8D%E8%B0%83%E4%BC%91%23",
-          "hot": 396149,
-          "tag": "新"
+          "title": "印部长宣称中国不给盾构机就自己造",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E9%83%A8%E9%95%BF%E5%AE%A3%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%BB%99%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%B0%B1%E8%87%AA%E5%B7%B1%E9%80%A0%23",
+          "hot": 297145
         },
         {
           "rank": 15,
-          "title": "刘维回应去谢娜演唱会被指忘本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8C%87%E5%BF%98%E6%9C%AC%23",
-          "hot": 366482,
+          "title": "后会友期 黄焖鸡老板能不能放监控",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E9%BB%84%E7%84%96%E9%B8%A1%E8%80%81%E6%9D%BF%E8%83%BD%E4%B8%8D%E8%83%BD%E6%94%BE%E7%9B%91%E6%8E%A7",
+          "hot": 296758,
           "tag": "新"
         },
         {
           "rank": 16,
-          "title": "印部长宣称中国不给盾构机就自己造",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E9%83%A8%E9%95%BF%E5%AE%A3%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%BB%99%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%B0%B1%E8%87%AA%E5%B7%B1%E9%80%A0%23",
-          "hot": 359050
-        },
-        {
-          "rank": 17,
-          "title": "2027中秋端午不调休",
-          "url": "https://s.weibo.com/weibo?q=%232027%E4%B8%AD%E7%A7%8B%E7%AB%AF%E5%8D%88%E4%B8%8D%E8%B0%83%E4%BC%91%23",
-          "hot": 356474,
+          "title": "燕云十六声",
+          "url": "https://s.weibo.com/weibo?q=%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0",
+          "hot": 296084,
           "tag": "新"
         },
         {
+          "rank": 17,
+          "title": "王子璇口碑",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E5%8F%A3%E7%A2%91",
+          "hot": 294949,
+          "tag": "热"
+        },
+        {
           "rank": 18,
-          "title": "38岁男子被骗到缅甸因太老卖不掉",
-          "url": "https://s.weibo.com/weibo?q=%2338%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E7%94%B8%E5%9B%A0%E5%A4%AA%E8%80%81%E5%8D%96%E4%B8%8D%E6%8E%89%23",
-          "hot": 354144
+          "title": "厉娜的戒指是许飞红色塑料凳",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E7%9A%84%E6%88%92%E6%8C%87%E6%98%AF%E8%AE%B8%E9%A3%9E%E7%BA%A2%E8%89%B2%E5%A1%91%E6%96%99%E5%87%B3%23",
+          "hot": 293398,
+          "tag": "新"
         },
         {
           "rank": 19,
-          "title": "春节9天假拿两个周日换的",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%829%E5%A4%A9%E5%81%87%E6%8B%BF%E4%B8%A4%E4%B8%AA%E5%91%A8%E6%97%A5%E6%8D%A2%E7%9A%84",
-          "hot": 339517,
+          "title": "调休少了假期没变长",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%83%E4%BC%91%E5%B0%91%E4%BA%86%E5%81%87%E6%9C%9F%E6%B2%A1%E5%8F%98%E9%95%BF",
+          "hot": 289695,
           "tag": "新"
         },
         {
           "rank": 20,
-          "title": "AI短剧持械入宋剧情太牛",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E5%89%A7%E6%83%85%E5%A4%AA%E7%89%9B",
-          "hot": 283217
+          "title": "C罗宣布退出葡萄牙国家队",
+          "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "hot": 288584,
+          "tag": "新"
         }
       ]
     },
@@ -147,18 +150,17 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-05T18:24:21.080176109+08:00",
-      "elapsed_ms": 1071,
+      "fetched_at": "2026-11-05T19:24:22.093042497+08:00",
+      "elapsed_ms": 1476,
       "items": [
         {
           "rank": 1,
           "title": "2027年放假安排来了",
           "url": "https://www.douyin.com/search/2027%E5%B9%B4%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
-          "hot": 12060890,
+          "hot": 12107932,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793869451,
-            "label": 1,
             "sentence_id": "2731081",
             "video_count": 12
           }
@@ -167,7 +169,7 @@
           "rank": 2,
           "title": "一道热乎菜开启各地冬天",
           "url": "https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9",
-          "hot": 12038706,
+          "hot": 11963562,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793757490,
@@ -180,7 +182,7 @@
           "rank": 3,
           "title": "同赴进博之约共享东方机遇",
           "url": "https://www.douyin.com/search/%E5%90%8C%E8%B5%B4%E8%BF%9B%E5%8D%9A%E4%B9%8B%E7%BA%A6%E5%85%B1%E4%BA%AB%E4%B8%9C%E6%96%B9%E6%9C%BA%E9%81%87",
-          "hot": 11906327,
+          "hot": 11631545,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793865483,
@@ -190,21 +192,22 @@
         },
         {
           "rank": 4,
-          "title": "A股收盘三大指数均上涨",
-          "url": "https://www.douyin.com/search/A%E8%82%A1%E6%94%B6%E7%9B%98%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E4%B8%8A%E6%B6%A8",
-          "hot": 11604458,
+          "title": "C罗宣布从葡萄牙国家队退役",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+          "hot": 11603510,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793864396,
-            "sentence_id": "2730831",
-            "video_count": 4
+            "event_time": 1793874800,
+            "label": 1,
+            "sentence_id": "2731329",
+            "video_count": 8
           }
         },
         {
           "rank": 5,
           "title": "路漫漫终有归处",
           "url": "https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84",
-          "hot": 10793093,
+          "hot": 10615870,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793869387,
@@ -215,9 +218,34 @@
         },
         {
           "rank": 6,
+          "title": "黄之锋再获刑10年",
+          "url": "https://www.douyin.com/search/%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E8%8E%B7%E5%88%9110%E5%B9%B4",
+          "hot": 9227118,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793846247,
+            "sentence_id": "2730154",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 7,
+          "title": "C罗告别信：交还7号的时候到了",
+          "url": "https://www.douyin.com/search/C%E7%BD%97%E5%91%8A%E5%88%AB%E4%BF%A1%EF%BC%9A%E4%BA%A4%E8%BF%987%E5%8F%B7%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86",
+          "hot": 9190403,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793875418,
+            "label": 1,
+            "sentence_id": "2731349",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 8,
           "title": "你怎么舍得让有趣的知识流走",
           "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0",
-          "hot": 10542860,
+          "hot": 9137658,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793852057,
@@ -226,60 +254,22 @@
           }
         },
         {
-          "rank": 7,
-          "title": "黄之锋再获刑10年",
-          "url": "https://www.douyin.com/search/%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E8%8E%B7%E5%88%9110%E5%B9%B4",
-          "hot": 9409892,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793846247,
-            "sentence_id": "2730154",
-            "video_count": 7
-          }
-        },
-        {
-          "rank": 8,
-          "title": "GEN战胜LYON挺进半决赛",
-          "url": "https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CLYON%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B",
-          "hot": 9377419,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793836534,
-            "sentence_id": "2730004",
-            "video_count": 7
-          }
-        },
-        {
           "rank": 9,
-          "title": "更适合年轻人的文玩配饰",
-          "url": "https://www.douyin.com/search/%E6%9B%B4%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E7%8E%A9%E9%85%8D%E9%A5%B0",
-          "hot": 9282668,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793859813,
-            "label": 1,
-            "sentence_id": "2730555",
-            "video_count": 3
-          }
-        },
-        {
-          "rank": 10,
           "title": "马刺险胜独行侠",
           "url": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA%E9%99%A9%E8%83%9C%E7%8B%AC%E8%A1%8C%E4%BE%A0",
-          "hot": 9237279,
+          "hot": 9095230,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793856675,
-            "label": 3,
             "sentence_id": "2730424",
             "video_count": 3
           }
         },
         {
-          "rank": 11,
+          "rank": 10,
           "title": "一件单品穿两季穿搭技巧",
           "url": "https://www.douyin.com/search/%E4%B8%80%E4%BB%B6%E5%8D%95%E5%93%81%E7%A9%BF%E4%B8%A4%E5%AD%A3%E7%A9%BF%E6%90%AD%E6%8A%80%E5%B7%A7",
-          "hot": 9190383,
+          "hot": 9061699,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793782880,
@@ -289,10 +279,10 @@
           }
         },
         {
-          "rank": 12,
+          "rank": 11,
           "title": "当秋冬穿搭不再all black",
           "url": "https://www.douyin.com/search/%E5%BD%93%E7%A7%8B%E5%86%AC%E7%A9%BF%E6%90%AD%E4%B8%8D%E5%86%8Dall%20black",
-          "hot": 9143519,
+          "hot": 9008312,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793861572,
@@ -301,72 +291,59 @@
           }
         },
         {
-          "rank": 13,
-          "title": "互联护苗展播",
-          "url": "https://www.douyin.com/search/%E4%BA%92%E8%81%94%E6%8A%A4%E8%8B%97%E5%B1%95%E6%92%AD",
-          "hot": 9134080,
+          "rank": 12,
+          "title": "GEN战胜LYON挺进半决赛",
+          "url": "https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CLYON%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B",
+          "hot": 8881149,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793872720,
-            "label": 16,
-            "sentence_id": "2731253",
-            "video_count": 1
+            "event_time": 1793836534,
+            "sentence_id": "2730004",
+            "video_count": 7
+          }
+        },
+        {
+          "rank": 13,
+          "title": "更适合年轻人的文玩配饰",
+          "url": "https://www.douyin.com/search/%E6%9B%B4%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E7%8E%A9%E9%85%8D%E9%A5%B0",
+          "hot": 8877825,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793859813,
+            "sentence_id": "2730555",
+            "video_count": 3
           }
         },
         {
           "rank": 14,
           "title": "WTT法兰克福王楚钦vs温瑞博",
           "url": "https://www.douyin.com/search/WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%B8%A9%E7%91%9E%E5%8D%9A",
-          "hot": 9118133,
+          "hot": 8818467,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793869300,
             "label": 1,
             "sentence_id": "2731075",
-            "video_count": 2
+            "video_count": 3
           }
         },
         {
           "rank": 15,
-          "title": "民主党要求“必须结束”伊朗战争",
-          "url": "https://www.douyin.com/search/%E6%B0%91%E4%B8%BB%E5%85%9A%E8%A6%81%E6%B1%82%E2%80%9C%E5%BF%85%E9%A1%BB%E7%BB%93%E6%9D%9F%E2%80%9D%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89",
-          "hot": 9100049,
+          "title": "A股收盘三大指数均上涨",
+          "url": "https://www.douyin.com/search/A%E8%82%A1%E6%94%B6%E7%9B%98%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E4%B8%8A%E6%B6%A8",
+          "hot": 8770005,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1793853253,
-            "sentence_id": "2730353",
-            "video_count": 7
+            "event_time": 1793864396,
+            "sentence_id": "2730831",
+            "video_count": 5
           }
         },
         {
           "rank": 16,
-          "title": "马兴瑞被提起公诉",
-          "url": "https://www.douyin.com/search/%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
-          "hot": 9084926,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793844084,
-            "sentence_id": "2730092",
-            "video_count": 7
-          }
-        },
-        {
-          "rank": 17,
-          "title": "常冰玉胜赵心童晋级国锦赛四强",
-          "url": "https://www.douyin.com/search/%E5%B8%B8%E5%86%B0%E7%8E%89%E8%83%9C%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%9B%9B%E5%BC%BA",
-          "hot": 9042844,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793835618,
-            "sentence_id": "2729992",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 18,
           "title": "三角洲新刀皮黑伤测评",
           "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E5%88%80%E7%9A%AE%E9%BB%91%E4%BC%A4%E6%B5%8B%E8%AF%84",
-          "hot": 8947542,
+          "hot": 8672142,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793849969,
@@ -376,28 +353,55 @@
           }
         },
         {
-          "rank": 19,
-          "title": "今年立冬吃超长长长饺子",
-          "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90",
-          "hot": 8762375,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1793845357,
-            "sentence_id": "2730126",
-            "video_count": 3
-          }
-        },
-        {
-          "rank": 20,
+          "rank": 17,
           "title": "76人战胜活塞迎五连胜",
           "url": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E6%B4%BB%E5%A1%9E%E8%BF%8E%E4%BA%94%E8%BF%9E%E8%83%9C",
-          "hot": 8612706,
+          "hot": 8123251,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1793842096,
             "label": 3,
             "sentence_id": "2730060",
             "video_count": 9
+          }
+        },
+        {
+          "rank": 18,
+          "title": "2027春节连休9天",
+          "url": "https://www.douyin.com/search/2027%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9",
+          "hot": 7903148,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793871489,
+            "label": 1,
+            "sentence_id": "2731197",
+            "video_count": 7
+          }
+        },
+        {
+          "rank": 19,
+          "title": "吴磊一天骑行100公里",
+          "url": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E4%B8%80%E5%A4%A9%E9%AA%91%E8%A1%8C100%E5%85%AC%E9%87%8C",
+          "hot": 7874383,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793860339,
+            "label": 3,
+            "sentence_id": "2730580",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 20,
+          "title": "TheShy喊话把力量借给iG",
+          "url": "https://www.douyin.com/search/TheShy%E5%96%8A%E8%AF%9D%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99iG",
+          "hot": 7783665,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793859928,
+            "label": 3,
+            "sentence_id": "2730565",
+            "video_count": 1
           }
         }
       ]
@@ -406,8 +410,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": false,
-      "fetched_at": "2026-11-05T18:24:20.343625709+08:00",
-      "elapsed_ms": 335,
+      "fetched_at": "2026-11-05T19:24:21.011543891+08:00",
+      "elapsed_ms": 395,
       "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
       "items": []
     }

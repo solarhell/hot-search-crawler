@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-05 18:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-05 19:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [2027放假安排公布](https://s.weibo.com/weibo?q=%232027%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E5%85%AC%E5%B8%83%23) — 1489.2万 · 新
 2. [端午中秋各1天假](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E5%90%841%E5%A4%A9%E5%81%87%23) — 354万 · 新
 3. [上岸第一件先娶意中人](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E4%BB%B6%E5%85%88%E5%A8%B6%E6%84%8F%E4%B8%AD%E4%BA%BA) — 207.8万 · 热
-4. [白小纯青稚 文盲吵架](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A+%E6%96%87%E7%9B%B2%E5%90%B5%E6%9E%B6) — 180.4万 · 新
-5. [100秒解锁进博会亮点](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E8%A7%A3%E9%94%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%23) — 176.3万 · 新
-6. [黄之锋再判10年](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E5%88%A410%E5%B9%B4%23) — 149.2万 · 新
-7. [青稚听到王子璇说不会和好表情](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%90%AC%E5%88%B0%E7%8E%8B%E5%AD%90%E7%92%87%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%92%8C%E5%A5%BD%E8%A1%A8%E6%83%85%23) — 132.6万 · 新
-8. [2027春节9天假](https://s.weibo.com/weibo?q=%232027%E6%98%A5%E8%8A%829%E5%A4%A9%E5%81%87%23) — 129.4万 · 新
-9. [女子用筋膜枪打肚子减赘肉查出卵巢癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%89%93%E8%82%9A%E5%AD%90%E5%87%8F%E8%B5%98%E8%82%89%E6%9F%A5%E5%87%BA%E5%8D%B5%E5%B7%A2%E7%99%8C%23) — 125万 · 新
-10. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 121.5万 · 新
+4. [黄之锋再判10年](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E5%88%A410%E5%B9%B4%23) — 206.7万 · 新
+5. [白小纯青稚 文盲吵架](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A+%E6%96%87%E7%9B%B2%E5%90%B5%E6%9E%B6) — 180.4万 · 新
+6. [100秒解锁进博会亮点](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E8%A7%A3%E9%94%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%23) — 176.3万 · 新
+7. [C罗从国家队退役](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9%23) — 163.6万 · 新
+8. [青稚听到王子璇说不会和好表情](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%90%AC%E5%88%B0%E7%8E%8B%E5%AD%90%E7%92%87%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%92%8C%E5%A5%BD%E8%A1%A8%E6%83%85%23) — 132.6万 · 新
+9. [2027春节9天假](https://s.weibo.com/weibo?q=%232027%E6%98%A5%E8%8A%829%E5%A4%A9%E5%81%87%23) — 129.4万 · 新
+10. [女子用筋膜枪打肚子减赘肉查出卵巢癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%89%93%E8%82%9A%E5%AD%90%E5%87%8F%E8%B5%98%E8%82%89%E6%9F%A5%E5%87%BA%E5%8D%B5%E5%B7%A2%E7%99%8C%23) — 125万 · 新
 
 ### 抖音
 
