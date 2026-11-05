@@ -13,9 +13,12 @@ permissions:
   pages: write
   id-token: write
 
+# 不要取消在途的 Pages 部署：被取消的 deploy-pages 会在 Pages 侧留下
+# in_progress 的部署，导致后续运行持续报 "in progress deployment"。
+# 排队时 GitHub 只保留最新一个 pending run，不会积压。
 concurrency:
-  group: live
-  cancel-in-progress: true
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   publish:
