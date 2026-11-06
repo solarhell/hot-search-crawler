@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-07 01:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-07 02:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -35,9 +35,9 @@
 5. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1048.6万
 6. [多地目击巨型火流星划过](https://www.douyin.com/search/%E5%A4%9A%E5%9C%B0%E7%9B%AE%E5%87%BB%E5%B7%A8%E5%9E%8B%E7%81%AB%E6%B5%81%E6%98%9F%E5%88%92%E8%BF%87) — 1046.7万
 7. [又到穿费尔岛的季节了](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E7%A9%BF%E8%B4%B9%E5%B0%94%E5%B2%9B%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86) — 1030.3万
-8. [好闺闺都要吃的入冬九件套](https://www.douyin.com/search/%E5%A5%BD%E9%97%BA%E9%97%BA%E9%83%BD%E8%A6%81%E5%90%83%E7%9A%84%E5%85%A5%E5%86%AC%E4%B9%9D%E4%BB%B6%E5%A5%97) — 919.7万
-9. [降温了羽绒服先穿为敬](https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC) — 915.4万
-10. [反跨境腐败法表决通过](https://www.douyin.com/search/%E5%8F%8D%E8%B7%A8%E5%A2%83%E8%85%90%E8%B4%A5%E6%B3%95%E8%A1%A8%E5%86%B3%E9%80%9A%E8%BF%87) — 915万
+8. [好闺闺都要吃的入冬九件套](https://www.douyin.com/search/%E5%A5%BD%E9%97%BA%E9%97%BA%E9%83%BD%E8%A6%81%E5%90%83%E7%9A%84%E5%85%A5%E5%86%AC%E4%B9%9D%E4%BB%B6%E5%A5%97) — 927万
+9. [降温了羽绒服先穿为敬](https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC) — 916.6万
+10. [土耳其连环枪击案致8人死亡](https://www.douyin.com/search/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%BF%9E%E7%8E%AF%E6%9E%AA%E5%87%BB%E6%A1%88%E8%87%B48%E4%BA%BA%E6%AD%BB%E4%BA%A1) — 916.2万
 
 ### 小红书
 
