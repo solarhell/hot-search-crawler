@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-06 10:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-06 11:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [温瑞博3比0王楚钦](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9A3%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%23) — 287.5万 · 热
 2. [BLG战胜DK](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CDK) — 240.2万 · 新
-3. [何以中国对话红山](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E7%BA%A2%E5%B1%B1%23) — 137.8万
-4. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
-5. [54岁大哥靠AI短剧还清负债](https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23) — 116万 · 新
-6. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 102.3万 · 新
-7. [陆翊长文回应和文吉儿王子璇关系](https://s.weibo.com/weibo?q=%23%E9%99%86%E7%BF%8A%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E5%92%8C%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87%E5%85%B3%E7%B3%BB%23) — 99.2万 · 新
-8. [美股崩跌原因](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23) — 84.1万 · 新
-9. [DK对战BLG](https://s.weibo.com/weibo?q=%23DK%E5%AF%B9%E6%88%98BLG%23) — 78.3万 · 新
-10. [后会友期81.2%了](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F81.2%25%E4%BA%86%23) — 73.8万 · 热
+3. [DK输BLG后台镜头曝光](https://s.weibo.com/weibo?q=%23DK%E8%BE%93BLG%E5%90%8E%E5%8F%B0%E9%95%9C%E5%A4%B4%E6%9B%9D%E5%85%89%23) — 152.6万 · 新
+4. [何以中国对话红山](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E7%BA%A2%E5%B1%B1%23) — 137.8万
+5. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
+6. [54岁大哥靠AI短剧还清负债](https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23) — 116万 · 新
+7. [2027放假 上二休一上二休二](https://s.weibo.com/weibo?q=2027%E6%94%BE%E5%81%87+%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%B8%80%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%BA%8C) — 103.2万 · 新
+8. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91) — 102.3万 · 新
+9. [陆翊长文回应和文吉儿王子璇关系](https://s.weibo.com/weibo?q=%23%E9%99%86%E7%BF%8A%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E5%92%8C%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87%E5%85%B3%E7%B3%BB%23) — 99.2万 · 新
+10. [美股崩跌原因](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23) — 84.1万 · 新
 
 ### 抖音
 
