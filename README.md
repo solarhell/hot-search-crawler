@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-06 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-06 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -28,7 +28,7 @@
 
 ### 抖音
 
-1. [BLG战胜DK晋级半决赛](https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CDK%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B) — 1213.3万
+1. [BLG战胜DK晋级半决赛](https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CDK%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B) — 1215万
 2. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1213万
 3. [WTT法兰克福王楚钦vs温瑞博](https://www.douyin.com/search/WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%B8%A9%E7%91%9E%E5%8D%9A) — 1211.7万
 4. [DK对阵BLG](https://www.douyin.com/search/DK%E5%AF%B9%E9%98%B5BLG) — 1211.5万
