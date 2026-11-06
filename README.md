@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-06 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-06 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [温瑞博3比0王楚钦](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9A3%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%23) — 287.5万 · 热
 2. [BLG战胜DK](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CDK) — 240.2万 · 新
-3. [青稚崩溃](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%B4%A9%E6%BA%83) — 159.8万 · 新
-4. [DK输BLG后台镜头曝光](https://s.weibo.com/weibo?q=%23DK%E8%BE%93BLG%E5%90%8E%E5%8F%B0%E9%95%9C%E5%A4%B4%E6%9B%9D%E5%85%89%23) — 152.6万 · 新
-5. [何以中国对话红山](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E7%BA%A2%E5%B1%B1%23) — 137.8万
-6. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
-7. [2027放假 上二休一上二休二](https://s.weibo.com/weibo?q=2027%E6%94%BE%E5%81%87+%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%B8%80%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%BA%8C) — 125万 · 新
-8. [袁成杰说会努力还债](https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%88%90%E6%9D%B0%E8%AF%B4%E4%BC%9A%E5%8A%AA%E5%8A%9B%E8%BF%98%E5%80%BA%23) — 116万 · 新
-9. [54岁大哥靠AI短剧还清负债](https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23) — 116万 · 新
-10. [不调休是把选择权还给老百姓](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%B0%83%E4%BC%91%E6%98%AF%E6%8A%8A%E9%80%89%E6%8B%A9%E6%9D%83%E8%BF%98%E7%BB%99%E8%80%81%E7%99%BE%E5%A7%93%23) — 107.9万 · 新
+3. [商南命案嫌犯孙某已死亡](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%AD%99%E6%9F%90%E5%B7%B2%E6%AD%BB%E4%BA%A1%23) — 169.6万 · 新
+4. [青稚崩溃](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%B4%A9%E6%BA%83) — 159.8万 · 新
+5. [DK输BLG后台镜头曝光](https://s.weibo.com/weibo?q=%23DK%E8%BE%93BLG%E5%90%8E%E5%8F%B0%E9%95%9C%E5%A4%B4%E6%9B%9D%E5%85%89%23) — 152.6万 · 新
+6. [何以中国对话红山](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E7%BA%A2%E5%B1%B1%23) — 137.8万
+7. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
+8. [2027放假 上二休一上二休二](https://s.weibo.com/weibo?q=2027%E6%94%BE%E5%81%87+%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%B8%80%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%BA%8C) — 125万 · 新
+9. [袁成杰说会努力还债](https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%88%90%E6%9D%B0%E8%AF%B4%E4%BC%9A%E5%8A%AA%E5%8A%9B%E8%BF%98%E5%80%BA%23) — 116万 · 新
+10. [54岁大哥靠AI短剧还清负债](https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23) — 116万 · 新
 
 ### 抖音
 
