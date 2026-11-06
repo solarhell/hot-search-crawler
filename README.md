@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-06 06:19**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-06 08:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
-2. [后会友期81.2%了](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F81.2%25%E4%BA%86%23) — 73.8万 · 热
-3. [6G将在2030年左右实现商用](https://s.weibo.com/weibo?q=%236G%E5%B0%86%E5%9C%A82030%E5%B9%B4%E5%B7%A6%E5%8F%B3%E5%AE%9E%E7%8E%B0%E5%95%86%E7%94%A8%23) — 72.1万
-4. [文吉儿 王子璇](https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF+%E7%8E%8B%E5%AD%90%E7%92%87) — 71.5万 · 热
-5. [曝白小纯天早期天霸工资](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%A4%A9%E6%97%A9%E6%9C%9F%E5%A4%A9%E9%9C%B8%E5%B7%A5%E8%B5%84%23) — 45.6万 · 新
-6. [众球星致敬C罗](https://s.weibo.com/weibo?q=%23%E4%BC%97%E7%90%83%E6%98%9F%E8%87%B4%E6%95%ACC%E7%BD%97%23) — 42.4万
-7. [端午中秋各1天假](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E5%90%841%E5%A4%A9%E5%81%87%23) — 41.8万 · 沸
-8. [我国秋粮收获已过9成](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E5%B7%B2%E8%BF%879%E6%88%90%23) — 32.6万
-9. [美股AI硬件股大跌](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C) — 30.3万 · 新
-10. [人社局回应小学无薪酬招跟岗教师](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%A4%BE%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E6%97%A0%E8%96%AA%E9%85%AC%E6%8B%9B%E8%B7%9F%E5%B2%97%E6%95%99%E5%B8%88%23) — 30.1万
+1. [温瑞博3比0王楚钦](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9A3%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%23) — 287.5万 · 热
+2. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
+3. [何以中国对话红山](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E7%BA%A2%E5%B1%B1%23) — 85.5万
+4. [陆翊长文回应和文吉儿王子璇关系](https://s.weibo.com/weibo?q=%23%E9%99%86%E7%BF%8A%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E5%92%8C%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87%E5%85%B3%E7%B3%BB%23) — 85万 · 新
+5. [美股崩跌原因](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23) — 84.1万 · 新
+6. [DK对战BLG](https://s.weibo.com/weibo?q=%23DK%E5%AF%B9%E6%88%98BLG%23) — 78.3万 · 新
+7. [后会友期81.2%了](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F81.2%25%E4%BA%86%23) — 73.8万 · 热
+8. [6G将在2030年左右实现商用](https://s.weibo.com/weibo?q=%236G%E5%B0%86%E5%9C%A82030%E5%B9%B4%E5%B7%A6%E5%8F%B3%E5%AE%9E%E7%8E%B0%E5%95%86%E7%94%A8%23) — 72.1万
+9. [文吉儿 王子璇](https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF+%E7%8E%8B%E5%AD%90%E7%92%87) — 71.5万 · 热
+10. [曝白小纯天早期天霸工资](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%A4%A9%E6%97%A9%E6%9C%9F%E5%A4%A9%E9%9C%B8%E5%B7%A5%E8%B5%84%23) — 45.6万 · 新
 
 ### 抖音
 
 1. [你怎么舍得让有趣的知识流走](https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0) — 1213万
 2. [WTT法兰克福王楚钦vs温瑞博](https://www.douyin.com/search/WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%B8%A9%E7%91%9E%E5%8D%9A) — 1211.7万
-3. [路漫漫终有归处](https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84) — 1202.8万
-4. [第九届进博会开幕](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%BC%80%E5%B9%95) — 1202.8万
-5. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1200.1万
-6. [更适合年轻人的文玩配饰](https://www.douyin.com/search/%E6%9B%B4%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E7%8E%A9%E9%85%8D%E9%A5%B0) — 1171.6万
-7. [日本考虑紧急情况下运进核武器](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E8%80%83%E8%99%91%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%90%E8%BF%9B%E6%A0%B8%E6%AD%A6%E5%99%A8) — 964.6万
-8. [伊朗举行大规模反美集会](https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E7%BE%8E%E9%9B%86%E4%BC%9A) — 938万
-9. [黄金后市怎么走](https://www.douyin.com/search/%E9%BB%84%E9%87%91%E5%90%8E%E5%B8%82%E6%80%8E%E4%B9%88%E8%B5%B0) — 931.9万
-10. [一件单品穿两季穿搭技巧](https://www.douyin.com/search/%E4%B8%80%E4%BB%B6%E5%8D%95%E5%93%81%E7%A9%BF%E4%B8%A4%E5%AD%A3%E7%A9%BF%E6%90%AD%E6%8A%80%E5%B7%A7) — 926.5万
+3. [DK对阵BLG](https://www.douyin.com/search/DK%E5%AF%B9%E9%98%B5BLG) — 1211.5万
+4. [WTT法兰克福温瑞博3:0王楚钦](https://www.douyin.com/search/WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E6%B8%A9%E7%91%9E%E5%8D%9A3:0%E7%8E%8B%E6%A5%9A%E9%92%A6) — 1210万
+5. [路漫漫终有归处](https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84) — 1202.8万
+6. [第九届进博会开幕](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%BC%80%E5%B9%95) — 1202.8万
+7. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1200.1万
+8. [降温了羽绒服先穿为敬](https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC) — 1191.4万
+9. [更适合年轻人的文玩配饰](https://www.douyin.com/search/%E6%9B%B4%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E7%8E%A9%E9%85%8D%E9%A5%B0) — 1171.6万
+10. [东风61已列装火箭军常态参训](https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E61%E5%B7%B2%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E5%B8%B8%E6%80%81%E5%8F%82%E8%AE%AD) — 1106.1万
 
 ### 小红书
 
