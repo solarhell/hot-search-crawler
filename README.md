@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-06 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-06 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -19,9 +19,9 @@
 2. [BLG战胜DK](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CDK) — 240.2万 · 新
 3. [青稚白小纯和好 全联盟开始狼人杀](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%92%8C%E5%A5%BD+%E5%85%A8%E8%81%94%E7%9B%9F%E5%BC%80%E5%A7%8B%E7%8B%BC%E4%BA%BA%E6%9D%80) — 178.3万 · 新
 4. [商南命案嫌犯孙某已死亡](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%AD%99%E6%9F%90%E5%B7%B2%E6%AD%BB%E4%BA%A1%23) — 169.6万 · 新
-5. [青稚崩溃](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%B4%A9%E6%BA%83) — 159.8万 · 新
-6. [DK输BLG后台镜头曝光](https://s.weibo.com/weibo?q=%23DK%E8%BE%93BLG%E5%90%8E%E5%8F%B0%E9%95%9C%E5%A4%B4%E6%9B%9D%E5%85%89%23) — 152.6万 · 新
-7. [做了近视激光手术的人后来怎样了](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E8%BF%91%E8%A7%86%E6%BF%80%E5%85%89%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23) — 150.3万 · 新
+5. [做了近视激光手术的人后来怎样了](https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E8%BF%91%E8%A7%86%E6%BF%80%E5%85%89%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23) — 160.6万 · 新
+6. [青稚崩溃](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%B4%A9%E6%BA%83) — 159.8万 · 新
+7. [DK输BLG后台镜头曝光](https://s.weibo.com/weibo?q=%23DK%E8%BE%93BLG%E5%90%8E%E5%8F%B0%E9%95%9C%E5%A4%B4%E6%9B%9D%E5%85%89%23) — 152.6万 · 新
 8. [公司辞退用AI的员工被判赔4.6万元](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%BE%9E%E9%80%80%E7%94%A8AI%E7%9A%84%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E8%B5%944.6%E4%B8%87%E5%85%83%23) — 149.2万
 9. [万千气象看广东](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%B9%BF%E4%B8%9C%23) — 145.8万
 10. [警方通报孙某军因情感纠纷行凶](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6%23) — 145.3万 · 新
