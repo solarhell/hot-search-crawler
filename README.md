@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-06 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-06 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -24,7 +24,7 @@
 7. [何以中国对话红山](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%AF%9D%E7%BA%A2%E5%B1%B1%23) — 137.8万
 8. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1) — 126万 · 新
 9. [2027放假 上二休一上二休二](https://s.weibo.com/weibo?q=2027%E6%94%BE%E5%81%87+%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%B8%80%E4%B8%8A%E4%BA%8C%E4%BC%91%E4%BA%8C) — 125万 · 新
-10. [袁成杰说会努力还债](https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%88%90%E6%9D%B0%E8%AF%B4%E4%BC%9A%E5%8A%AA%E5%8A%9B%E8%BF%98%E5%80%BA%23) — 116万 · 新
+10. [警方通报孙某军因情感纠纷行凶](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6%23) — 116.1万 · 新
 
 ### 抖音
 
@@ -36,8 +36,8 @@
 6. [路漫漫终有归处](https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84) — 1202.8万
 7. [第九届进博会开幕](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%BC%80%E5%B9%95) — 1202.8万
 8. [一道热乎菜开启各地冬天](https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9) — 1200.1万
-9. [降温了羽绒服先穿为敬](https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC) — 1191.4万
-10. [更适合年轻人的文玩配饰](https://www.douyin.com/search/%E6%9B%B4%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E7%8E%A9%E9%85%8D%E9%A5%B0) — 1171.6万
+9. [立冬和饺子最配了](https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%92%8C%E9%A5%BA%E5%AD%90%E6%9C%80%E9%85%8D%E4%BA%86) — 1193.8万
+10. [降温了羽绒服先穿为敬](https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC) — 1191.4万
 
 ### 小红书
 

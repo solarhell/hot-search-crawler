@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-06",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-06T17:24:20.122142598+08:00",
+  "updated_at": "2026-11-06T18:24:18.401850692+08:00",
   "boards": [
     {
       "platform": "weibo",
@@ -35,8 +35,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "商南命案嫌犯孙某已死亡",
@@ -96,6 +96,16 @@
           "first_seen": "2026-11-06T11:24:16.260329585+08:00",
           "last_seen": "2026-11-06T14:24:15.452975511+08:00",
           "appearances": 4
+        },
+        {
+          "title": "警方通报孙某军因情感纠纷行凶",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6%23",
+          "hot": 1160975,
+          "tag": "新",
+          "best_rank": 1,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
         },
         {
           "title": "袁成杰说会努力还债",
@@ -164,8 +174,8 @@
           "tag": "新",
           "best_rank": 2,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "ShowMaker回应不敌BLG",
@@ -271,8 +281,8 @@
           "tag": "新",
           "best_rank": 4,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "文吉儿 王子璇",
@@ -301,7 +311,16 @@
           "tag": "新",
           "best_rank": 5,
           "first_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "万千气象看广东",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%B9%BF%E4%B8%9C%23",
+          "hot": 644186,
+          "best_rank": 3,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
           "appearances": 1
         },
         {
@@ -319,10 +338,10 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E6%B1%82%E6%96%B0%E5%A8%98%E5%80%9F%E5%A9%9A%E6%88%BF%E9%85%92%E5%BA%97%E5%B7%B2%E8%87%B4%E6%AD%89%E6%8B%92%E7%BB%9D%E9%80%80%E6%AC%BE%23",
           "hot": 587521,
           "tag": "新",
-          "best_rank": 7,
+          "best_rank": 5,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "许飞 厉娜幸福的话其他人呛死也没事",
@@ -331,8 +350,8 @@
           "tag": "新",
           "best_rank": 4,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "韩国解说看BLG三比零DK快哭了",
@@ -455,6 +474,16 @@
           "appearances": 2
         },
         {
+          "title": "做了近视激光手术的人后来怎样了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%81%9A%E4%BA%86%E8%BF%91%E8%A7%86%E6%BF%80%E5%85%89%E6%89%8B%E6%9C%AF%E7%9A%84%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23",
+          "hot": 515774,
+          "tag": "新",
+          "best_rank": 4,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
+        },
+        {
           "title": "管泽元谈BLG击败DK",
           "url": "https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%B0%88BLG%E5%87%BB%E8%B4%A5DK%23",
           "hot": 514957,
@@ -520,8 +549,8 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-06T14:24:15.452975511+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 5
         },
         {
           "title": "结婚两周年精心打扮却淋雨",
@@ -574,6 +603,16 @@
           "appearances": 2
         },
         {
+          "title": "商南刑案被害女子朋友发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8D%97%E5%88%91%E6%A1%88%E8%A2%AB%E5%AE%B3%E5%A5%B3%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23",
+          "hot": 468042,
+          "tag": "新",
+          "best_rank": 6,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
+        },
+        {
           "title": "马天宇说和张萌不能一直待在一起",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E5%92%8C%E5%BC%A0%E8%90%8C%E4%B8%8D%E8%83%BD%E4%B8%80%E7%9B%B4%E5%BE%85%E5%9C%A8%E4%B8%80%E8%B5%B7%23",
           "hot": 460884,
@@ -592,6 +631,16 @@
           "first_seen": "2026-11-06T14:24:15.452975511+08:00",
           "last_seen": "2026-11-06T15:24:16.041685358+08:00",
           "appearances": 2
+        },
+        {
+          "title": "纯稚 麦琳李行亮",
+          "url": "https://s.weibo.com/weibo?q=%E7%BA%AF%E7%A8%9A+%E9%BA%A6%E7%90%B3%E6%9D%8E%E8%A1%8C%E4%BA%AE",
+          "hot": 457659,
+          "tag": "新",
+          "best_rank": 7,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
         },
         {
           "title": "曝白小纯天早期天霸工资",
@@ -639,8 +688,8 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 2
         },
         {
           "title": "众球星致敬C罗",
@@ -698,8 +747,8 @@
           "tag": "新",
           "best_rank": 14,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "无薪招聘",
@@ -718,8 +767,38 @@
           "tag": "新",
           "best_rank": 15,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
+        },
+        {
+          "title": "马天宇这个提醒真的很直接了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%BF%99%E4%B8%AA%E6%8F%90%E9%86%92%E7%9C%9F%E7%9A%84%E5%BE%88%E7%9B%B4%E6%8E%A5%E4%BA%86%23",
+          "hot": 400434,
+          "tag": "新",
+          "best_rank": 8,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "皮肤一碰就破女孩父母称不生二胎",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A0%B4%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E7%A7%B0%E4%B8%8D%E7%94%9F%E4%BA%8C%E8%83%8E%23",
+          "hot": 395772,
+          "tag": "新",
+          "best_rank": 9,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "村民称商南命案嫌犯系自缢身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%A7%B0%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E7%B3%BB%E8%87%AA%E7%BC%A2%E8%BA%AB%E4%BA%A1%23",
+          "hot": 393922,
+          "tag": "新",
+          "best_rank": 10,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
         },
         {
           "title": "黄渤因阿尔兹海默遗传风险恐惧多年",
@@ -749,6 +828,16 @@
           "best_rank": 8,
           "first_seen": "2026-11-06T13:24:14.509833182+08:00",
           "last_seen": "2026-11-06T13:24:14.509833182+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "2人灌醉女童性侵后多次串供",
+          "url": "https://s.weibo.com/weibo?q=%232%E4%BA%BA%E7%81%8C%E9%86%89%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BE%B5%E5%90%8E%E5%A4%9A%E6%AC%A1%E4%B8%B2%E4%BE%9B%23",
+          "hot": 370419,
+          "tag": "新",
+          "best_rank": 14,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
           "appearances": 1
         },
         {
@@ -982,6 +1071,16 @@
           "appearances": 1
         },
         {
+          "title": "王子璇把文吉儿的两头退路都堵死了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%8A%8A%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E4%B8%A4%E5%A4%B4%E9%80%80%E8%B7%AF%E9%83%BD%E5%A0%B5%E6%AD%BB%E4%BA%86%23",
+          "hot": 328191,
+          "tag": "新",
+          "best_rank": 19,
+          "first_seen": "2026-11-06T17:24:18.191681228+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 2
+        },
+        {
           "title": "13岁少年性侵女童被送专门学校矫治",
           "url": "https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%B0%91%E5%B9%B4%E6%80%A7%E4%BE%B5%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%80%81%E4%B8%93%E9%97%A8%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%B2%BB%23",
           "hot": 327436,
@@ -1143,16 +1242,6 @@
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A2%AB%E6%8C%87%E9%99%90%E5%88%B6%E8%89%BA%E4%BA%BA%E8%90%A5%E4%B8%9A",
           "hot": 267832,
           "best_rank": 18,
-          "first_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 1
-        },
-        {
-          "title": "王子璇把文吉儿的两头退路都堵死了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%8A%8A%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E4%B8%A4%E5%A4%B4%E9%80%80%E8%B7%AF%E9%83%BD%E5%A0%B5%E6%AD%BB%E4%BA%86%23",
-          "hot": 267554,
-          "tag": "新",
-          "best_rank": 19,
           "first_seen": "2026-11-06T17:24:18.191681228+08:00",
           "last_seen": "2026-11-06T17:24:18.191681228+08:00",
           "appearances": 1
@@ -1398,8 +1487,8 @@
           "hot": 12129637,
           "best_rank": 1,
           "first_seen": "2026-11-06T00:24:20.327298687+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 17
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 18
         },
         {
           "title": "WTT法兰克福王楚钦vs温瑞博",
@@ -1434,8 +1523,8 @@
           "hot": 12028375,
           "best_rank": 2,
           "first_seen": "2026-11-06T00:24:20.327298687+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 17
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 18
         },
         {
           "title": "第九届进博会开幕",
@@ -1456,13 +1545,22 @@
           "appearances": 9
         },
         {
+          "title": "立冬和饺子最配了",
+          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%92%8C%E9%A5%BA%E5%AD%90%E6%9C%80%E9%85%8D%E4%BA%86",
+          "hot": 11938264,
+          "best_rank": 1,
+          "first_seen": "2026-11-06T16:24:17.493414144+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
+        },
+        {
           "title": "降温了羽绒服先穿为敬",
           "url": "https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC",
           "hot": 11913846,
           "best_rank": 1,
           "first_seen": "2026-11-06T08:24:18.935266358+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 10
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 11
         },
         {
           "title": "更适合年轻人的文玩配饰",
@@ -1474,22 +1572,13 @@
           "appearances": 8
         },
         {
-          "title": "立冬和饺子最配了",
-          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%92%8C%E9%A5%BA%E5%AD%90%E6%9C%80%E9%85%8D%E4%BA%86",
-          "hot": 11633588,
-          "best_rank": 2,
-          "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
-        },
-        {
           "title": "我国秋粮丰收成定局",
           "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E7%A7%8B%E7%B2%AE%E4%B8%B0%E6%94%B6%E6%88%90%E5%AE%9A%E5%B1%80",
           "hot": 11591931,
           "best_rank": 3,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "进博会里的十五五脚步",
@@ -1515,8 +1604,8 @@
           "hot": 10546815,
           "best_rank": 5,
           "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "日本考虑紧急情况下运进核武器",
@@ -1542,8 +1631,17 @@
           "hot": 9318839,
           "best_rank": 7,
           "first_seen": "2026-11-06T00:24:20.327298687+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 13
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 14
+        },
+        {
+          "title": "陕西商南命案嫌犯已死亡",
+          "url": "https://www.douyin.com/search/%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E6%AD%BB%E4%BA%A1",
+          "hot": 9278033,
+          "best_rank": 8,
+          "first_seen": "2026-11-06T15:24:16.041685358+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 4
         },
         {
           "title": "一件单品穿两季穿搭技巧",
@@ -1573,15 +1671,6 @@
           "appearances": 1
         },
         {
-          "title": "陕西商南命案嫌犯已死亡",
-          "url": "https://www.douyin.com/search/%E9%99%95%E8%A5%BF%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E6%AD%BB%E4%BA%A1",
-          "hot": 9195523,
-          "best_rank": 8,
-          "first_seen": "2026-11-06T15:24:16.041685358+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 3
-        },
-        {
           "title": "马刺险胜独行侠",
           "url": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA%E9%99%A9%E8%83%9C%E7%8B%AC%E8%A1%8C%E4%BE%A0",
           "hot": 9186164,
@@ -1600,22 +1689,31 @@
           "appearances": 12
         },
         {
+          "title": "范争一无缘国锦赛决赛",
+          "url": "https://www.douyin.com/search/%E8%8C%83%E4%BA%89%E4%B8%80%E6%97%A0%E7%BC%98%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B",
+          "hot": 9159588,
+          "best_rank": 9,
+          "first_seen": "2026-11-06T14:24:15.452975511+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 5
+        },
+        {
           "title": "库里升至历史得分榜第17位",
           "url": "https://www.douyin.com/search/%E5%BA%93%E9%87%8C%E5%8D%87%E8%87%B3%E5%8E%86%E5%8F%B2%E5%BE%97%E5%88%86%E6%A6%9C%E7%AC%AC17%E4%BD%8D",
           "hot": 9158384,
           "best_rank": 7,
           "first_seen": "2026-11-06T13:24:14.509833182+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 5
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 6
         },
         {
-          "title": "范争一无缘国锦赛决赛",
-          "url": "https://www.douyin.com/search/%E8%8C%83%E4%BA%89%E4%B8%80%E6%97%A0%E7%BC%98%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B",
-          "hot": 9151139,
-          "best_rank": 11,
-          "first_seen": "2026-11-06T14:24:15.452975511+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 4
+          "title": "普京签署法令接管日企在俄资产",
+          "url": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E6%B3%95%E4%BB%A4%E6%8E%A5%E7%AE%A1%E6%97%A5%E4%BC%81%E5%9C%A8%E4%BF%84%E8%B5%84%E4%BA%A7",
+          "hot": 9152692,
+          "best_rank": 10,
+          "first_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 1
         },
         {
           "title": "2027年放假安排来了",
@@ -1627,6 +1725,24 @@
           "appearances": 6
         },
         {
+          "title": "江苏多地高中推迟到校时间",
+          "url": "https://www.douyin.com/search/%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E5%88%B0%E6%A0%A1%E6%97%B6%E9%97%B4",
+          "hot": 9130079,
+          "best_rank": 9,
+          "first_seen": "2026-11-06T09:24:14.217045794+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 5
+        },
+        {
+          "title": "为什么你越安慰孩子越有压力",
+          "url": "https://www.douyin.com/search/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E5%AE%89%E6%85%B0%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9C%89%E5%8E%8B%E5%8A%9B",
+          "hot": 9125607,
+          "best_rank": 13,
+          "first_seen": "2026-11-06T11:24:16.260329585+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 8
+        },
+        {
           "title": "足协通报批评云南玉昆足球俱乐部",
           "url": "https://www.douyin.com/search/%E8%B6%B3%E5%8D%8F%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8",
           "hot": 9119744,
@@ -1634,6 +1750,15 @@
           "first_seen": "2026-11-06T01:24:36.444096757+08:00",
           "last_seen": "2026-11-06T17:24:18.191681228+08:00",
           "appearances": 11
+        },
+        {
+          "title": "冬将至 我与你",
+          "url": "https://www.douyin.com/search/%E5%86%AC%E5%B0%86%E8%87%B3%20%E6%88%91%E4%B8%8E%E4%BD%A0",
+          "hot": 9116954,
+          "best_rank": 14,
+          "first_seen": "2026-11-06T10:24:18.172295044+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 6
         },
         {
           "title": "常冰玉胜赵心童晋级国锦赛四强",
@@ -1663,13 +1788,13 @@
           "appearances": 4
         },
         {
-          "title": "为什么你越安慰孩子越有压力",
-          "url": "https://www.douyin.com/search/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E5%AE%89%E6%85%B0%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9C%89%E5%8E%8B%E5%8A%9B",
-          "hot": 9065024,
-          "best_rank": 13,
-          "first_seen": "2026-11-06T11:24:16.260329585+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 7
+          "title": "甲亢哥含泪弹琴致敬C罗",
+          "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
+          "hot": 9034439,
+          "best_rank": 14,
+          "first_seen": "2026-11-06T13:24:14.509833182+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 6
         },
         {
           "title": "在乌镇被机器人“拿捏”了",
@@ -1690,15 +1815,6 @@
           "appearances": 2
         },
         {
-          "title": "甲亢哥含泪弹琴致敬C罗",
-          "url": "https://www.douyin.com/search/%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%AB%E6%B3%AA%E5%BC%B9%E7%90%B4%E8%87%B4%E6%95%ACC%E7%BD%97",
-          "hot": 8957288,
-          "best_rank": 14,
-          "first_seen": "2026-11-06T13:24:14.509833182+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 5
-        },
-        {
           "title": "一半青涩一半纯真",
           "url": "https://www.douyin.com/search/%E4%B8%80%E5%8D%8A%E9%9D%92%E6%B6%A9%E4%B8%80%E5%8D%8A%E7%BA%AF%E7%9C%9F",
           "hot": 8947608,
@@ -1713,8 +1829,8 @@
           "hot": 8868671,
           "best_rank": 16,
           "first_seen": "2026-11-06T00:24:20.327298687+08:00",
-          "last_seen": "2026-11-06T09:24:14.217045794+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 10
         },
         {
           "title": "美股三大指数集体大幅收跌",
@@ -1724,6 +1840,15 @@
           "first_seen": "2026-11-06T08:24:18.935266358+08:00",
           "last_seen": "2026-11-06T10:24:18.172295044+08:00",
           "appearances": 3
+        },
+        {
+          "title": "一起来跳呲牙舞",
+          "url": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E8%B7%B3%E5%91%B2%E7%89%99%E8%88%9E",
+          "hot": 8843912,
+          "best_rank": 15,
+          "first_seen": "2026-11-06T08:24:18.935266358+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 10
         },
         {
           "title": "GEN战胜LYON挺进半决赛",
@@ -1776,8 +1901,8 @@
           "hot": 8551482,
           "best_rank": 17,
           "first_seen": "2026-11-06T12:24:19.11401816+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 3
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 4
         },
         {
           "title": "吴磊一天骑行100公里",
@@ -1798,22 +1923,22 @@
           "appearances": 4
         },
         {
-          "title": "一起来跳呲牙舞",
-          "url": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E8%B7%B3%E5%91%B2%E7%89%99%E8%88%9E",
-          "hot": 8192902,
-          "best_rank": 15,
-          "first_seen": "2026-11-06T08:24:18.935266358+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 9
+          "title": "隔岸手势舞挑战",
+          "url": "https://www.douyin.com/search/%E9%9A%94%E5%B2%B8%E6%89%8B%E5%8A%BF%E8%88%9E%E6%8C%91%E6%88%98",
+          "hot": 8127719,
+          "best_rank": 18,
+          "first_seen": "2026-11-06T17:24:18.191681228+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 2
         },
         {
-          "title": "江苏多地高中推迟到校时间",
-          "url": "https://www.douyin.com/search/%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E5%88%B0%E6%A0%A1%E6%97%B6%E9%97%B4",
-          "hot": 8109078,
-          "best_rank": 9,
-          "first_seen": "2026-11-06T09:24:14.217045794+08:00",
-          "last_seen": "2026-11-06T14:24:15.452975511+08:00",
-          "appearances": 4
+          "title": "美股大跌特朗普甩锅民主党",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%A9%E9%94%85%E6%B0%91%E4%B8%BB%E5%85%9A",
+          "hot": 8110613,
+          "best_rank": 19,
+          "first_seen": "2026-11-06T16:24:17.493414144+08:00",
+          "last_seen": "2026-11-06T18:24:16.806614052+08:00",
+          "appearances": 3
         },
         {
           "title": "76人战胜活塞迎五连胜",
@@ -1850,24 +1975,6 @@
           "first_seen": "2026-11-06T06:19:49.337084838+08:00",
           "last_seen": "2026-11-06T08:24:18.935266358+08:00",
           "appearances": 2
-        },
-        {
-          "title": "美股大跌特朗普甩锅民主党",
-          "url": "https://www.douyin.com/search/%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%A9%E9%94%85%E6%B0%91%E4%B8%BB%E5%85%9A",
-          "hot": 7822672,
-          "best_rank": 19,
-          "first_seen": "2026-11-06T16:24:17.493414144+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 2
-        },
-        {
-          "title": "隔岸手势舞挑战",
-          "url": "https://www.douyin.com/search/%E9%9A%94%E5%B2%B8%E6%89%8B%E5%8A%BF%E8%88%9E%E6%8C%91%E6%88%98",
-          "hot": 7792290,
-          "best_rank": 20,
-          "first_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "last_seen": "2026-11-06T17:24:18.191681228+08:00",
-          "appearances": 1
         },
         {
           "title": "后会友期第四期看点",
@@ -1913,15 +2020,6 @@
           "first_seen": "2026-11-06T08:24:18.935266358+08:00",
           "last_seen": "2026-11-06T12:24:19.11401816+08:00",
           "appearances": 3
-        },
-        {
-          "title": "冬将至 我与你",
-          "url": "https://www.douyin.com/search/%E5%86%AC%E5%B0%86%E8%87%B3%20%E6%88%91%E4%B8%8E%E4%BD%A0",
-          "hot": 7768994,
-          "best_rank": 17,
-          "first_seen": "2026-11-06T10:24:18.172295044+08:00",
-          "last_seen": "2026-11-06T15:24:16.041685358+08:00",
-          "appearances": 5
         },
         {
           "title": "贺炜发文致敬C罗国家队生涯",
