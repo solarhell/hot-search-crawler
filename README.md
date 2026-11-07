@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 04:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 05:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -29,15 +29,15 @@
 ### 抖音
 
 1. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1211.4万
-2. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1210.6万
-3. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.5万
+2. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.7万
+3. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1210.6万
 4. [这口烧烤我画地为牢](https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 1210.3万
 5. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1210.2万
-6. [TTG战胜LGDNBW](https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW) — 1185.3万
-7. [希金斯对阵凯伦威尔逊完成绝杀](https://www.douyin.com/search/%E5%B8%8C%E9%87%91%E6%96%AF%E5%AF%B9%E9%98%B5%E5%87%AF%E4%BC%A6%E5%A8%81%E5%B0%94%E9%80%8A%E5%AE%8C%E6%88%90%E7%BB%9D%E6%9D%80) — 1070.8万
-8. [IG对战GEN](https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN) — 1066.5万
-9. [立冬初雪被毛茸茸治愈了](https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86) — 1053.6万
-10. [云南一剧组拍戏发生意外起火](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB) — 1046万
+6. [TTG战胜LGDNBW](https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW) — 1187.6万
+7. [云南一剧组拍戏发生意外起火](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB) — 1141.5万
+8. [希金斯对阵凯伦威尔逊完成绝杀](https://www.douyin.com/search/%E5%B8%8C%E9%87%91%E6%96%AF%E5%AF%B9%E9%98%B5%E5%87%AF%E4%BC%A6%E5%A8%81%E5%B0%94%E9%80%8A%E5%AE%8C%E6%88%90%E7%BB%9D%E6%9D%80) — 1070.8万
+9. [IG对战GEN](https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN) — 1066.5万
+10. [立冬初雪被毛茸茸治愈了](https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86) — 1053.6万
 
 ### 小红书
 
