@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-07T16:24:15.485869576+08:00",
+  "timezone": "Asia/Shanghai",
+  "boards": [
+    {
+      "platform": "weibo",
+      "name": "微博",
+      "ok": true,
+      "fetched_at": "2026-11-07T16:24:16.444380397+08:00",
+      "elapsed_ms": 958,
+      "items": [
+        {
+          "rank": 1,
+          "title": "因为画地为牢被辞退了",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86",
+          "hot": 1535197,
+          "tag": "新"
+        },
+        {
+          "rank": 2,
+          "title": "保定一立交桥坍塌砸中车辆",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%AE%9A%E4%B8%80%E7%AB%8B%E4%BA%A4%E6%A1%A5%E5%9D%8D%E5%A1%8C%E7%A0%B8%E4%B8%AD%E8%BD%A6%E8%BE%86%23",
+          "hot": 886785,
+          "tag": "新"
+        },
+        {
+          "rank": 3,
+          "title": "6图看进博会磁吸力持续增强",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%9B%BE%E7%9C%8B%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%A3%81%E5%90%B8%E5%8A%9B%E6%8C%81%E7%BB%AD%E5%A2%9E%E5%BC%BA%23",
+          "hot": 700315,
+          "tag": "新"
+        },
+        {
+          "rank": 4,
+          "title": "文吉儿 社会性",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF+%E7%A4%BE%E4%BC%9A%E6%80%A7",
+          "hot": 601881,
+          "tag": "新"
+        },
+        {
+          "rank": 5,
+          "title": "曝青稚被蛐蛐的原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%9D%92%E7%A8%9A%E8%A2%AB%E8%9B%90%E8%9B%90%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
+          "hot": 567317
+        },
+        {
+          "rank": 6,
+          "title": "官方通报保定桥体脱落事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BF%9D%E5%AE%9A%E6%A1%A5%E4%BD%93%E8%84%B1%E8%90%BD%E4%BA%8B%E6%95%85%23",
+          "hot": 361424,
+          "tag": "新"
+        },
+        {
+          "rank": 7,
+          "title": "东契奇53分5篮板5助攻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%A5%91%E5%A5%8753%E5%88%865%E7%AF%AE%E6%9D%BF5%E5%8A%A9%E6%94%BB%23",
+          "hot": 232577
+        },
+        {
+          "rank": 8,
+          "title": "李一桐 女推",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90+%E5%A5%B3%E6%8E%A8",
+          "hot": 223427,
+          "tag": "新"
+        },
+        {
+          "rank": 9,
+          "title": "东契奇助湖人升至西部第1",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%A5%91%E5%A5%87%E5%8A%A9%E6%B9%96%E4%BA%BA%E5%8D%87%E8%87%B3%E8%A5%BF%E9%83%A8%E7%AC%AC1%23",
+          "hot": 201739
+        },
+        {
+          "rank": 10,
+          "title": "青稚老板回应被骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%23",
+          "hot": 201292
+        },
+        {
+          "rank": 11,
+          "title": "马天宇直播被工作人员叫停",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8F%AB%E5%81%9C",
+          "hot": 200826,
+          "tag": "热"
+        },
+        {
+          "rank": 12,
+          "title": "大S剥虾论八年后被读懂",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7S%E5%89%A5%E8%99%BE%E8%AE%BA%E5%85%AB%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%AF%BB%E6%87%82",
+          "hot": 199257,
+          "tag": "热"
+        },
+        {
+          "rank": 13,
+          "title": "HPV疫苗是不是骗局",
+          "url": "https://s.weibo.com/weibo?q=HPV%E7%96%AB%E8%8B%97%E6%98%AF%E4%B8%8D%E6%98%AF%E9%AA%97%E5%B1%80",
+          "hot": 198593,
+          "tag": "新"
+        },
+        {
+          "rank": 14,
+          "title": "李一桐疑似内涵芒果",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E7%96%91%E4%BC%BC%E5%86%85%E6%B6%B5%E8%8A%92%E6%9E%9C",
+          "hot": 197717,
+          "tag": "热"
+        },
+        {
+          "rank": 15,
+          "title": "曝尚雯婕翻译一小时四五千",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%B0%9A%E9%9B%AF%E5%A9%95%E7%BF%BB%E8%AF%91%E4%B8%80%E5%B0%8F%E6%97%B6%E5%9B%9B%E4%BA%94%E5%8D%83",
+          "hot": 197328
+        },
+        {
+          "rank": 16,
+          "title": "第一批用AI工作的受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "hot": 196458,
+          "tag": "新"
+        },
+        {
+          "rank": 17,
+          "title": "马天宇 李明德",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%9D%8E%E6%98%8E%E5%BE%B7",
+          "hot": 195653,
+          "tag": "热"
+        },
+        {
+          "rank": 18,
+          "title": "丞磊发长文告别玉簟秋",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%9E%E7%A3%8A%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E7%8E%89%E7%B0%9F%E7%A7%8B",
+          "hot": 194664,
+          "tag": "剧集"
+        },
+        {
+          "rank": 19,
+          "title": "保定一大桥坍塌被砸车辆受损严重",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%AE%9A%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%9D%8D%E5%A1%8C%E8%A2%AB%E7%A0%B8%E8%BD%A6%E8%BE%86%E5%8F%97%E6%8D%9F%E4%B8%A5%E9%87%8D%23",
+          "hot": 194130,
+          "tag": "新"
+        },
+        {
+          "rank": 20,
+          "title": "中国不买英伟达芯片美国人急什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%80%A5%E4%BB%80%E4%B9%88%23",
+          "hot": 193037
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "name": "抖音",
+      "ok": true,
+      "fetched_at": "2026-11-07T16:24:16.677110804+08:00",
+      "elapsed_ms": 1191,
+      "items": [
+        {
+          "rank": 1,
+          "title": "立冬吃什么",
+          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%90%83%E4%BB%80%E4%B9%88",
+          "hot": 11406762,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794026519,
+            "label": 3,
+            "sentence_id": "2734041",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 2,
+          "title": "抖音缝纫天裁交流大会",
+          "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BC%9D%E7%BA%AB%E5%A4%A9%E8%A3%81%E4%BA%A4%E6%B5%81%E5%A4%A7%E4%BC%9A",
+          "hot": 11381173,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794022782,
+            "label": 3,
+            "sentence_id": "2733964",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 3,
+          "title": "进博会助力全球创新落地",
+          "url": "https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%8A%A9%E5%8A%9B%E5%85%A8%E7%90%83%E5%88%9B%E6%96%B0%E8%90%BD%E5%9C%B0",
+          "hot": 11216589,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794034367,
+            "label": 1,
+            "sentence_id": "2734302",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 4,
+          "title": "希望这个冬天淡淡的顺顺的",
+          "url": "https://www.douyin.com/search/%E5%B8%8C%E6%9C%9B%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E6%B7%A1%E6%B7%A1%E7%9A%84%E9%A1%BA%E9%A1%BA%E7%9A%84",
+          "hot": 10903503,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793883828,
+            "label": 3,
+            "sentence_id": "2731609",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 5,
+          "title": "两枚导弹击中伊朗格什姆岛",
+          "url": "https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B",
+          "hot": 10354539,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794011088,
+            "label": 3,
+            "sentence_id": "2733694",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 6,
+          "title": "JDG晋级王者荣耀年总决赛",
+          "url": "https://www.douyin.com/search/JDG%E6%99%8B%E7%BA%A7%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B",
+          "hot": 10331697,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793977241,
+            "label": 3,
+            "sentence_id": "2733593",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 7,
+          "title": "波尔津吉斯因健康原因暂别篮坛",
+          "url": "https://www.douyin.com/search/%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E5%9B%A0%E5%81%A5%E5%BA%B7%E5%8E%9F%E5%9B%A0%E6%9A%82%E5%88%AB%E7%AF%AE%E5%9D%9B",
+          "hot": 9172660,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794015452,
+            "sentence_id": "2733753",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 8,
+          "title": "湖人124:118开拓者",
+          "url": "https://www.douyin.com/search/%E6%B9%96%E4%BA%BA124:118%E5%BC%80%E6%8B%93%E8%80%85",
+          "hot": 9117599,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794033383,
+            "label": 1,
+            "sentence_id": "2734257",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 9,
+          "title": "辽超决赛朝阳对阵本溪",
+          "url": "https://www.douyin.com/search/%E8%BE%BD%E8%B6%85%E5%86%B3%E8%B5%9B%E6%9C%9D%E9%98%B3%E5%AF%B9%E9%98%B5%E6%9C%AC%E6%BA%AA",
+          "hot": 9052658,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794018202,
+            "sentence_id": "2733837",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 10,
+          "title": "河北保定通报桥体脱落事故",
+          "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8C%97%E4%BF%9D%E5%AE%9A%E9%80%9A%E6%8A%A5%E6%A1%A5%E4%BD%93%E8%84%B1%E8%90%BD%E4%BA%8B%E6%95%85",
+          "hot": 8999511,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794035503,
+            "label": 1,
+            "sentence_id": "2734347",
+            "video_count": 8
+          }
+        },
+        {
+          "rank": 11,
+          "title": "神24任务将有首位外籍航天员",
+          "url": "https://www.douyin.com/search/%E7%A5%9E24%E4%BB%BB%E5%8A%A1%E5%B0%86%E6%9C%89%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98",
+          "hot": 8946979,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794016932,
+            "label": 3,
+            "sentence_id": "2733787",
+            "video_count": 7
+          }
+        },
+        {
+          "rank": 12,
+          "title": "美丽不冻人的冬季穿搭",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E4%B8%BD%E4%B8%8D%E5%86%BB%E4%BA%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
+          "hot": 8892196,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794026985,
+            "label": 3,
+            "sentence_id": "2734050",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 13,
+          "title": "骑士大胜76人",
+          "url": "https://www.douyin.com/search/%E9%AA%91%E5%A3%AB%E5%A4%A7%E8%83%9C76%E4%BA%BA",
+          "hot": 8816110,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794016004,
+            "label": 3,
+            "sentence_id": "2733764",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 14,
+          "title": "墨尔本中国公民遇害案嫌犯已归案",
+          "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%BD%92%E6%A1%88",
+          "hot": 8722779,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794014569,
+            "sentence_id": "2733739",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 15,
+          "title": "北京下雪",
+          "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA",
+          "hot": 8722663,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794019969,
+            "sentence_id": "2733882",
+            "video_count": 7
+          }
+        },
+        {
+          "rank": 16,
+          "title": "纵然我的相思有千千万万重",
+          "url": "https://www.douyin.com/search/%E7%BA%B5%E7%84%B6%E6%88%91%E7%9A%84%E7%9B%B8%E6%80%9D%E6%9C%89%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E9%87%8D",
+          "hot": 8391220,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794020023,
+            "label": 9,
+            "sentence_id": "2733887",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 17,
+          "title": "今日立冬积极过冬",
+          "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC%E7%A7%AF%E6%9E%81%E8%BF%87%E5%86%AC",
+          "hot": 8246462,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794006560,
+            "sentence_id": "2733637",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 18,
+          "title": "国防部回应攻击-21在四川舰起降",
+          "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%94%BB%E5%87%BB-21%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E8%B5%B7%E9%99%8D",
+          "hot": 8050716,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793969023,
+            "sentence_id": "2733316",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 19,
+          "title": "立冬第一条祝福送给你",
+          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E7%AC%AC%E4%B8%80%E6%9D%A1%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E4%BD%A0",
+          "hot": 7996736,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794013249,
+            "label": 3,
+            "sentence_id": "2733719",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 20,
+          "title": "立冬初雪被毛茸茸治愈了",
+          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86",
+          "hot": 7972670,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794018190,
+            "label": 3,
+            "sentence_id": "2733836",
+            "video_count": 10
+          }
+        }
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "name": "小红书",
+      "ok": false,
+      "fetched_at": "2026-11-07T16:24:16.14349532+08:00",
+      "elapsed_ms": 657,
+      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
+      "items": []
+    }
+  ]
+}
