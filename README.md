@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-07 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-07 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [因为画地为牢被辞退了](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86) — 153.5万 · 新
-2. [收1.98万误转账约派出所归还却遭起诉](https://s.weibo.com/weibo?q=%23%E6%94%B61.98%E4%B8%87%E8%AF%AF%E8%BD%AC%E8%B4%A6%E7%BA%A6%E6%B4%BE%E5%87%BA%E6%89%80%E5%BD%92%E8%BF%98%E5%8D%B4%E9%81%AD%E8%B5%B7%E8%AF%89%23) — 133.2万 · 新
-3. [芒果文案组来了一群天才](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D%23) — 130.3万 · 新
-4. [江南 今何在](https://s.weibo.com/weibo?q=%E6%B1%9F%E5%8D%97+%E4%BB%8A%E4%BD%95%E5%9C%A8) — 120.2万 · 新
-5. [Faker说很可惜BLG在半决赛遇到T1](https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4%E5%BE%88%E5%8F%AF%E6%83%9CBLG%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%81%87%E5%88%B0T1%23) — 118.3万 · 新
-6. [被刺身亡中国外卖员在澳9年](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%BE%B39%E5%B9%B4%23) — 116万 · 新
-7. [男子被小奶狗抓伤确诊狂犬病](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85%23) — 114.1万 · 新
-8. [女子和已婚男交往被原配发现后坠亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%92%8C%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%A4%E5%BE%80%E8%A2%AB%E5%8E%9F%E9%85%8D%E5%8F%91%E7%8E%B0%E5%90%8E%E5%9D%A0%E4%BA%A1%23) — 112.2万 · 新
-9. [男子倒在站台去世无人用AED施救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%92%E5%9C%A8%E7%AB%99%E5%8F%B0%E5%8E%BB%E4%B8%96%E6%97%A0%E4%BA%BA%E7%94%A8AED%E6%96%BD%E6%95%91%23) — 111.3万 · 新
-10. [波尔津吉斯发声](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E5%8F%91%E5%A3%B0%23) — 109.2万 · 新
+2. [iPhone20外观](https://s.weibo.com/weibo?q=%23iPhone20%E5%A4%96%E8%A7%82%23) — 149.6万 · 新
+3. [收1.98万误转账约派出所归还却遭起诉](https://s.weibo.com/weibo?q=%23%E6%94%B61.98%E4%B8%87%E8%AF%AF%E8%BD%AC%E8%B4%A6%E7%BA%A6%E6%B4%BE%E5%87%BA%E6%89%80%E5%BD%92%E8%BF%98%E5%8D%B4%E9%81%AD%E8%B5%B7%E8%AF%89%23) — 133.2万 · 新
+4. [芒果文案组来了一群天才](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D%23) — 130.3万 · 新
+5. [梁文锋DeepSeek不止国运级](https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7) — 121.7万 · 新
+6. [江南 今何在](https://s.weibo.com/weibo?q=%E6%B1%9F%E5%8D%97+%E4%BB%8A%E4%BD%95%E5%9C%A8) — 120.2万 · 新
+7. [Faker说很可惜BLG在半决赛遇到T1](https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4%E5%BE%88%E5%8F%AF%E6%83%9CBLG%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%81%87%E5%88%B0T1%23) — 118.3万 · 新
+8. [被刺身亡中国外卖员在澳9年](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%BE%B39%E5%B9%B4%23) — 116万 · 新
+9. [男子被小奶狗抓伤确诊狂犬病](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85%23) — 114.1万 · 新
+10. [女子和已婚男交往被原配发现后坠亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%92%8C%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%A4%E5%BE%80%E8%A2%AB%E5%8E%9F%E9%85%8D%E5%8F%91%E7%8E%B0%E5%90%8E%E5%9D%A0%E4%BA%A1%23) — 112.2万 · 新
 
 ### 抖音
 
