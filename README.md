@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-07 20:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-07 21:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -22,9 +22,9 @@
 5. [梁文锋DeepSeek不止国运级](https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7) — 121.7万 · 新
 6. [江南 今何在](https://s.weibo.com/weibo?q=%E6%B1%9F%E5%8D%97+%E4%BB%8A%E4%BD%95%E5%9C%A8) — 120.2万 · 新
 7. [Faker说很可惜BLG在半决赛遇到T1](https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4%E5%BE%88%E5%8F%AF%E6%83%9CBLG%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%81%87%E5%88%B0T1%23) — 118.3万 · 新
-8. [被刺身亡中国外卖员在澳9年](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%BE%B39%E5%B9%B4%23) — 116万 · 新
-9. [男子被小奶狗抓伤确诊狂犬病](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%8A%93%E4%BC%A4%E7%A1%AE%E8%AF%8A%E7%8B%82%E7%8A%AC%E7%97%85%23) — 114.1万 · 新
-10. [女子和已婚男交往被原配发现后坠亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%92%8C%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%A4%E5%BE%80%E8%A2%AB%E5%8E%9F%E9%85%8D%E5%8F%91%E7%8E%B0%E5%90%8E%E5%9D%A0%E4%BA%A1%23) — 112.2万 · 新
+8. [乘客车上削苹果急刹车水果刀插心脏](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E8%BD%A6%E4%B8%8A%E5%89%8A%E8%8B%B9%E6%9E%9C%E6%80%A5%E5%88%B9%E8%BD%A6%E6%B0%B4%E6%9E%9C%E5%88%80%E6%8F%92%E5%BF%83%E8%84%8F%23) — 117.1万 · 新
+9. [被刺身亡中国外卖员在澳9年](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%BE%B39%E5%B9%B4%23) — 116万 · 新
+10. [男子被雇主扇耳光昏迷14个月离世](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%9B%87%E4%B8%BB%E6%89%87%E8%80%B3%E5%85%89%E6%98%8F%E8%BF%B714%E4%B8%AA%E6%9C%88%E7%A6%BB%E4%B8%96%23) — 115.7万 · 新
 
 ### 抖音
 
@@ -33,11 +33,11 @@
 3. [立冬吃什么](https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%90%83%E4%BB%80%E4%B9%88) — 1212.8万
 4. [今日立冬积极过冬](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC%E7%A7%AF%E6%9E%81%E8%BF%87%E5%86%AC) — 1211.9万
 5. [T1对战KC](https://www.douyin.com/search/T1%E5%AF%B9%E6%88%98KC) — 1210.1万
-6. [泰山主场迎战成都蓉城](https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E) — 1167.4万
-7. [进博会外商抢抓合作商机](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%96%E5%95%86%E6%8A%A2%E6%8A%93%E5%90%88%E4%BD%9C%E5%95%86%E6%9C%BA) — 1147.1万
-8. [又到穿费尔岛的季节了](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E7%A9%BF%E8%B4%B9%E5%B0%94%E5%B2%9B%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86) — 1141.2万
-9. [抖音缝纫天裁交流大会](https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BC%9D%E7%BA%AB%E5%A4%A9%E8%A3%81%E4%BA%A4%E6%B5%81%E5%A4%A7%E4%BC%9A) — 1138.6万
-10. [2026世界市长对话宁波](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2) — 1134.2万
+6. [IG对战GEN](https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN) — 1172.2万
+7. [泰山主场迎战成都蓉城](https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E) — 1167.4万
+8. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1153.8万
+9. [进博会外商抢抓合作商机](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%96%E5%95%86%E6%8A%A2%E6%8A%93%E5%90%88%E4%BD%9C%E5%95%86%E6%9C%BA) — 1147.1万
+10. [又到穿费尔岛的季节了](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E7%A9%BF%E8%B4%B9%E5%B0%94%E5%B2%9B%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86) — 1141.2万
 
 ### 小红书
 
