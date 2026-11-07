@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 05:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 06:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,13 +23,13 @@
 6. [爸爸去哪儿3重聚为康康庆生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF3%E9%87%8D%E8%81%9A%E4%B8%BA%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F%23) — 43.2万 · 热
 7. [马天宇 李明德](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%9D%8E%E6%98%8E%E5%BE%B7) — 41.3万 · 热
 8. [刘丹透露小糯米在英国读书](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%AF%BB%E4%B9%A6%23) — 40.4万 · 热
-9. [国乒男单6站冠军赛仅1次晋级决赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%956%E7%AB%99%E5%86%A0%E5%86%9B%E8%B5%9B%E4%BB%851%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23) — 37.8万 · 新
-10. [陈幸同2比4张本美和](https://s.weibo.com/weibo?q=%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C) — 37万 · 新
+9. [iG对战GEN](https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23) — 39万 · 新
+10. [国乒男单6站冠军赛仅1次晋级决赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%956%E7%AB%99%E5%86%A0%E5%86%9B%E8%B5%9B%E4%BB%851%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23) — 37.8万 · 新
 
 ### 抖音
 
 1. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1211.4万
-2. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.7万
+2. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.9万
 3. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1210.6万
 4. [这口烧烤我画地为牢](https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 1210.3万
 5. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1210.2万
