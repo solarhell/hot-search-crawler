@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-07 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-07 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -35,9 +35,9 @@
 5. [T1对战KC](https://www.douyin.com/search/T1%E5%AF%B9%E6%88%98KC) — 1210.1万
 6. [IG对战GEN](https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN) — 1172.2万
 7. [泰山主场迎战成都蓉城](https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E) — 1167.4万
-8. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1153.8万
-9. [进博会外商抢抓合作商机](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%96%E5%95%86%E6%8A%A2%E6%8A%93%E5%90%88%E4%BD%9C%E5%95%86%E6%9C%BA) — 1147.1万
-10. [又到穿费尔岛的季节了](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E7%A9%BF%E8%B4%B9%E5%B0%94%E5%B2%9B%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86) — 1141.2万
+8. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1166.8万
+9. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1154.2万
+10. [进博会外商抢抓合作商机](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%96%E5%95%86%E6%8A%A2%E6%8A%93%E5%90%88%E4%BD%9C%E5%95%86%E6%9C%BA) — 1147.1万
 
 ### 小红书
 
