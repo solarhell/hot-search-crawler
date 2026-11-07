@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-07 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-07 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [收1.98万误转账约派出所归还却遭起诉](https://s.weibo.com/weibo?q=%23%E6%94%B61.98%E4%B8%87%E8%AF%AF%E8%BD%AC%E8%B4%A6%E7%BA%A6%E6%B4%BE%E5%87%BA%E6%89%80%E5%BD%92%E8%BF%98%E5%8D%B4%E9%81%AD%E8%B5%B7%E8%AF%89%23) — 133.2万 · 新
 2. [芒果文案组来了一群天才](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D%23) — 130.3万 · 新
 3. [Faker说很可惜BLG在半决赛遇到T1](https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4%E5%BE%88%E5%8F%AF%E6%83%9CBLG%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%81%87%E5%88%B0T1%23) — 118.3万 · 新
-4. [波尔津吉斯发声](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E5%8F%91%E5%A3%B0%23) — 109.2万 · 新
-5. [青稚老板回应被骂](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%23) — 97.7万 · 新
-6. [后会友期综史一](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%BC%E5%8F%B2%E4%B8%80%23) — 95.3万 · 热
-7. [立冬](https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC) — 90万 · 新
-8. [夫妻入职药企1死1瘫儿子发声](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C%E8%8D%AF%E4%BC%811%E6%AD%BB1%E7%98%AB%E5%84%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23) — 87.9万 · 新
-9. [体检空腹不等于滴水不沾](https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E7%A9%BA%E8%85%B9%E4%B8%8D%E7%AD%89%E4%BA%8E%E6%BB%B4%E6%B0%B4%E4%B8%8D%E6%B2%BE%23) — 87万 · 新
-10. [没本事但听话的婚姻没内耗](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%AC%E4%BA%8B%E4%BD%86%E5%90%AC%E8%AF%9D%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E5%86%85%E8%80%97) — 82万 · 新
+4. [被刺身亡中国外卖员在澳9年](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%BE%B39%E5%B9%B4%23) — 116万 · 新
+5. [波尔津吉斯发声](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E5%8F%91%E5%A3%B0%23) — 109.2万 · 新
+6. [青稚老板回应被骂](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%23) — 97.7万 · 新
+7. [后会友期综史一](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%BC%E5%8F%B2%E4%B8%80%23) — 95.3万 · 热
+8. [立冬](https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC) — 90万 · 新
+9. [夫妻入职药企1死1瘫儿子发声](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E8%81%8C%E8%8D%AF%E4%BC%811%E6%AD%BB1%E7%98%AB%E5%84%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23) — 87.9万 · 新
+10. [体检空腹不等于滴水不沾](https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E7%A9%BA%E8%85%B9%E4%B8%8D%E7%AD%89%E4%BA%8E%E6%BB%B4%E6%B0%B4%E4%B8%8D%E6%B2%BE%23) — 87万 · 新
 
 ### 抖音
 
