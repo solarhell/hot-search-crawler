@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-08T03:24:16.321153569+08:00",
+  "timezone": "Asia/Shanghai",
+  "boards": [
+    {
+      "platform": "weibo",
+      "name": "微博",
+      "ok": true,
+      "fetched_at": "2026-11-08T03:24:17.294895835+08:00",
+      "elapsed_ms": 973,
+      "items": [
+        {
+          "rank": 1,
+          "title": "8省份大到暴雪",
+          "url": "https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23",
+          "hot": 79082
+        },
+        {
+          "rank": 2,
+          "title": "陈幸同2比4张本美和",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
+          "hot": 78952
+        },
+        {
+          "rank": 3,
+          "title": "共赴APEC之约",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23",
+          "hot": 78419
+        },
+        {
+          "rank": 4,
+          "title": "嫁金钗最好嗑的一个视频出现了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E5%87%BA%E7%8E%B0%E4%BA%86%23",
+          "hot": 77640,
+          "tag": "剧集"
+        },
+        {
+          "rank": 5,
+          "title": "国乒男单6站冠军赛仅1次晋级决赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%956%E7%AB%99%E5%86%A0%E5%86%9B%E8%B5%9B%E4%BB%851%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23",
+          "hot": 76891
+        },
+        {
+          "rank": 6,
+          "title": "马天宇和张萌被审判",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%92%8C%E5%BC%A0%E8%90%8C%E8%A2%AB%E5%AE%A1%E5%88%A4%23",
+          "hot": 76249,
+          "tag": "热"
+        },
+        {
+          "rank": 7,
+          "title": "爸爸去哪儿3重聚为康康庆生",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF3%E9%87%8D%E8%81%9A%E4%B8%BA%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F%23",
+          "hot": 75932,
+          "tag": "热"
+        },
+        {
+          "rank": 8,
+          "title": "鹿晗投资天霸至今没拿过分红",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%95%E8%B5%84%E5%A4%A9%E9%9C%B8%E8%87%B3%E4%BB%8A%E6%B2%A1%E6%8B%BF%E8%BF%87%E5%88%86%E7%BA%A2%23",
+          "hot": 74983,
+          "tag": "热"
+        },
+        {
+          "rank": 9,
+          "title": "多平台下架推不倒戒指",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23",
+          "hot": 74186,
+          "tag": "热"
+        },
+        {
+          "rank": 10,
+          "title": "今何在",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8",
+          "hot": 73585,
+          "tag": "综艺"
+        },
+        {
+          "rank": 11,
+          "title": "马天宇 李明德",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%9D%8E%E6%98%8E%E5%BE%B7",
+          "hot": 72909,
+          "tag": "热"
+        },
+        {
+          "rank": 12,
+          "title": "博主私信发现两人偷情对话",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E7%A7%81%E4%BF%A1%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BA%BA%E5%81%B7%E6%83%85%E5%AF%B9%E8%AF%9D",
+          "hot": 72690
+        },
+        {
+          "rank": 13,
+          "title": "厉娜当年完全疯子来的",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%BD%93%E5%B9%B4%E5%AE%8C%E5%85%A8%E7%96%AF%E5%AD%90%E6%9D%A5%E7%9A%84%23",
+          "hot": 72030,
+          "tag": "新"
+        },
+        {
+          "rank": 14,
+          "title": "孩子不在家夫妻还需要在一起吗",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%9C%A8%E5%AE%B6%E5%A4%AB%E5%A6%BB%E8%BF%98%E9%9C%80%E8%A6%81%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%90%97",
+          "hot": 71552
+        },
+        {
+          "rank": 15,
+          "title": "李一桐疑似内涵芒果",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E7%96%91%E4%BC%BC%E5%86%85%E6%B6%B5%E8%8A%92%E6%9E%9C",
+          "hot": 70685
+        },
+        {
+          "rank": 16,
+          "title": "炎亚纶这次我真得站你这边了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%BF%99%E6%AC%A1%E6%88%91%E7%9C%9F%E5%BE%97%E7%AB%99%E4%BD%A0%E8%BF%99%E8%BE%B9%E4%BA%86%23",
+          "hot": 70011
+        },
+        {
+          "rank": 17,
+          "title": "两千万粉博主称不投流卖三万",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E7%B2%89%E5%8D%9A%E4%B8%BB%E7%A7%B0%E4%B8%8D%E6%8A%95%E6%B5%81%E5%8D%96%E4%B8%89%E4%B8%87",
+          "hot": 69805
+        },
+        {
+          "rank": 18,
+          "title": "刘丹透露小糯米在英国读书",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%AF%BB%E4%B9%A6%23",
+          "hot": 67133
+        },
+        {
+          "rank": 19,
+          "title": "提纯提白小纯啊",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E7%BA%AF%E6%8F%90%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%95%8A%23",
+          "hot": 66795
+        },
+        {
+          "rank": 20,
+          "title": "火树是最懂白小纯青稚的人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%A0%91%E6%98%AF%E6%9C%80%E6%87%82%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E7%9A%84%E4%BA%BA%23",
+          "hot": 64037
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "name": "抖音",
+      "ok": true,
+      "fetched_at": "2026-11-08T03:24:17.807850767+08:00",
+      "elapsed_ms": 1486,
+      "items": [
+        {
+          "rank": 1,
+          "title": "盛唐初雪飘落洛阳城",
+          "url": "https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E",
+          "hot": 12106486,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794037523,
+            "sentence_id": "2734399",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 2,
+          "title": "这口烧烤我画地为牢",
+          "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2",
+          "hot": 12103146,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794041613,
+            "label": 3,
+            "sentence_id": "2734504",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 3,
+          "title": "中国第43次南极考察队出征",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81",
+          "hot": 12102004,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794016271,
+            "label": 3,
+            "sentence_id": "2733769",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 4,
+          "title": "TTG战胜LGDNBW",
+          "url": "https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW",
+          "hot": 11852958,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794061364,
+            "sentence_id": "2734997",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 5,
+          "title": "两枚导弹击中伊朗格什姆岛",
+          "url": "https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B",
+          "hot": 10857816,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794011088,
+            "label": 3,
+            "sentence_id": "2733694",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 6,
+          "title": "希金斯对阵凯伦威尔逊完成绝杀",
+          "url": "https://www.douyin.com/search/%E5%B8%8C%E9%87%91%E6%96%AF%E5%AF%B9%E9%98%B5%E5%87%AF%E4%BC%A6%E5%A8%81%E5%B0%94%E9%80%8A%E5%AE%8C%E6%88%90%E7%BB%9D%E6%9D%80",
+          "hot": 10644432,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794058210,
+            "sentence_id": "2734922",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 7,
+          "title": "立冬初雪被毛茸茸治愈了",
+          "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86",
+          "hot": 9471499,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794018190,
+            "sentence_id": "2733836",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 8,
+          "title": "IG对战GEN",
+          "url": "https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN",
+          "hot": 9361979,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794055557,
+            "sentence_id": "2734870",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 9,
+          "title": "天赐官宣入驻抖音直播",
+          "url": "https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD",
+          "hot": 9350399,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794047591,
+            "sentence_id": "2734695",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 10,
+          "title": "寻找你的答案之书",
+          "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6",
+          "hot": 9247730,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793959214,
+            "sentence_id": "2732976",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 11,
+          "title": "入冬第一顿火锅爆爽不烧心",
+          "url": "https://www.douyin.com/search/%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E7%88%86%E7%88%BD%E4%B8%8D%E7%83%A7%E5%BF%83",
+          "hot": 9140711,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1793937112,
+            "label": 5,
+            "sentence_id": "2732192",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 12,
+          "title": "美丽不冻人的冬季穿搭",
+          "url": "https://www.douyin.com/search/%E7%BE%8E%E4%B8%BD%E4%B8%8D%E5%86%BB%E4%BA%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
+          "hot": 9136259,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794026985,
+            "label": 3,
+            "sentence_id": "2734050",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 13,
+          "title": "10月辟谣榜",
+          "url": "https://www.douyin.com/search/10%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C",
+          "hot": 9033877,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794038259,
+            "label": 16,
+            "sentence_id": "2734420",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 14,
+          "title": "墨尔本遇害中国骑手妻子发声",
+          "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E9%AA%91%E6%89%8B%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0",
+          "hot": 8987252,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794038622,
+            "sentence_id": "2734435",
+            "video_count": 8
+          }
+        },
+        {
+          "rank": 15,
+          "title": "泰山主场迎战成都蓉城",
+          "url": "https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E",
+          "hot": 8962132,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794038188,
+            "sentence_id": "2734418",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 16,
+          "title": "云南一剧组拍戏发生意外起火",
+          "url": "https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB",
+          "hot": 8838745,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794033985,
+            "sentence_id": "2734290",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 17,
+          "title": "北京下雪",
+          "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA",
+          "hot": 8764619,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794019969,
+            "sentence_id": "2733882",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 18,
+          "title": "墨尔本中国公民遇害案嫌犯已归案",
+          "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%BD%92%E6%A1%88",
+          "hot": 8728092,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794014569,
+            "label": 3,
+            "sentence_id": "2733739",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 19,
+          "title": "把力量借给IG",
+          "url": "https://www.douyin.com/search/%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99IG",
+          "hot": 8707444,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794040918,
+            "label": 9,
+            "sentence_id": "2734488",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 20,
+          "title": "抖音缝纫天裁交流大会",
+          "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BC%9D%E7%BA%AB%E5%A4%A9%E8%A3%81%E4%BA%A4%E6%B5%81%E5%A4%A7%E4%BC%9A",
+          "hot": 8480953,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794022782,
+            "sentence_id": "2733964",
+            "video_count": 6
+          }
+        }
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "name": "小红书",
+      "ok": false,
+      "fetched_at": "2026-11-08T03:24:17.023866401+08:00",
+      "elapsed_ms": 702,
+      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
+      "items": []
+    }
+  ]
+}
