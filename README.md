@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-07 16:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-07 17:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [芒果文案组来了一群天才](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D%23) — 130.3万 · 新
 4. [Faker说很可惜BLG在半决赛遇到T1](https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4%E5%BE%88%E5%8F%AF%E6%83%9CBLG%E5%9C%A8%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%81%87%E5%88%B0T1%23) — 118.3万 · 新
 5. [被刺身亡中国外卖员在澳9年](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E6%BE%B39%E5%B9%B4%23) — 116万 · 新
-6. [男子倒在站台去世无人用AED施救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%92%E5%9C%A8%E7%AB%99%E5%8F%B0%E5%8E%BB%E4%B8%96%E6%97%A0%E4%BA%BA%E7%94%A8AED%E6%96%BD%E6%95%91%23) — 111.3万 · 新
-7. [波尔津吉斯发声](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E5%8F%91%E5%A3%B0%23) — 109.2万 · 新
-8. [青稚老板回应被骂](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%23) — 97.7万 · 新
-9. [后会友期综史一](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%BC%E5%8F%B2%E4%B8%80%23) — 95.3万 · 热
-10. [立冬](https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC) — 90万 · 新
+6. [女子和已婚男交往被原配发现后坠亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%92%8C%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%A4%E5%BE%80%E8%A2%AB%E5%8E%9F%E9%85%8D%E5%8F%91%E7%8E%B0%E5%90%8E%E5%9D%A0%E4%BA%A1%23) — 112.2万 · 新
+7. [男子倒在站台去世无人用AED施救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%92%E5%9C%A8%E7%AB%99%E5%8F%B0%E5%8E%BB%E4%B8%96%E6%97%A0%E4%BA%BA%E7%94%A8AED%E6%96%BD%E6%95%91%23) — 111.3万 · 新
+8. [波尔津吉斯发声](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E5%8F%91%E5%A3%B0%23) — 109.2万 · 新
+9. [青稚老板回应被骂](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%23) — 97.7万 · 新
+10. [后会友期综史一](https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%BB%BC%E5%8F%B2%E4%B8%80%23) — 95.3万 · 热
 
 ### 抖音
 
@@ -36,8 +36,8 @@
 6. [进博会外商抢抓合作商机](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%96%E5%95%86%E6%8A%A2%E6%8A%93%E5%90%88%E4%BD%9C%E5%95%86%E6%9C%BA) — 1147.1万
 7. [又到穿费尔岛的季节了](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E7%A9%BF%E8%B4%B9%E5%B0%94%E5%B2%9B%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86) — 1141.2万
 8. [抖音缝纫天裁交流大会](https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BC%9D%E7%BA%AB%E5%A4%A9%E8%A3%81%E4%BA%A4%E6%B5%81%E5%A4%A7%E4%BC%9A) — 1138.6万
-9. [2026世界市长对话宁波](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2) — 1134.2万
-10. [多地目击巨型火流星划过](https://www.douyin.com/search/%E5%A4%9A%E5%9C%B0%E7%9B%AE%E5%87%BB%E5%B7%A8%E5%9E%8B%E7%81%AB%E6%B5%81%E6%98%9F%E5%88%92%E8%BF%87) — 1124.4万
+9. [泰山主场迎战成都蓉城](https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E) — 1134.4万
+10. [2026世界市长对话宁波](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2) — 1134.2万
 
 ### 小红书
 
