@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 07:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 08:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [多平台下架推不倒戒指](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23) — 92.9万 · 热
-2. [iG对战GEN](https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23) — 83.8万 · 新
-3. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 66.6万 · 新
-4. [共赴APEC之约](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23) — 54.2万
-5. [王楚然表白完黄景瑜愣住了两秒](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%A1%A8%E7%99%BD%E5%AE%8C%E9%BB%84%E6%99%AF%E7%91%9C%E6%84%A3%E4%BD%8F%E4%BA%86%E4%B8%A4%E7%A7%92%23) — 47.5万 · 新
-6. [嫁金钗最好嗑的一个视频出现了](https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E5%87%BA%E7%8E%B0%E4%BA%86%23) — 45.3万 · 剧集
-7. [爸爸去哪儿3重聚为康康庆生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF3%E9%87%8D%E8%81%9A%E4%B8%BA%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F%23) — 43.2万 · 热
-8. [马天宇 李明德](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%9D%8E%E6%98%8E%E5%BE%B7) — 41.3万 · 热
-9. [刘丹透露小糯米在英国读书](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%B9%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%AF%BB%E4%B9%A6%23) — 40.4万 · 热
-10. [国乒男单6站冠军赛仅1次晋级决赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%956%E7%AB%99%E5%86%A0%E5%86%9B%E8%B5%9B%E4%BB%851%E6%AC%A1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23) — 37.8万 · 新
+1. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 109.3万 · 新
+2. [多平台下架推不倒戒指](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23) — 92.9万 · 热
+3. [iG对战GEN](https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23) — 83.8万 · 新
+4. [国乒六站冠军赛仅孙颖莎夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%AD%E7%AB%99%E5%86%A0%E5%86%9B%E8%B5%9B%E4%BB%85%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0%23) — 81万 · 新
+5. [共赴APEC之约](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23) — 63.8万
+6. [于正求厉娜原谅许飞](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23) — 61.8万 · 新
+7. [外国人不理解中国人不用邮件办公](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8A%9E%E5%85%AC) — 61.7万 · 新
+8. [王楚然表白完黄景瑜愣住了两秒](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%A1%A8%E7%99%BD%E5%AE%8C%E9%BB%84%E6%99%AF%E7%91%9C%E6%84%A3%E4%BD%8F%E4%BA%86%E4%B8%A4%E7%A7%92%23) — 47.5万 · 新
+9. [嫁金钗最好嗑的一个视频出现了](https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E5%87%BA%E7%8E%B0%E4%BA%86%23) — 45.3万 · 剧集
+10. [爸爸去哪儿3重聚为康康庆生](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF3%E9%87%8D%E8%81%9A%E4%B8%BA%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F%23) — 43.2万 · 热
 
 ### 抖音
 
-1. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1213.6万
-2. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1211.4万
-3. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.9万
-4. [这口烧烤我画地为牢](https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 1210.3万
-5. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1210.2万
-6. [TTG战胜LGDNBW](https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW) — 1187.6万
-7. [云南一剧组拍戏发生意外起火](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB) — 1141.5万
-8. [天赐官宣入驻抖音直播](https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD) — 1078.5万
-9. [希金斯对阵凯伦威尔逊完成绝杀](https://www.douyin.com/search/%E5%B8%8C%E9%87%91%E6%96%AF%E5%AF%B9%E9%98%B5%E5%87%AF%E4%BC%A6%E5%A8%81%E5%B0%94%E9%80%8A%E5%AE%8C%E6%88%90%E7%BB%9D%E6%9D%80) — 1070.8万
-10. [IG对战GEN](https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN) — 1066.5万
+1. [入冬第一顿火锅爆爽不烧心](https://www.douyin.com/search/%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E7%88%86%E7%88%BD%E4%B8%8D%E7%83%A7%E5%BF%83) — 1215.6万
+2. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1213.6万
+3. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1211.4万
+4. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.9万
+5. [这口烧烤我画地为牢](https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 1210.3万
+6. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1210.2万
+7. [TTG战胜LGDNBW](https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW) — 1187.6万
+8. [云南一剧组拍戏发生意外起火](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB) — 1141.5万
+9. [天赐官宣入驻抖音直播](https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD) — 1078.5万
+10. [寻找你的答案之书](https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6) — 1074.3万
 
 ### 小红书
 
