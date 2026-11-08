@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-09T05:24:14.956244228+08:00",
+  "timezone": "Asia/Shanghai",
+  "boards": [
+    {
+      "platform": "weibo",
+      "name": "微博",
+      "ok": true,
+      "fetched_at": "2026-11-09T05:24:15.89587213+08:00",
+      "elapsed_ms": 939,
+      "items": [
+        {
+          "rank": 1,
+          "title": "疑似秦始皇儿子遗骸遭肢解",
+          "url": "https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E9%81%97%E9%AA%B8%E9%81%AD%E8%82%A2%E8%A7%A3",
+          "hot": 235920,
+          "tag": "热"
+        },
+        {
+          "rank": 2,
+          "title": "马斯克突爆孙正义猛料",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%88%86%E5%AD%99%E6%AD%A3%E4%B9%89%E7%8C%9B%E6%96%99%23",
+          "hot": 194254,
+          "tag": "热"
+        },
+        {
+          "rank": 3,
+          "title": "中国消费图景向新向优",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%9B%BE%E6%99%AF%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23",
+          "hot": 94194
+        },
+        {
+          "rank": 4,
+          "title": "付鹏称AI漫剧全部亏损",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%98%E9%B9%8F%E7%A7%B0AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%83%A8%E4%BA%8F%E6%8D%9F",
+          "hot": 92925
+        },
+        {
+          "rank": 5,
+          "title": "许飞 我作茧自缚",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BD%9C%E8%8C%A7%E8%87%AA%E7%BC%9A",
+          "hot": 71620,
+          "tag": "综艺"
+        },
+        {
+          "rank": 6,
+          "title": "金子涵被骗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E9%AA%97%23",
+          "hot": 66613,
+          "tag": "热"
+        },
+        {
+          "rank": 7,
+          "title": "徐艺洋这身材穿个麻袋都好看",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%BF%99%E8%BA%AB%E6%9D%90%E7%A9%BF%E4%B8%AA%E9%BA%BB%E8%A2%8B%E9%83%BD%E5%A5%BD%E7%9C%8B%23",
+          "hot": 64012,
+          "tag": "热"
+        },
+        {
+          "rank": 8,
+          "title": "发生日快乐才知老同学已离世",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%89%8D%E7%9F%A5%E8%80%81%E5%90%8C%E5%AD%A6%E5%B7%B2%E7%A6%BB%E4%B8%96",
+          "hot": 60174
+        },
+        {
+          "rank": 9,
+          "title": "曼联4比4阿斯顿维拉",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%944%E6%AF%944%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89",
+          "hot": 59805,
+          "tag": "新"
+        },
+        {
+          "rank": 10,
+          "title": "太原火灾送医院救治38人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE%E9%80%81%E5%8C%BB%E9%99%A2%E6%95%91%E6%B2%BB38%E4%BA%BA%23",
+          "hot": 55225
+        },
+        {
+          "rank": 11,
+          "title": "蔡少芬一家五口在香港住83平的房子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%BD%8F83%E5%B9%B3%E7%9A%84%E6%88%BF%E5%AD%90%23",
+          "hot": 54672,
+          "tag": "热"
+        },
+        {
+          "rank": 12,
+          "title": "女子查到男友父亲有案底后崩溃",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%88%B0%E7%94%B7%E5%8F%8B%E7%88%B6%E4%BA%B2%E6%9C%89%E6%A1%88%E5%BA%95%E5%90%8E%E5%B4%A9%E6%BA%83",
+          "hot": 54335
+        },
+        {
+          "rank": 13,
+          "title": "陈浩民家保姆工资每月6000多",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%A9%E6%B0%91%E5%AE%B6%E4%BF%9D%E5%A7%86%E5%B7%A5%E8%B5%84%E6%AF%8F%E6%9C%886000%E5%A4%9A%23",
+          "hot": 54122,
+          "tag": "热"
+        },
+        {
+          "rank": 14,
+          "title": "山姆大牌低价催会员费",
+          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E5%A4%A7%E7%89%8C%E4%BD%8E%E4%BB%B7%E5%82%AC%E4%BC%9A%E5%91%98%E8%B4%B9",
+          "hot": 53408
+        },
+        {
+          "rank": 15,
+          "title": "白小纯叫王子璇姐姐完整过程",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%AB%E7%8E%8B%E5%AD%90%E7%92%87%E5%A7%90%E5%A7%90%E5%AE%8C%E6%95%B4%E8%BF%87%E7%A8%8B%23",
+          "hot": 47013,
+          "tag": "综艺"
+        },
+        {
+          "rank": 16,
+          "title": "金子涵被骗到陌生城市偷走护照",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E9%AA%97%E5%88%B0%E9%99%8C%E7%94%9F%E5%9F%8E%E5%B8%82%E5%81%B7%E8%B5%B0%E6%8A%A4%E7%85%A7%23",
+          "hot": 40289
+        },
+        {
+          "rank": 17,
+          "title": "文吉儿微信名",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E5%BE%AE%E4%BF%A1%E5%90%8D%23",
+          "hot": 40243
+        },
+        {
+          "rank": 18,
+          "title": "无锡女厕惊现站立式小便厕位",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E5%A5%B3%E5%8E%95%E6%83%8A%E7%8E%B0%E7%AB%99%E7%AB%8B%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%8E%95%E4%BD%8D%23",
+          "hot": 37111
+        },
+        {
+          "rank": 19,
+          "title": "小糯米才12岁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B3%AF%E7%B1%B3%E6%89%8D12%E5%B2%81%23",
+          "hot": 35874
+        },
+        {
+          "rank": 20,
+          "title": "后会友期黄焖鸡门口没监控",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E9%97%A8%E5%8F%A3%E6%B2%A1%E7%9B%91%E6%8E%A7",
+          "hot": 34559,
+          "tag": "综艺"
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "name": "抖音",
+      "ok": true,
+      "fetched_at": "2026-11-09T05:24:17.427273395+08:00",
+      "elapsed_ms": 2470,
+      "items": [
+        {
+          "rank": 1,
+          "title": "BLG对战T1",
+          "url": "https://www.douyin.com/search/BLG%E5%AF%B9%E6%88%98T1",
+          "hot": 11513860,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794142817,
+            "label": 3,
+            "sentence_id": "2736348",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 2,
+          "title": "大连时隔21年重夺中超冠军",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E6%97%B6%E9%9A%9421%E5%B9%B4%E9%87%8D%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B",
+          "hot": 11184409,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794130088,
+            "sentence_id": "2736060",
+            "video_count": 8
+          }
+        },
+        {
+          "rank": 3,
+          "title": "大国重器向地下万米进军",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E5%90%91%E5%9C%B0%E4%B8%8B%E4%B8%87%E7%B1%B3%E8%BF%9B%E5%86%9B",
+          "hot": 10994742,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794136635,
+            "sentence_id": "2736224",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 4,
+          "title": "开拓者惨败马刺 杨瀚森首次两双",
+          "url": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%83%A8%E8%B4%A5%E9%A9%AC%E5%88%BA%20%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C",
+          "hot": 10994600,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794116423,
+            "sentence_id": "2735594",
+            "video_count": 15
+          }
+        },
+        {
+          "rank": 5,
+          "title": "成都蓉城客场不敌泰山无缘冠军",
+          "url": "https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%B1%B1%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B",
+          "hot": 10410181,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794125601,
+            "sentence_id": "2735927",
+            "video_count": 11
+          }
+        },
+        {
+          "rank": 6,
+          "title": "后知后觉又过了一个秋",
+          "url": "https://www.douyin.com/search/%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89%E5%8F%88%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A7%8B",
+          "hot": 10380743,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794147334,
+            "label": 3,
+            "sentence_id": "2736425",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 7,
+          "title": "成都蓉城致歉",
+          "url": "https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E8%87%B4%E6%AD%89",
+          "hot": 9273380,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794138522,
+            "sentence_id": "2736255",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 8,
+          "title": "全民进入大保暖时代",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E6%B0%91%E8%BF%9B%E5%85%A5%E5%A4%A7%E4%BF%9D%E6%9A%96%E6%97%B6%E4%BB%A3",
+          "hot": 9223123,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794120083,
+            "sentence_id": "2735737",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 9,
+          "title": "大连球员发抖音晒中超奖杯",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E7%90%83%E5%91%98%E5%8F%91%E6%8A%96%E9%9F%B3%E6%99%92%E4%B8%AD%E8%B6%85%E5%A5%96%E6%9D%AF",
+          "hot": 9183768,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794139054,
+            "label": 8,
+            "sentence_id": "2736265",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 10,
+          "title": "布伦特油价一周暴跌超16%",
+          "url": "https://www.douyin.com/search/%E5%B8%83%E4%BC%A6%E7%89%B9%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25",
+          "hot": 9105273,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794105081,
+            "sentence_id": "2735292",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 11,
+          "title": "重庆打出租车到新疆赛里木湖",
+          "url": "https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E6%89%93%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%88%B0%E6%96%B0%E7%96%86%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96",
+          "hot": 9095304,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794145143,
+            "label": 3,
+            "sentence_id": "2736391",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 12,
+          "title": "湘超衡阳1:0娄底",
+          "url": "https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E8%A1%A1%E9%98%B31:0%E5%A8%84%E5%BA%95",
+          "hot": 8936586,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794121212,
+            "label": 3,
+            "sentence_id": "2735790",
+            "video_count": 6
+          }
+        },
+        {
+          "rank": 13,
+          "title": "警惕网络畸形审美",
+          "url": "https://www.douyin.com/search/%E8%AD%A6%E6%83%95%E7%BD%91%E7%BB%9C%E7%95%B8%E5%BD%A2%E5%AE%A1%E7%BE%8E",
+          "hot": 8814589,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794114700,
+            "label": 16,
+            "sentence_id": "2735556",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 14,
+          "title": "沙特首都利雅得金融区遭袭",
+          "url": "https://www.douyin.com/search/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E9%87%91%E8%9E%8D%E5%8C%BA%E9%81%AD%E8%A2%AD",
+          "hot": 8654311,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794121787,
+            "label": 3,
+            "sentence_id": "2735815",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 15,
+          "title": "伊朗多地传出爆炸声",
+          "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "hot": 7758011,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794094147,
+            "sentence_id": "2735104",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 16,
+          "title": "最后一位开国将军王扶之逝世",
+          "url": "https://www.douyin.com/search/%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E5%BC%80%E5%9B%BD%E5%B0%86%E5%86%9B%E7%8E%8B%E6%89%B6%E4%B9%8B%E9%80%9D%E4%B8%96",
+          "hot": 7752235,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794105797,
+            "sentence_id": "2735316",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 17,
+          "title": "波兰南部发生枪击事件",
+          "url": "https://www.douyin.com/search/%E6%B3%A2%E5%85%B0%E5%8D%97%E9%83%A8%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
+          "hot": 7738577,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794093294,
+            "label": 3,
+            "sentence_id": "2735085",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 18,
+          "title": "刘铮亮小城下雪了",
+          "url": "https://www.douyin.com/search/%E5%88%98%E9%93%AE%E4%BA%AE%E5%B0%8F%E5%9F%8E%E4%B8%8B%E9%9B%AA%E4%BA%86",
+          "hot": 7729077,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794103739,
+            "label": 3,
+            "sentence_id": "2735256",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 19,
+          "title": "BLG成为LPL最后的希望",
+          "url": "https://www.douyin.com/search/BLG%E6%88%90%E4%B8%BALPL%E6%9C%80%E5%90%8E%E7%9A%84%E5%B8%8C%E6%9C%9B",
+          "hot": 7727007,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794108637,
+            "label": 3,
+            "sentence_id": "2735432",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 20,
+          "title": "郑雨的人生从未放晴",
+          "url": "https://www.douyin.com/search/%E9%83%91%E9%9B%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BB%8E%E6%9C%AA%E6%94%BE%E6%99%B4",
+          "hot": 7720933,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794057505,
+            "label": 3,
+            "sentence_id": "2734912",
+            "video_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "name": "小红书",
+      "ok": false,
+      "fetched_at": "2026-11-09T05:24:15.67456332+08:00",
+      "elapsed_ms": 718,
+      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
+      "items": []
+    }
+  ]
+}
