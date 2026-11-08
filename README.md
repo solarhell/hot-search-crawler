@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,10 +21,10 @@
 4. [于正求厉娜原谅许飞](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23) — 145.7万 · 新
 5. [外国人不理解中国人不用邮件办公](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8A%9E%E5%85%AC) — 138.1万 · 新
 6. [多地中小学延迟到校取消早读](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%23) — 119万 · 新
-7. [延迟到校取消早读家长发声](https://s.weibo.com/weibo?q=%23%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23) — 113.8万 · 新
-8. [TheShy评分](https://s.weibo.com/weibo?q=TheShy%E8%AF%84%E5%88%86) — 113万 · 新
-9. [电竞圈 非法调岗](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E5%9C%88+%E9%9D%9E%E6%B3%95%E8%B0%83%E5%B2%97) — 110.5万 · 新
-10. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 109.3万 · 新
+7. [TheShy希望Chovy夺冠](https://s.weibo.com/weibo?q=%23TheShy%E5%B8%8C%E6%9C%9BChovy%E5%A4%BA%E5%86%A0%23) — 114.3万 · 新
+8. [延迟到校取消早读家长发声](https://s.weibo.com/weibo?q=%23%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23) — 113.8万 · 新
+9. [TheShy评分](https://s.weibo.com/weibo?q=TheShy%E8%AF%84%E5%88%86) — 113万 · 新
+10. [电竞圈 非法调岗](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E5%9C%88+%E9%9D%9E%E6%B3%95%E8%B0%83%E5%B2%97) — 110.5万 · 新
 
 ### 抖音
 
