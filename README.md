@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [共赴APEC之约](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23) — 147.5万
 4. [于正求厉娜原谅许飞](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23) — 145.7万 · 新
 5. [外国人不理解中国人不用邮件办公](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8A%9E%E5%85%AC) — 138.1万 · 新
-6. [电竞圈 非法调岗](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E5%9C%88+%E9%9D%9E%E6%B3%95%E8%B0%83%E5%B2%97) — 110.5万 · 新
-7. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 109.3万 · 新
-8. [多平台下架推不倒戒指](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23) — 92.9万 · 热
-9. [iG对战GEN](https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23) — 83.8万 · 新
-10. [国乒六站冠军赛仅孙颖莎夺冠](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%85%AD%E7%AB%99%E5%86%A0%E5%86%9B%E8%B5%9B%E4%BB%85%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0%23) — 81万 · 新
+6. [TheShy评分](https://s.weibo.com/weibo?q=TheShy%E8%AF%84%E5%88%86) — 113万 · 新
+7. [电竞圈 非法调岗](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E5%9C%88+%E9%9D%9E%E6%B3%95%E8%B0%83%E5%B2%97) — 110.5万 · 新
+8. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 109.3万 · 新
+9. [多平台下架推不倒戒指](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23) — 92.9万 · 热
+10. [iG对战GEN](https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23) — 83.8万 · 新
 
 ### 抖音
 
