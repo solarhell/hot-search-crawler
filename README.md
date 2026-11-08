@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-09 03:10**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-09 04:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -35,9 +35,9 @@
 5. [成都蓉城客场不敌泰山无缘冠军](https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%B1%B1%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B) — 1113.6万
 6. [后知后觉又过了一个秋](https://www.douyin.com/search/%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89%E5%8F%88%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A7%8B) — 1050.9万
 7. [开拓者惨败马刺 杨瀚森首次两双](https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%83%A8%E8%B4%A5%E9%A9%AC%E5%88%BA%20%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C) — 1046.6万
-8. [全民进入大保暖时代](https://www.douyin.com/search/%E5%85%A8%E6%B0%91%E8%BF%9B%E5%85%A5%E5%A4%A7%E4%BF%9D%E6%9A%96%E6%97%B6%E4%BB%A3) — 918.4万
+8. [全民进入大保暖时代](https://www.douyin.com/search/%E5%85%A8%E6%B0%91%E8%BF%9B%E5%85%A5%E5%A4%A7%E4%BF%9D%E6%9A%96%E6%97%B6%E4%BB%A3) — 927.6万
 9. [中超北京国安1:0重庆铜梁龙](https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%891:0%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%99) — 915.2万
-10. [布伦特油价一周暴跌超16%](https://www.douyin.com/search/%E5%B8%83%E4%BC%A6%E7%89%B9%E6%B2%B9%E4%BB%B7%E4%B8%80%E5%91%A8%E6%9A%B4%E8%B7%8C%E8%B6%8516%25) — 905.2万
+10. [大连球员发抖音晒中超奖杯](https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E7%90%83%E5%91%98%E5%8F%91%E6%8A%96%E9%9F%B3%E6%99%92%E4%B8%AD%E8%B6%85%E5%A5%96%E6%9D%AF) — 910.2万
 
 ### 小红书
 
