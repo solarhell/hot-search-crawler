@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 20:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 21:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [大连英博夺得中超冠军](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A%E5%A4%BA%E5%BE%97%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B%23) — 402.6万 · 新
 2. [GEN战胜iG](https://s.weibo.com/weibo?q=GEN%E6%88%98%E8%83%9CiG) — 237.8万 · 新
-3. [jiaqi失误](https://s.weibo.com/weibo?q=%23jiaqi%E5%A4%B1%E8%AF%AF%23) — 150.1万 · 新
-4. [共赴APEC之约](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23) — 147.5万
-5. [于正求厉娜原谅许飞](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23) — 145.7万 · 新
-6. [疑似秦始皇儿子头骨面容复原图](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%23) — 143.4万 · 新
+3. [疑似秦始皇儿子头骨面容复原图](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%23) — 177.3万 · 新
+4. [jiaqi失误](https://s.weibo.com/weibo?q=%23jiaqi%E5%A4%B1%E8%AF%AF%23) — 150.1万 · 新
+5. [共赴APEC之约](https://s.weibo.com/weibo?q=%23%E5%85%B1%E8%B5%B4APEC%E4%B9%8B%E7%BA%A6%23) — 147.5万
+6. [于正求厉娜原谅许飞](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23) — 145.7万 · 新
 7. [外国人不理解中国人不用邮件办公](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8A%9E%E5%85%AC) — 138.1万 · 新
 8. [中超](https://s.weibo.com/weibo?q=%E4%B8%AD%E8%B6%85) — 123.9万 · 新
-9. [多地中小学延迟到校取消早读](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%23) — 119万 · 新
-10. [张艺谋问谁还进电影院](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%97%AE%E8%B0%81%E8%BF%98%E8%BF%9B%E7%94%B5%E5%BD%B1%E9%99%A2) — 116.9万 · 新
+9. [山姆多款始祖鸟加拿大鹅被抢空](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%A4%9A%E6%AC%BE%E5%A7%8B%E7%A5%96%E9%B8%9F%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E8%A2%AB%E6%8A%A2%E7%A9%BA%23) — 123.4万 · 新
+10. [多地中小学延迟到校取消早读](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%23) — 119万 · 新
 
 ### 抖音
 
