@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-09 06:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-09 07:10**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,13 +23,13 @@
 6. [无锡女厕惊现站立式小便厕位](https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E5%A5%B3%E5%8E%95%E6%83%8A%E7%8E%B0%E7%AB%99%E7%AB%8B%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%8E%95%E4%BD%8D%23) — 62.3万 · 热
 7. [许飞 我作茧自缚](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BD%9C%E8%8C%A7%E8%87%AA%E7%BC%9A) — 57.1万 · 热
 8. [疑似秦始皇儿子头骨面容复原图](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E5%A4%8D%E5%8E%9F%E5%9B%BE%23) — 46.3万
-9. [金子涵被骗](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E9%AA%97%23) — 33万 · 热
-10. [蔡少芬一家五口在香港住83平的房子](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%BD%8F83%E5%B9%B3%E7%9A%84%E6%88%BF%E5%AD%90%23) — 32.9万 · 热
+9. [BLG对战T1](https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23) — 40.5万 · 新
+10. [金子涵被骗](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E9%AA%97%23) — 33万 · 热
 
 ### 抖音
 
-1. [成都蓉城致歉](https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E8%87%B4%E6%AD%89) — 1204.3万
-2. [BLG对战T1](https://www.douyin.com/search/BLG%E5%AF%B9%E6%88%98T1) — 1199.5万
+1. [BLG对战T1](https://www.douyin.com/search/BLG%E5%AF%B9%E6%88%98T1) — 1210.6万
+2. [成都蓉城致歉](https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E8%87%B4%E6%AD%89) — 1204.3万
 3. [成都蓉城客场不敌泰山无缘冠军](https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%AE%A2%E5%9C%BA%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%B1%B1%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B) — 1156.5万
 4. [大连时隔21年重夺中超冠军](https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E6%97%B6%E9%9A%9421%E5%B9%B4%E9%87%8D%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B) — 1118.4万
 5. [大国重器向地下万米进军](https://www.douyin.com/search/%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E5%90%91%E5%9C%B0%E4%B8%8B%E4%B8%87%E7%B1%B3%E8%BF%9B%E5%86%9B) — 1118万
