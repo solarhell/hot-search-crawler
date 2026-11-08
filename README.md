@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-08 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-08 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,23 +21,23 @@
 4. [于正求厉娜原谅许飞](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23) — 145.7万 · 新
 5. [外国人不理解中国人不用邮件办公](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%94%A8%E9%82%AE%E4%BB%B6%E5%8A%9E%E5%85%AC) — 138.1万 · 新
 6. [多地中小学延迟到校取消早读](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%23) — 119万 · 新
-7. [TheShy评分](https://s.weibo.com/weibo?q=TheShy%E8%AF%84%E5%88%86) — 113万 · 新
-8. [电竞圈 非法调岗](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E5%9C%88+%E9%9D%9E%E6%B3%95%E8%B0%83%E5%B2%97) — 110.5万 · 新
-9. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 109.3万 · 新
-10. [多平台下架推不倒戒指](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E6%8E%A8%E4%B8%8D%E5%80%92%E6%88%92%E6%8C%87%23) — 92.9万 · 热
+7. [延迟到校取消早读家长发声](https://s.weibo.com/weibo?q=%23%E5%BB%B6%E8%BF%9F%E5%88%B0%E6%A0%A1%E5%8F%96%E6%B6%88%E6%97%A9%E8%AF%BB%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23) — 113.8万 · 新
+8. [TheShy评分](https://s.weibo.com/weibo?q=TheShy%E8%AF%84%E5%88%86) — 113万 · 新
+9. [电竞圈 非法调岗](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E5%9C%88+%E9%9D%9E%E6%B3%95%E8%B0%83%E5%B2%97) — 110.5万 · 新
+10. [8省份大到暴雪](https://s.weibo.com/weibo?q=%238%E7%9C%81%E4%BB%BD%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%23) — 109.3万 · 新
 
 ### 抖音
 
 1. [入冬第一顿火锅爆爽不烧心](https://www.douyin.com/search/%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E7%88%86%E7%88%BD%E4%B8%8D%E7%83%A7%E5%BF%83) — 1221.7万
-2. [寻找你的答案之书](https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6) — 1216.9万
-3. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1213.6万
-4. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1211.4万
-5. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.9万
-6. [这口烧烤我画地为牢](https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 1210.3万
-7. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1210.2万
-8. [TTG战胜LGDNBW](https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW) — 1187.6万
-9. [云南一剧组拍戏发生意外起火](https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB) — 1141.5万
-10. [天赐官宣入驻抖音直播](https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD) — 1078.5万
+2. [开拓者惨败马刺 杨瀚森首次两双](https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%83%A8%E8%B4%A5%E9%A9%AC%E5%88%BA%20%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E4%B8%A4%E5%8F%8C) — 1220.9万
+3. [寻找你的答案之书](https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6) — 1216.9万
+4. [盛唐初雪飘落洛阳城](https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E) — 1213.6万
+5. [英雄联盟S16半决赛赛程公布](https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%A8%8B%E5%85%AC%E5%B8%83) — 1211.4万
+6. [两枚导弹击中伊朗格什姆岛](https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B) — 1210.9万
+7. [这口烧烤我画地为牢](https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2) — 1210.3万
+8. [中国第43次南极考察队出征](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81) — 1210.2万
+9. [伊朗解除导弹射程限制](https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E8%A7%A3%E9%99%A4%E5%AF%BC%E5%BC%B9%E5%B0%84%E7%A8%8B%E9%99%90%E5%88%B6) — 1191.1万
+10. [TTG战胜LGDNBW](https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW) — 1187.6万
 
 ### 小红书
 
