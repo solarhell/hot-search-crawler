@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-09 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-09 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -37,7 +37,7 @@
 7. [今日寒衣节](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%AF%92%E8%A1%A3%E8%8A%82) — 1196.3万
 8. [大国重器向地下万米进军](https://www.douyin.com/search/%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E5%90%91%E5%9C%B0%E4%B8%8B%E4%B8%87%E7%B1%B3%E8%BF%9B%E5%86%9B) — 1152.4万
 9. [76人送公牛7连败](https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E5%85%AC%E7%89%9B7%E8%BF%9E%E8%B4%A5) — 1127.9万
-10. [中国新发展为世界提供新机遇](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E6%96%B0%E6%9C%BA%E9%81%87) — 1121.8万
+10. [中国新发展为世界提供新机遇](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E6%96%B0%E6%9C%BA%E9%81%87) — 1122.8万
 
 ### 小红书
 
