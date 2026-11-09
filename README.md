@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-09 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-09 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -35,7 +35,7 @@
 5. [成都蓉城致歉](https://www.douyin.com/search/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E8%87%B4%E6%AD%89) — 1204.3万
 6. [外资持续看好中国发展前景](https://www.douyin.com/search/%E5%A4%96%E8%B5%84%E6%8C%81%E7%BB%AD%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF) — 1200.5万
 7. [今日寒衣节](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%AF%92%E8%A1%A3%E8%8A%82) — 1196.3万
-8. [全网老吃家带着绝活开锅了](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%80%81%E5%90%83%E5%AE%B6%E5%B8%A6%E7%9D%80%E7%BB%9D%E6%B4%BB%E5%BC%80%E9%94%85%E4%BA%86) — 1173.4万
+8. [全网老吃家带着绝活开锅了](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%80%81%E5%90%83%E5%AE%B6%E5%B8%A6%E7%9D%80%E7%BB%9D%E6%B4%BB%E5%BC%80%E9%94%85%E4%BA%86) — 1192.9万
 9. [大国重器向地下万米进军](https://www.douyin.com/search/%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E5%90%91%E5%9C%B0%E4%B8%8B%E4%B8%87%E7%B1%B3%E8%BF%9B%E5%86%9B) — 1152.4万
 10. [中国新发展为世界提供新机遇](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E6%96%B0%E6%9C%BA%E9%81%87) — 1135万
 
