@@ -11,17 +11,17 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 06:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-10 07:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [白小纯 王子璇](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E7%8E%8B%E5%AD%90%E7%92%87) — 994万 · 爆
 2. [大型SUV第一名是小米澎程N90](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9E%8BSUV%E7%AC%AC%E4%B8%80%E5%90%8D%E6%98%AF%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90) — 180.2万
 3. [铸牢共同体中华一家亲](https://s.weibo.com/weibo?q=%23%E9%93%B8%E7%89%A2%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%8D%8E%E4%B8%80%E5%AE%B6%E4%BA%B2%23) — 142.2万
-4. [尚公主官方拆cp](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%AE%98%E6%96%B9%E6%8B%86cp%23) — 82.1万 · 剧集
-5. [国乒问题并非王楚钦一个人问题](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E9%97%AE%E9%A2%98%E5%B9%B6%E9%9D%9E%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%97%AE%E9%A2%98%23) — 65.7万
-6. [白小纯在发现有人没上车的30秒](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%9C%A8%E5%8F%91%E7%8E%B0%E6%9C%89%E4%BA%BA%E6%B2%A1%E4%B8%8A%E8%BD%A6%E7%9A%8430%E7%A7%92%23) — 60.9万 · 新
-7. [老人将6亿遗产留给再婚妻子](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23) — 60.8万 · 新
+4. [老人将6亿遗产留给再婚妻子](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23) — 82.6万 · 新
+5. [尚公主官方拆cp](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%AE%98%E6%96%B9%E6%8B%86cp%23) — 82.1万 · 剧集
+6. [国乒问题并非王楚钦一个人问题](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E9%97%AE%E9%A2%98%E5%B9%B6%E9%9D%9E%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%97%AE%E9%A2%98%23) — 65.7万
+7. [白小纯在发现有人没上车的30秒](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%9C%A8%E5%8F%91%E7%8E%B0%E6%9C%89%E4%BA%BA%E6%B2%A1%E4%B8%8A%E8%BD%A6%E7%9A%8430%E7%A7%92%23) — 60.9万 · 新
 8. [比亚迪大唐前后轮毂装反](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E5%94%90%E5%89%8D%E5%90%8E%E8%BD%AE%E6%AF%82%E8%A3%85%E5%8F%8D%23) — 60.8万
 9. [金鸡奖最佳男主角提名](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D) — 60.6万
 10. [哈尔滨烤地瓜原价1688到手8元](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E7%83%A4%E5%9C%B0%E7%93%9C%E5%8E%9F%E4%BB%B71688%E5%88%B0%E6%89%8B8%E5%85%83) — 60.5万
@@ -32,7 +32,7 @@
 2. [全网老吃家带着绝活开锅了](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%80%81%E5%90%83%E5%AE%B6%E5%B8%A6%E7%9D%80%E7%BB%9D%E6%B4%BB%E5%BC%80%E9%94%85%E4%BA%86) — 1187.1万
 3. [在互动中感受进博会多元魅力](https://www.douyin.com/search/%E5%9C%A8%E4%BA%92%E5%8A%A8%E4%B8%AD%E6%84%9F%E5%8F%97%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%9A%E5%85%83%E9%AD%85%E5%8A%9B) — 1128.3万
 4. [爱旅游的人已拿到双11大结果](https://www.douyin.com/search/%E7%88%B1%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E6%8B%BF%E5%88%B0%E5%8F%8C11%E5%A4%A7%E7%BB%93%E6%9E%9C) — 1117.7万
-5. [波兰枪击事件致9死16伤](https://www.douyin.com/search/%E6%B3%A2%E5%85%B0%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B49%E6%AD%BB16%E4%BC%A4) — 1104.1万
+5. [波兰枪击事件致9死16伤](https://www.douyin.com/search/%E6%B3%A2%E5%85%B0%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%87%B49%E6%AD%BB16%E4%BC%A4) — 1105.3万
 6. [76人送公牛7连败](https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E5%85%AC%E7%89%9B7%E8%BF%9E%E8%B4%A5) — 1091万
 7. [我的家乡申请出战](https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98) — 1054.1万
 8. [攻击11全方位展示](https://www.douyin.com/search/%E6%94%BB%E5%87%BB11%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B1%95%E7%A4%BA) — 1042.8万
