@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 12:21**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-10 13:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -24,7 +24,7 @@
 7. [石家庄陨石确认为普通球粒陨石](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%99%A8%E7%9F%B3%E7%A1%AE%E8%AE%A4%E4%B8%BA%E6%99%AE%E9%80%9A%E7%90%83%E7%B2%92%E9%99%A8%E7%9F%B3) — 118.8万 · 新
 8. [王楚钦 国乒男队](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6+%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F) — 104.4万 · 新
 9. [花坛藏尸案死者儿子的心停留在10岁](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E6%AD%BB%E8%80%85%E5%84%BF%E5%AD%90%E7%9A%84%E5%BF%83%E5%81%9C%E7%95%99%E5%9C%A810%E5%B2%81%23) — 89.6万 · 新
-10. [浦江潮涌共赴进博之约](https://s.weibo.com/weibo?q=%23%E6%B5%A6%E6%B1%9F%E6%BD%AE%E6%B6%8C%E5%85%B1%E8%B5%B4%E8%BF%9B%E5%8D%9A%E4%B9%8B%E7%BA%A6%23) — 87.4万 · 新
+10. [W盛典最牛的裙子](https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E6%9C%80%E7%89%9B%E7%9A%84%E8%A3%99%E5%AD%90) — 88.5万 · 新
 
 ### 抖音
 
