@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 20:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-10 21:00**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [白小纯 王子璇](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E7%8E%8B%E5%AD%90%E7%92%87) — 994万 · 爆
-2. [金鸡奖](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96) — 202.6万 · 新
-3. [大型SUV第一名是小米澎程N90](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9E%8BSUV%E7%AC%AC%E4%B8%80%E5%90%8D%E6%98%AF%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90) — 180.2万
-4. [花坛藏尸案女凶手庭上一直眨眼睛](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%A5%B3%E5%87%B6%E6%89%8B%E5%BA%AD%E4%B8%8A%E4%B8%80%E7%9B%B4%E7%9C%A8%E7%9C%BC%E7%9D%9B%23) — 159.8万 · 新
-5. [花坛藏尸案凶手容貌公开](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%B6%E6%89%8B%E5%AE%B9%E8%B2%8C%E5%85%AC%E5%BC%80%23) — 150.5万 · 新
-6. [花坛藏尸案一人死刑一人死缓](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E4%B8%80%E4%BA%BA%E6%AD%BB%E5%88%91%E4%B8%80%E4%BA%BA%E6%AD%BB%E7%BC%93%23) — 147万 · 新
-7. [石家庄天降陨石最大单体35公斤](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A9%E9%99%8D%E9%99%A8%E7%9F%B3%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%9335%E5%85%AC%E6%96%A4%23) — 144.5万 · 热
-8. [铸牢共同体中华一家亲](https://s.weibo.com/weibo?q=%23%E9%93%B8%E7%89%A2%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%8D%8E%E4%B8%80%E5%AE%B6%E4%BA%B2%23) — 142.2万
-9. [低智商很明显输给高情商](https://s.weibo.com/weibo?q=%E4%BD%8E%E6%99%BA%E5%95%86%E5%BE%88%E6%98%8E%E6%98%BE%E8%BE%93%E7%BB%99%E9%AB%98%E6%83%85%E5%95%86) — 138.3万 · 新
-10. [小米四款车全部上榜](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E8%BD%A6%E5%85%A8%E9%83%A8%E4%B8%8A%E6%A6%9C) — 130.9万 · 新
+2. [金鸡奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95) — 259.8万 · 新
+3. [金鸡奖](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96) — 202.6万 · 新
+4. [大型SUV第一名是小米澎程N90](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9E%8BSUV%E7%AC%AC%E4%B8%80%E5%90%8D%E6%98%AF%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90) — 180.2万
+5. [花坛藏尸案女凶手庭上一直眨眼睛](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%A5%B3%E5%87%B6%E6%89%8B%E5%BA%AD%E4%B8%8A%E4%B8%80%E7%9B%B4%E7%9C%A8%E7%9C%BC%E7%9D%9B%23) — 159.8万 · 新
+6. [花坛藏尸案凶手容貌公开](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%B6%E6%89%8B%E5%AE%B9%E8%B2%8C%E5%85%AC%E5%BC%80%23) — 150.5万 · 新
+7. [花坛藏尸案一人死刑一人死缓](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E4%B8%80%E4%BA%BA%E6%AD%BB%E5%88%91%E4%B8%80%E4%BA%BA%E6%AD%BB%E7%BC%93%23) — 147万 · 新
+8. [石家庄天降陨石最大单体35公斤](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A9%E9%99%8D%E9%99%A8%E7%9F%B3%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%9335%E5%85%AC%E6%96%A4%23) — 144.5万 · 热
+9. [铸牢共同体中华一家亲](https://s.weibo.com/weibo?q=%23%E9%93%B8%E7%89%A2%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%8D%8E%E4%B8%80%E5%AE%B6%E4%BA%B2%23) — 142.2万
+10. [低智商很明显输给高情商](https://s.weibo.com/weibo?q=%E4%BD%8E%E6%99%BA%E5%95%86%E5%BE%88%E6%98%8E%E6%98%BE%E8%BE%93%E7%BB%99%E9%AB%98%E6%83%85%E5%95%86) — 138.3万 · 新
 
 ### 抖音
 
@@ -37,7 +37,7 @@
 7. [攻击11全方位展示](https://www.douyin.com/search/%E6%94%BB%E5%87%BB11%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B1%95%E7%A4%BA) — 1208.9万
 8. [在互动中感受进博会多元魅力](https://www.douyin.com/search/%E5%9C%A8%E4%BA%92%E5%8A%A8%E4%B8%AD%E6%84%9F%E5%8F%97%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%9A%E5%85%83%E9%AD%85%E5%8A%9B) — 1201万
 9. [进博会超150家采购商进场选品](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%B6%85150%E5%AE%B6%E9%87%87%E8%B4%AD%E5%95%86%E8%BF%9B%E5%9C%BA%E9%80%89%E5%93%81) — 1197.6万
-10. [张可依青奥会100米栏夺冠](https://www.douyin.com/search/%E5%BC%A0%E5%8F%AF%E4%BE%9D%E9%9D%92%E5%A5%A5%E4%BC%9A100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0) — 1195.4万
+10. [交换一张你拍到的秋天吧](https://www.douyin.com/search/%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%BC%A0%E4%BD%A0%E6%8B%8D%E5%88%B0%E7%9A%84%E7%A7%8B%E5%A4%A9%E5%90%A7) — 1195.6万
 
 ### 小红书
 
