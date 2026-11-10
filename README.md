@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-10 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [小米四款车全部上榜](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E8%BD%A6%E5%85%A8%E9%83%A8%E4%B8%8A%E6%A6%9C) — 130.9万 · 新
 7. [石家庄陨石确认为普通球粒陨石](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%99%A8%E7%9F%B3%E7%A1%AE%E8%AE%A4%E4%B8%BA%E6%99%AE%E9%80%9A%E7%90%83%E7%B2%92%E9%99%A8%E7%9F%B3) — 118.8万 · 新
 8. [现代人对婚姻要求太高了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%AF%B9%E5%A9%9A%E5%A7%BB%E8%A6%81%E6%B1%82%E5%A4%AA%E9%AB%98%E4%BA%86) — 117.9万 · 新
-9. [王楚钦 国乒男队](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6+%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F) — 104.4万 · 新
-10. [W盛典最牛的裙子](https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E6%9C%80%E7%89%9B%E7%9A%84%E8%A3%99%E5%AD%90) — 90.4万 · 新
+9. [短信提醒被取消卡里26万没了](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E4%BF%A1%E6%8F%90%E9%86%92%E8%A2%AB%E5%8F%96%E6%B6%88%E5%8D%A1%E9%87%8C26%E4%B8%87%E6%B2%A1%E4%BA%86%23) — 115.5万 · 新
+10. [王楚钦 国乒男队](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6+%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F) — 104.4万 · 新
 
 ### 抖音
 
