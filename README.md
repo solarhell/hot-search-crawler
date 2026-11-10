@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 23:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-11 00:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [白小纯 王子璇](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E7%8E%8B%E5%AD%90%E7%92%87) — 994万 · 爆
-2. [高叶金鸡影后](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%23) — 840.5万 · 爆
-3. [金鸡奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95) — 259.8万 · 新
-4. [金鸡奖](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96) — 202.6万 · 新
-5. [学龄人口达峰 幼儿园小学初中资源优化](https://s.weibo.com/weibo?q=%E5%AD%A6%E9%BE%84%E4%BA%BA%E5%8F%A3%E8%BE%BE%E5%B3%B0+%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E8%B5%84%E6%BA%90%E4%BC%98%E5%8C%96) — 199.7万 · 新
-6. [进博会到APEC见证中国开放纵深](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23) — 192.3万 · 新
-7. [金鸡最佳导演 爆冷](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94+%E7%88%86%E5%86%B7) — 189.8万 · 新
-8. [戴假睫毛月嫂工资一天580元](https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%81%87%E7%9D%AB%E6%AF%9B%E6%9C%88%E5%AB%82%E5%B7%A5%E8%B5%84%E4%B8%80%E5%A4%A9580%E5%85%83%23) — 187.4万 · 新
-9. [男子肛门藏冰毒入境被抓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%82%9B%E9%97%A8%E8%97%8F%E5%86%B0%E6%AF%92%E5%85%A5%E5%A2%83%E8%A2%AB%E6%8A%93%23) — 184万 · 新
-10. [大型SUV第一名是小米澎程N90](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9E%8BSUV%E7%AC%AC%E4%B8%80%E5%90%8D%E6%98%AF%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90) — 180.2万
+1. [金鸡奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95) — 126.7万 · 热
+2. [拼多多送货上门新规11月13日生效](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E6%96%B0%E8%A7%8411%E6%9C%8813%E6%97%A5%E7%94%9F%E6%95%88%23) — 84.3万 · 新
+3. [进博会到APEC见证中国开放纵深](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23) — 76.6万
+4. [白小纯对着摄像头撒谎](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%E6%92%92%E8%B0%8E%23) — 76.5万 · 热
+5. [金鸡影帝影后 实至名归](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E+%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92) — 76.4万 · 热
+6. [花坛藏尸案凶手审讯画面首度公开](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%B6%E6%89%8B%E5%AE%A1%E8%AE%AF%E7%94%BB%E9%9D%A2%E9%A6%96%E5%BA%A6%E5%85%AC%E5%BC%80%23) — 76.3万 · 新
+7. [高叶愣了几秒哭了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E6%84%A3%E4%BA%86%E5%87%A0%E7%A7%92%E5%93%AD%E4%BA%86%23) — 76.2万 · 热
+8. [学龄人口达峰 幼儿园小学初中资源优化](https://s.weibo.com/weibo?q=%E5%AD%A6%E9%BE%84%E4%BA%BA%E5%8F%A3%E8%BE%BE%E5%B3%B0+%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%8F%E5%AD%A6%E5%88%9D%E4%B8%AD%E8%B5%84%E6%BA%90%E4%BC%98%E5%8C%96) — 76.1万
+9. [李泽楷公司卖出全球最贵人寿保单](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E6%A5%B7%E5%85%AC%E5%8F%B8%E5%8D%96%E5%87%BA%E5%85%A8%E7%90%83%E6%9C%80%E8%B4%B5%E4%BA%BA%E5%AF%BF%E4%BF%9D%E5%8D%95%23) — 75.9万 · 新
+10. [领克900L首发亮相](https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8B900L%E9%A6%96%E5%8F%91%E4%BA%AE%E7%9B%B8%23) — 75.9万
 
 ### 抖音
 
-1. [A股三大指数集体高开](https://www.douyin.com/search/A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80) — 1227.4万
-2. [交换一张你拍到的秋天吧](https://www.douyin.com/search/%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%BC%A0%E4%BD%A0%E6%8B%8D%E5%88%B0%E7%9A%84%E7%A7%8B%E5%A4%A9%E5%90%A7) — 1217.5万
-3. [梁家辉第39届金鸡奖最佳男主角](https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92) — 1214.6万
-4. [奇才不敌活塞 浓眉空砍44分](https://www.douyin.com/search/%E5%A5%87%E6%89%8D%E4%B8%8D%E6%95%8C%E6%B4%BB%E5%A1%9E%20%E6%B5%93%E7%9C%89%E7%A9%BA%E7%A0%8D44%E5%88%86) — 1213.4万
-5. [勇士51分大胜鹈鹕豪取8连胜](https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C) — 1211.9万
-6. [高叶获第39届金鸡奖最佳女主角](https://www.douyin.com/search/%E9%AB%98%E5%8F%B6%E8%8E%B7%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92) — 1211.4万
-7. [纳指大涨近3% 英伟达跌超4%](https://www.douyin.com/search/%E7%BA%B3%E6%8C%87%E5%A4%A7%E6%B6%A8%E8%BF%913%25%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%854%25) — 1210.3万
-8. [爱旅游的人已拿到双11大结果](https://www.douyin.com/search/%E7%88%B1%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E6%8B%BF%E5%88%B0%E5%8F%8C11%E5%A4%A7%E7%BB%93%E6%9E%9C) — 1210万
-9. [湖人124:114老鹰](https://www.douyin.com/search/%E6%B9%96%E4%BA%BA124:114%E8%80%81%E9%B9%B0) — 1208.9万
-10. [攻击11全方位展示](https://www.douyin.com/search/%E6%94%BB%E5%87%BB11%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B1%95%E7%A4%BA) — 1208.9万
+1. [高叶获第39届金鸡奖最佳女主角](https://www.douyin.com/search/%E9%AB%98%E5%8F%B6%E8%8E%B7%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92) — 1197.1万
+2. [梁家辉第39届金鸡奖最佳男主角](https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92) — 1188.1万
+3. [进博会见证中国产业链硬实力](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%A1%AC%E5%AE%9E%E5%8A%9B) — 1150.4万
+4. [交换一张你拍到的秋天吧](https://www.douyin.com/search/%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%BC%A0%E4%BD%A0%E6%8B%8D%E5%88%B0%E7%9A%84%E7%A7%8B%E5%A4%A9%E5%90%A7) — 1112.3万
+5. [中美两军移交驼峰航线飞行员遗骸](https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%86%9B%E7%A7%BB%E4%BA%A4%E9%A9%BC%E5%B3%B0%E8%88%AA%E7%BA%BF%E9%A3%9E%E8%A1%8C%E5%91%98%E9%81%97%E9%AA%B8) — 1043.8万
+6. [中国乒协公布混团世界杯名单](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95) — 1035.3万
+7. [纪录片树说中国](https://www.douyin.com/search/%E7%BA%AA%E5%BD%95%E7%89%87%E6%A0%91%E8%AF%B4%E4%B8%AD%E5%9B%BD) — 919.7万
+8. [超长长长长长长饺子吃了不烧心](https://www.douyin.com/search/%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90%E5%90%83%E4%BA%86%E4%B8%8D%E7%83%A7%E5%BF%83) — 844.5万
+9. [“株洲物流仓库大火”系谣言](https://www.douyin.com/search/%E2%80%9C%E6%A0%AA%E6%B4%B2%E7%89%A9%E6%B5%81%E4%BB%93%E5%BA%93%E5%A4%A7%E7%81%AB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80) — 826.6万
+10. [勇士51分大胜鹈鹕豪取8连胜](https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C) — 800.8万
 
 ### 小红书
 
@@ -52,7 +52,7 @@
 9. [原来古诗词里的河南真的存在](https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8) — 727.8万 · 热
 10. [蒸出了奶香爆米花馒头](https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4) — 716.2万 · 热
 
-[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-10.md)
+[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-11.md)
 <!-- END HOTSEARCH -->
 
 ## 特性
