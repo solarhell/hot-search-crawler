@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-10 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -22,22 +22,22 @@
 5. [铸牢共同体中华一家亲](https://s.weibo.com/weibo?q=%23%E9%93%B8%E7%89%A2%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%8D%8E%E4%B8%80%E5%AE%B6%E4%BA%B2%23) — 142.2万
 6. [小米四款车全部上榜](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E8%BD%A6%E5%85%A8%E9%83%A8%E4%B8%8A%E6%A6%9C) — 130.9万 · 新
 7. [石家庄陨石确认为普通球粒陨石](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%99%A8%E7%9F%B3%E7%A1%AE%E8%AE%A4%E4%B8%BA%E6%99%AE%E9%80%9A%E7%90%83%E7%B2%92%E9%99%A8%E7%9F%B3) — 118.8万 · 新
-8. [王楚钦 国乒男队](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6+%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F) — 104.4万 · 新
-9. [花坛藏尸案死者儿子的心停留在10岁](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E6%AD%BB%E8%80%85%E5%84%BF%E5%AD%90%E7%9A%84%E5%BF%83%E5%81%9C%E7%95%99%E5%9C%A810%E5%B2%81%23) — 89.6万 · 新
-10. [W盛典最牛的裙子](https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E6%9C%80%E7%89%9B%E7%9A%84%E8%A3%99%E5%AD%90) — 88.5万 · 新
+8. [现代人对婚姻要求太高了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%AF%B9%E5%A9%9A%E5%A7%BB%E8%A6%81%E6%B1%82%E5%A4%AA%E9%AB%98%E4%BA%86) — 117.9万 · 新
+9. [王楚钦 国乒男队](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6+%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F) — 104.4万 · 新
+10. [W盛典最牛的裙子](https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E6%9C%80%E7%89%9B%E7%9A%84%E8%A3%99%E5%AD%90) — 90.4万 · 新
 
 ### 抖音
 
 1. [A股三大指数集体高开](https://www.douyin.com/search/A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80) — 1227.4万
 2. [奇才不敌活塞 浓眉空砍44分](https://www.douyin.com/search/%E5%A5%87%E6%89%8D%E4%B8%8D%E6%95%8C%E6%B4%BB%E5%A1%9E%20%E6%B5%93%E7%9C%89%E7%A9%BA%E7%A0%8D44%E5%88%86) — 1213.4万
-3. [纳指大涨近3% 英伟达跌超4%](https://www.douyin.com/search/%E7%BA%B3%E6%8C%87%E5%A4%A7%E6%B6%A8%E8%BF%913%25%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%854%25) — 1210.3万
-4. [爱旅游的人已拿到双11大结果](https://www.douyin.com/search/%E7%88%B1%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E6%8B%BF%E5%88%B0%E5%8F%8C11%E5%A4%A7%E7%BB%93%E6%9E%9C) — 1210万
-5. [湖人124:114老鹰](https://www.douyin.com/search/%E6%B9%96%E4%BA%BA124:114%E8%80%81%E9%B9%B0) — 1208.9万
-6. [攻击11全方位展示](https://www.douyin.com/search/%E6%94%BB%E5%87%BB11%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B1%95%E7%A4%BA) — 1208.9万
-7. [在互动中感受进博会多元魅力](https://www.douyin.com/search/%E5%9C%A8%E4%BA%92%E5%8A%A8%E4%B8%AD%E6%84%9F%E5%8F%97%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%9A%E5%85%83%E9%AD%85%E5%8A%9B) — 1201万
-8. [进博会超150家采购商进场选品](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%B6%85150%E5%AE%B6%E9%87%87%E8%B4%AD%E5%95%86%E8%BF%9B%E5%9C%BA%E9%80%89%E5%93%81) — 1197.6万
-9. [张可依青奥会100米栏夺冠](https://www.douyin.com/search/%E5%BC%A0%E5%8F%AF%E4%BE%9D%E9%9D%92%E5%A5%A5%E4%BC%9A100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0) — 1195.4万
-10. [全网老吃家带着绝活开锅了](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%80%81%E5%90%83%E5%AE%B6%E5%B8%A6%E7%9D%80%E7%BB%9D%E6%B4%BB%E5%BC%80%E9%94%85%E4%BA%86) — 1187.1万
+3. [勇士51分大胜鹈鹕豪取8连胜](https://www.douyin.com/search/%E5%8B%87%E5%A3%AB51%E5%88%86%E5%A4%A7%E8%83%9C%E9%B9%88%E9%B9%95%E8%B1%AA%E5%8F%968%E8%BF%9E%E8%83%9C) — 1211.9万
+4. [纳指大涨近3% 英伟达跌超4%](https://www.douyin.com/search/%E7%BA%B3%E6%8C%87%E5%A4%A7%E6%B6%A8%E8%BF%913%25%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%854%25) — 1210.3万
+5. [爱旅游的人已拿到双11大结果](https://www.douyin.com/search/%E7%88%B1%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E6%8B%BF%E5%88%B0%E5%8F%8C11%E5%A4%A7%E7%BB%93%E6%9E%9C) — 1210万
+6. [湖人124:114老鹰](https://www.douyin.com/search/%E6%B9%96%E4%BA%BA124:114%E8%80%81%E9%B9%B0) — 1208.9万
+7. [攻击11全方位展示](https://www.douyin.com/search/%E6%94%BB%E5%87%BB11%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B1%95%E7%A4%BA) — 1208.9万
+8. [在互动中感受进博会多元魅力](https://www.douyin.com/search/%E5%9C%A8%E4%BA%92%E5%8A%A8%E4%B8%AD%E6%84%9F%E5%8F%97%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A4%9A%E5%85%83%E9%AD%85%E5%8A%9B) — 1201万
+9. [进博会超150家采购商进场选品](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%B6%85150%E5%AE%B6%E9%87%87%E8%B4%AD%E5%95%86%E8%BF%9B%E5%9C%BA%E9%80%89%E5%93%81) — 1197.6万
+10. [张可依青奥会100米栏夺冠](https://www.douyin.com/search/%E5%BC%A0%E5%8F%AF%E4%BE%9D%E9%9D%92%E5%A5%A5%E4%BC%9A100%E7%B1%B3%E6%A0%8F%E5%A4%BA%E5%86%A0) — 1195.4万
 
 ### 小红书
 
