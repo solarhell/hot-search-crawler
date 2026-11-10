@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-10 16:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-10 17:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -22,7 +22,7 @@
 5. [石家庄天降陨石最大单体35公斤](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A9%E9%99%8D%E9%99%A8%E7%9F%B3%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%9335%E5%85%AC%E6%96%A4%23) — 144.5万 · 热
 6. [铸牢共同体中华一家亲](https://s.weibo.com/weibo?q=%23%E9%93%B8%E7%89%A2%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%8D%8E%E4%B8%80%E5%AE%B6%E4%BA%B2%23) — 142.2万
 7. [小米四款车全部上榜](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E8%BD%A6%E5%85%A8%E9%83%A8%E4%B8%8A%E6%A6%9C) — 130.9万 · 新
-8. [女子月薪2万被裁才知社保基数按4000算](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%88%E8%96%AA2%E4%B8%87%E8%A2%AB%E8%A3%81%E6%89%8D%E7%9F%A5%E7%A4%BE%E4%BF%9D%E5%9F%BA%E6%95%B0%E6%8C%894000%E7%AE%97%23) — 124万 · 新
+8. [女子月薪2万被裁才知社保基数按4000算](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%88%E8%96%AA2%E4%B8%87%E8%A2%AB%E8%A3%81%E6%89%8D%E7%9F%A5%E7%A4%BE%E4%BF%9D%E5%9F%BA%E6%95%B0%E6%8C%894000%E7%AE%97%23) — 129.8万 · 新
 9. [石家庄陨石确认为普通球粒陨石](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%99%A8%E7%9F%B3%E7%A1%AE%E8%AE%A4%E4%B8%BA%E6%99%AE%E9%80%9A%E7%90%83%E7%B2%92%E9%99%A8%E7%9F%B3) — 118.8万 · 新
 10. [现代人对婚姻要求太高了](https://s.weibo.com/weibo?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%AF%B9%E5%A9%9A%E5%A7%BB%E8%A6%81%E6%B1%82%E5%A4%AA%E9%AB%98%E4%BA%86) — 117.9万 · 新
 
