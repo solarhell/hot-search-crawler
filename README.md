@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-11 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-11 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
