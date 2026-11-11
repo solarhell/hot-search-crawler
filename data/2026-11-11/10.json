@@ -1,0 +1,420 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-11T10:24:16.555773409+08:00",
+  "timezone": "Asia/Shanghai",
+  "boards": [
+    {
+      "platform": "weibo",
+      "name": "微博",
+      "ok": true,
+      "fetched_at": "2026-11-11T10:24:17.408590161+08:00",
+      "elapsed_ms": 852,
+      "items": [
+        {
+          "rank": 1,
+          "title": "5个上门维修师傅2个说了实话",
+          "url": "https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D%23",
+          "hot": 1106797
+        },
+        {
+          "rank": 2,
+          "title": "青稚 白小纯",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF",
+          "hot": 818002,
+          "tag": "综艺"
+        },
+        {
+          "rank": 3,
+          "title": "让优质教育更可及让上学选择更多元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%BC%98%E8%B4%A8%E6%95%99%E8%82%B2%E6%9B%B4%E5%8F%AF%E5%8F%8A%E8%AE%A9%E4%B8%8A%E5%AD%A6%E9%80%89%E6%8B%A9%E6%9B%B4%E5%A4%9A%E5%85%83%23",
+          "hot": 640415,
+          "tag": "新"
+        },
+        {
+          "rank": 4,
+          "title": "央视曝光取消外卖短视频系摆拍",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8F%96%E6%B6%88%E5%A4%96%E5%8D%96%E7%9F%AD%E8%A7%86%E9%A2%91%E7%B3%BB%E6%91%86%E6%8B%8D%23",
+          "hot": 488661,
+          "tag": "新"
+        },
+        {
+          "rank": 5,
+          "title": "塔图姆打招呼布朗没回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%9B%BE%E5%A7%86%E6%89%93%E6%8B%9B%E5%91%BC%E5%B8%83%E6%9C%97%E6%B2%A1%E5%9B%9E%E5%BA%94%23",
+          "hot": 488519,
+          "tag": "新"
+        },
+        {
+          "rank": 6,
+          "title": "Ming 青稚",
+          "url": "https://s.weibo.com/weibo?q=Ming+%E9%9D%92%E7%A8%9A",
+          "hot": 486862,
+          "tag": "新"
+        },
+        {
+          "rank": 7,
+          "title": "男子与情人开房猝死错过抢救黄金时间",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E6%83%85%E4%BA%BA%E5%BC%80%E6%88%BF%E7%8C%9D%E6%AD%BB%E9%94%99%E8%BF%87%E6%8A%A2%E6%95%91%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4%23",
+          "hot": 485565,
+          "tag": "新"
+        },
+        {
+          "rank": 8,
+          "title": "扬州地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87",
+          "hot": 484965
+        },
+        {
+          "rank": 9,
+          "title": "金鸡奖获奖名单",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95",
+          "hot": 483717,
+          "tag": "电影"
+        },
+        {
+          "rank": 10,
+          "title": "金鸡最佳导演 爆冷",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94+%E7%88%86%E5%86%B7",
+          "hot": 482828,
+          "tag": "电影"
+        },
+        {
+          "rank": 11,
+          "title": "羊城晚报评王楚钦反思长文",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8A%E5%9F%8E%E6%99%9A%E6%8A%A5%E8%AF%84%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%8D%E6%80%9D%E9%95%BF%E6%96%87",
+          "hot": 481094,
+          "tag": "热"
+        },
+        {
+          "rank": 12,
+          "title": "黄景瑜只有和王雨馨那段婚姻",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%8F%AA%E6%9C%89%E5%92%8C%E7%8E%8B%E9%9B%A8%E9%A6%A8%E9%82%A3%E6%AE%B5%E5%A9%9A%E5%A7%BB%23",
+          "hot": 480016,
+          "tag": "新"
+        },
+        {
+          "rank": 13,
+          "title": "高叶获奖钟楚曦哭成泪人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E8%8E%B7%E5%A5%96%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23",
+          "hot": 478683,
+          "tag": "新"
+        },
+        {
+          "rank": 14,
+          "title": "许飞 厉娜",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%8E%89%E5%A8%9C",
+          "hot": 477588,
+          "tag": "热"
+        },
+        {
+          "rank": 15,
+          "title": "晋妈希望李勒优留面馆",
+          "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E5%A6%88%E5%B8%8C%E6%9C%9B%E6%9D%8E%E5%8B%92%E4%BC%98%E7%95%99%E9%9D%A2%E9%A6%86",
+          "hot": 477260,
+          "tag": "新"
+        },
+        {
+          "rank": 16,
+          "title": "RTX5080暴跌4000元",
+          "url": "https://s.weibo.com/weibo?q=%23RTX5080%E6%9A%B4%E8%B7%8C4000%E5%85%83%23",
+          "hot": 425060
+        },
+        {
+          "rank": 17,
+          "title": "PEL选手直播阴阳同事",
+          "url": "https://s.weibo.com/weibo?q=%23PEL%E9%80%89%E6%89%8B%E7%9B%B4%E6%92%AD%E9%98%B4%E9%98%B3%E5%90%8C%E4%BA%8B%23",
+          "hot": 388608,
+          "tag": "新"
+        },
+        {
+          "rank": 18,
+          "title": "梁家辉拒绝工作人员帮拿金鸡奖杯",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%B6%E8%BE%89%E6%8B%92%E7%BB%9D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B8%AE%E6%8B%BF%E9%87%91%E9%B8%A1%E5%A5%96%E6%9D%AF%23",
+          "hot": 255663,
+          "tag": "电影"
+        },
+        {
+          "rank": 19,
+          "title": "白小纯对着摄像头撒谎",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%E6%92%92%E8%B0%8E%23",
+          "hot": 214608,
+          "tag": "综艺"
+        },
+        {
+          "rank": 20,
+          "title": "拉宏徒步 小尼父母家真实到没剧本",
+          "url": "https://s.weibo.com/weibo?q=%E6%8B%89%E5%AE%8F%E5%BE%92%E6%AD%A5+%E5%B0%8F%E5%B0%BC%E7%88%B6%E6%AF%8D%E5%AE%B6%E7%9C%9F%E5%AE%9E%E5%88%B0%E6%B2%A1%E5%89%A7%E6%9C%AC",
+          "hot": 207765
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "name": "抖音",
+      "ok": true,
+      "fetched_at": "2026-11-11T10:24:19.105708643+08:00",
+      "elapsed_ms": 2549,
+      "items": [
+        {
+          "rank": 1,
+          "title": "凯尔特人vs 76人",
+          "url": "https://www.douyin.com/search/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs%2076%E4%BA%BA",
+          "hot": 11852235,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794362610,
+            "label": 1,
+            "sentence_id": "2740264",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 2,
+          "title": "大理初雪把风花雪月具象化了",
+          "url": "https://www.douyin.com/search/%E5%A4%A7%E7%90%86%E5%88%9D%E9%9B%AA%E6%8A%8A%E9%A3%8E%E8%8A%B1%E9%9B%AA%E6%9C%88%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+          "hot": 11722715,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794294758,
+            "label": 3,
+            "sentence_id": "2739108",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 3,
+          "title": "共建一带一路推动建设开放型经济",
+          "url": "https://www.douyin.com/search/%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E6%8E%A8%E5%8A%A8%E5%BB%BA%E8%AE%BE%E5%BC%80%E6%94%BE%E5%9E%8B%E7%BB%8F%E6%B5%8E",
+          "hot": 11425391,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794363297,
+            "label": 1,
+            "sentence_id": "2740309",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 4,
+          "title": "扬州江都发生3.9级地震",
+          "url": "https://www.douyin.com/search/%E6%89%AC%E5%B7%9E%E6%B1%9F%E9%83%BD%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "hot": 11366054,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794352199,
+            "sentence_id": "2740108",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 5,
+          "title": "人民空军成立77周年",
+          "url": "https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E6%88%90%E7%AB%8B77%E5%91%A8%E5%B9%B4",
+          "hot": 10554313,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794354685,
+            "sentence_id": "2740135",
+            "video_count": 13
+          }
+        },
+        {
+          "rank": 6,
+          "title": "在北京定格专属我们的浪漫瞬间",
+          "url": "https://www.douyin.com/search/%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%AE%9A%E6%A0%BC%E4%B8%93%E5%B1%9E%E6%88%91%E4%BB%AC%E7%9A%84%E6%B5%AA%E6%BC%AB%E7%9E%AC%E9%97%B4",
+          "hot": 10501602,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794290300,
+            "sentence_id": "2738920",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 7,
+          "title": "交换一张你拍到的秋天吧",
+          "url": "https://www.douyin.com/search/%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%BC%A0%E4%BD%A0%E6%8B%8D%E5%88%B0%E7%9A%84%E7%A7%8B%E5%A4%A9%E5%90%A7",
+          "hot": 9270339,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794271899,
+            "sentence_id": "2738348",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 8,
+          "title": "罗大佑怒批赖清德",
+          "url": "https://www.douyin.com/search/%E7%BD%97%E5%A4%A7%E4%BD%91%E6%80%92%E6%89%B9%E8%B5%96%E6%B8%85%E5%BE%B7",
+          "hot": 9224252,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794321582,
+            "sentence_id": "2740053",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 9,
+          "title": "中美两军移交驼峰航线飞行员遗骸",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%86%9B%E7%A7%BB%E4%BA%A4%E9%A9%BC%E5%B3%B0%E8%88%AA%E7%BA%BF%E9%A3%9E%E8%A1%8C%E5%91%98%E9%81%97%E9%AA%B8",
+          "hot": 9207843,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794278037,
+            "sentence_id": "2738516",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 10,
+          "title": "孙中山后人谈两岸统一",
+          "url": "https://www.douyin.com/search/%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%90%8E%E4%BA%BA%E8%B0%88%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80",
+          "hot": 9168768,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794304428,
+            "sentence_id": "2739548",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 11,
+          "title": "“株洲物流仓库大火”系谣言",
+          "url": "https://www.douyin.com/search/%E2%80%9C%E6%A0%AA%E6%B4%B2%E7%89%A9%E6%B5%81%E4%BB%93%E5%BA%93%E5%A4%A7%E7%81%AB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "hot": 9012071,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794313449,
+            "label": 16,
+            "sentence_id": "2739820",
+            "video_count": 2
+          }
+        },
+        {
+          "rank": 12,
+          "title": "凭实力刷到造山女团第一视角",
+          "url": "https://www.douyin.com/search/%E5%87%AD%E5%AE%9E%E5%8A%9B%E5%88%B7%E5%88%B0%E9%80%A0%E5%B1%B1%E5%A5%B3%E5%9B%A2%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92",
+          "hot": 8553136,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794315231,
+            "sentence_id": "2739871",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 13,
+          "title": "当一次MV女主角",
+          "url": "https://www.douyin.com/search/%E5%BD%93%E4%B8%80%E6%AC%A1MV%E5%A5%B3%E4%B8%BB%E8%A7%92",
+          "hot": 8013202,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794289003,
+            "label": 9,
+            "sentence_id": "2738885",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 14,
+          "title": "你又在和别人聊天吗",
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E5%8F%88%E5%9C%A8%E5%92%8C%E5%88%AB%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%90%97",
+          "hot": 7984072,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794303086,
+            "label": 9,
+            "sentence_id": "2739482",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 15,
+          "title": "梁家辉第39届金鸡奖最佳男主角",
+          "url": "https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92",
+          "hot": 7840627,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794318050,
+            "sentence_id": "2739959",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 16,
+          "title": "兰西雅获金鸡奖最佳女配角",
+          "url": "https://www.douyin.com/search/%E5%85%B0%E8%A5%BF%E9%9B%85%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92",
+          "hot": 7800297,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794310986,
+            "label": 3,
+            "sentence_id": "2739751",
+            "video_count": 15
+          }
+        },
+        {
+          "rank": 17,
+          "title": "高叶获第39届金鸡奖最佳女主角",
+          "url": "https://www.douyin.com/search/%E9%AB%98%E5%8F%B6%E8%8E%B7%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92",
+          "hot": 7796334,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794316941,
+            "sentence_id": "2739928",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 18,
+          "title": "慌啥子嘛慢慢来",
+          "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%85%A2%E6%85%A2%E6%9D%A5",
+          "hot": 7757570,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794299497,
+            "label": 9,
+            "sentence_id": "2739304",
+            "video_count": 10
+          }
+        },
+        {
+          "rank": 19,
+          "title": "你怎么能这么说我呢",
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%83%BD%E8%BF%99%E4%B9%88%E8%AF%B4%E6%88%91%E5%91%A2",
+          "hot": 7751331,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794291310,
+            "label": 9,
+            "sentence_id": "2738966",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 20,
+          "title": "跟白鹿一起变身毛茸茸",
+          "url": "https://www.douyin.com/search/%E8%B7%9F%E7%99%BD%E9%B9%BF%E4%B8%80%E8%B5%B7%E5%8F%98%E8%BA%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8",
+          "hot": 7750832,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1794318090,
+            "label": 3,
+            "sentence_id": "2739961",
+            "video_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "name": "小红书",
+      "ok": false,
+      "fetched_at": "2026-11-11T10:24:17.133999618+08:00",
+      "elapsed_ms": 578,
+      "error": "小红书热搜被限流: code=300013, msg=检测到异常访问，为保障账号安全本次访问已被限制，如有问题可提交反馈，我们会尽快解决",
+      "items": []
+    }
+  ]
+}

@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-11 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-11 10:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [羊城晚报评王楚钦反思长文](https://s.weibo.com/weibo?q=%E7%BE%8A%E5%9F%8E%E6%99%9A%E6%8A%A5%E8%AF%84%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%8D%E6%80%9D%E9%95%BF%E6%96%87) — 321.2万 · 新
 2. [男子与第三者发生关系后猝死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%90%8E%E7%8C%9D%E6%AD%BB%23) — 162.8万 · 新
 3. [金鸡奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95) — 126.7万 · 热
-4. [京彩拍档CityPair](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%BD%A9%E6%8B%8D%E6%A1%A3CityPair%23) — 94.7万 · 新
-5. [拼多多送货上门新规11月13日生效](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E6%96%B0%E8%A7%8411%E6%9C%8813%E6%97%A5%E7%94%9F%E6%95%88%23) — 84.3万 · 新
-6. [5个上门维修师傅2个说了实话](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D%23) — 79万 · 新
-7. [进博会到APEC见证中国开放纵深](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23) — 76.6万
-8. [白小纯对着摄像头撒谎](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%E6%92%92%E8%B0%8E%23) — 76.5万 · 热
-9. [金鸡影帝影后 实至名归](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E+%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92) — 76.4万 · 热
-10. [花坛藏尸案凶手审讯画面首度公开](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%B6%E6%89%8B%E5%AE%A1%E8%AE%AF%E7%94%BB%E9%9D%A2%E9%A6%96%E5%BA%A6%E5%85%AC%E5%BC%80%23) — 76.3万 · 新
+4. [5个上门维修师傅2个说了实话](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D%23) — 110.7万 · 新
+5. [京彩拍档CityPair](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%BD%A9%E6%8B%8D%E6%A1%A3CityPair%23) — 94.7万 · 新
+6. [拼多多送货上门新规11月13日生效](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E6%96%B0%E8%A7%8411%E6%9C%8813%E6%97%A5%E7%94%9F%E6%95%88%23) — 84.3万 · 新
+7. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 81.8万 · 新
+8. [进博会到APEC见证中国开放纵深](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23) — 76.6万
+9. [白小纯对着摄像头撒谎](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%E6%92%92%E8%B0%8E%23) — 76.5万 · 热
+10. [金鸡影帝影后 实至名归](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E+%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92) — 76.4万 · 热
 
 ### 抖音
 
@@ -34,10 +34,10 @@
 4. [中美两军移交驼峰航线飞行员遗骸](https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%86%9B%E7%A7%BB%E4%BA%A4%E9%A9%BC%E5%B3%B0%E8%88%AA%E7%BA%BF%E9%A3%9E%E8%A1%8C%E5%91%98%E9%81%97%E9%AA%B8) — 1210.4万
 5. [高叶获第39届金鸡奖最佳女主角](https://www.douyin.com/search/%E9%AB%98%E5%8F%B6%E8%8E%B7%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92) — 1197.1万
 6. [梁家辉第39届金鸡奖最佳男主角](https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92) — 1188.1万
-7. [进博会见证中国产业链硬实力](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%A1%AC%E5%AE%9E%E5%8A%9B) — 1168.4万
-8. [扬州江都发生3.9级地震](https://www.douyin.com/search/%E6%89%AC%E5%B7%9E%E6%B1%9F%E9%83%BD%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1143.2万
-9. [中国乒协公布混团世界杯名单](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%85%AC%E5%B8%83%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95) — 1140.6万
-10. [人民空军成立77周年](https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E6%88%90%E7%AB%8B77%E5%91%A8%E5%B9%B4) — 1076.3万
+7. [凯尔特人vs 76人](https://www.douyin.com/search/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs%2076%E4%BA%BA) — 1185.2万
+8. [进博会见证中国产业链硬实力](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%A1%AC%E5%AE%9E%E5%8A%9B) — 1168.4万
+9. [扬州江都发生3.9级地震](https://www.douyin.com/search/%E6%89%AC%E5%B7%9E%E6%B1%9F%E9%83%BD%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87) — 1143.2万
+10. [共建一带一路推动建设开放型经济](https://www.douyin.com/search/%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E6%8E%A8%E5%8A%A8%E5%BB%BA%E8%AE%BE%E5%BC%80%E6%94%BE%E5%9E%8B%E7%BB%8F%E6%B5%8E) — 1142.5万
 
 ### 小红书
 
