@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-11 15:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-11 16:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -36,8 +36,8 @@
 6. [高叶获第39届金鸡奖最佳女主角](https://www.douyin.com/search/%E9%AB%98%E5%8F%B6%E8%8E%B7%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92) — 1197.1万
 7. [梁家辉第39届金鸡奖最佳男主角](https://www.douyin.com/search/%E6%A2%81%E5%AE%B6%E8%BE%89%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92) — 1188.1万
 8. [凯尔特人vs 76人](https://www.douyin.com/search/%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BAvs%2076%E4%BA%BA) — 1185.2万
-9. [进博会见证中国产业链硬实力](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%A1%AC%E5%AE%9E%E5%8A%9B) — 1168.4万
-10. [共建一带一路推动建设开放型经济](https://www.douyin.com/search/%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E6%8E%A8%E5%8A%A8%E5%BB%BA%E8%AE%BE%E5%BC%80%E6%94%BE%E5%9E%8B%E7%BB%8F%E6%B5%8E) — 1150.2万
+9. [开拓者123:103雷霆](https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85123:103%E9%9B%B7%E9%9C%86) — 1173.1万
+10. [进博会见证中国产业链硬实力](https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%A1%AC%E5%AE%9E%E5%8A%9B) — 1168.4万
 
 ### 小红书
 
