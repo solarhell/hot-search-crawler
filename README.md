@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-11 10:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-11 11:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [羊城晚报评王楚钦反思长文](https://s.weibo.com/weibo?q=%E7%BE%8A%E5%9F%8E%E6%99%9A%E6%8A%A5%E8%AF%84%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%8D%E6%80%9D%E9%95%BF%E6%96%87) — 321.2万 · 新
 2. [男子与第三者发生关系后猝死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%90%8E%E7%8C%9D%E6%AD%BB%23) — 162.8万 · 新
-3. [金鸡奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95) — 126.7万 · 热
-4. [5个上门维修师傅2个说了实话](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D%23) — 110.7万 · 新
-5. [京彩拍档CityPair](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%BD%A9%E6%8B%8D%E6%A1%A3CityPair%23) — 94.7万 · 新
-6. [拼多多送货上门新规11月13日生效](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E6%96%B0%E8%A7%8411%E6%9C%8813%E6%97%A5%E7%94%9F%E6%95%88%23) — 84.3万 · 新
-7. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 81.8万 · 新
-8. [进博会到APEC见证中国开放纵深](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23) — 76.6万
-9. [白小纯对着摄像头撒谎](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E7%9D%80%E6%91%84%E5%83%8F%E5%A4%B4%E6%92%92%E8%B0%8E%23) — 76.5万 · 热
-10. [金鸡影帝影后 实至名归](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E+%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92) — 76.4万 · 热
+3. [张雪冠军车拍卖款不再捐给韩红基金会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%86%A0%E5%86%9B%E8%BD%A6%E6%8B%8D%E5%8D%96%E6%AC%BE%E4%B8%8D%E5%86%8D%E6%8D%90%E7%BB%99%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%23) — 138.5万 · 新
+4. [金鸡奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95) — 126.7万 · 热
+5. [王楚钦反思长文被指双标对待](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%8D%E6%80%9D%E9%95%BF%E6%96%87%E8%A2%AB%E6%8C%87%E5%8F%8C%E6%A0%87%E5%AF%B9%E5%BE%85) — 121.4万 · 新
+6. [5个上门维修师傅2个说了实话](https://s.weibo.com/weibo?q=%235%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D%23) — 110.7万 · 新
+7. [京彩拍档CityPair](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%BD%A9%E6%8B%8D%E6%A1%A3CityPair%23) — 94.7万 · 新
+8. [拼多多送货上门新规11月13日生效](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8%E6%96%B0%E8%A7%8411%E6%9C%8813%E6%97%A5%E7%94%9F%E6%95%88%23) — 84.3万 · 新
+9. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E7%99%BD%E5%B0%8F%E7%BA%AF) — 81.8万 · 新
+10. [进博会到APEC见证中国开放纵深](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%88%B0APEC%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%BA%B5%E6%B7%B1%23) — 76.6万
 
 ### 抖音
 
