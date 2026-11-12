@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-12 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-12 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 148.3万 · 新
 2. [山姆399元充绒量300克羽绒服断货](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86399%E5%85%83%E5%85%85%E7%BB%92%E9%87%8F300%E5%85%8B%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%96%AD%E8%B4%A7%23) — 115.8万 · 新
-3. [正午阳光番位争议为何越吵越烈](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE%E4%B8%BA%E4%BD%95%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%83%88%23) — 108.7万 · 新
-4. [正午阳光这是什么意思](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23) — 105.7万 · 热
-5. [女孩没带课本被老师打到抽搐倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E5%B8%A6%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%80%92%E5%9C%B0%23) — 94.1万 · 新
-6. [冰尘退役](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9%23) — 90.1万 · 新
-7. [奔驰CEO称在中国车要大得惊人](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%A6%81%E5%A4%A7%E5%BE%97%E6%83%8A%E4%BA%BA%23) — 82.6万
-8. [被老师打到抽搐女孩父母常年在外务工](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%B8%B8%E5%B9%B4%E5%9C%A8%E5%A4%96%E5%8A%A1%E5%B7%A5%23) — 82.5万 · 新
-9. [油价](https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7) — 80万 · 新
-10. [中国外贸跑出好成绩](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E8%B7%91%E5%87%BA%E5%A5%BD%E6%88%90%E7%BB%A9%23) — 72.6万
+3. [腾讯辟谣裁员50%](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%BE%9F%E8%B0%A3%E8%A3%81%E5%91%9850%25%23) — 111.8万 · 新
+4. [青稚给文吉儿表白 笑不出来](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD+%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5) — 109.8万 · 新
+5. [正午阳光番位争议为何越吵越烈](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE%E4%B8%BA%E4%BD%95%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%83%88%23) — 108.7万 · 新
+6. [正午阳光这是什么意思](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23) — 105.7万 · 热
+7. [女孩没带课本被老师打到抽搐倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E5%B8%A6%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%80%92%E5%9C%B0%23) — 94.1万 · 新
+8. [天涯共此诗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23) — 93.5万 · 新
+9. [冰尘退役](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9%23) — 90.1万 · 新
+10. [奔驰CEO称在中国车要大得惊人](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%A6%81%E5%A4%A7%E5%BE%97%E6%83%8A%E4%BA%BA%23) — 82.6万
 
 ### 抖音
 
