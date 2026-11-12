@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-12 18:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-12 19:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -31,7 +31,7 @@
 1. [俄方公布俄美乌三方会谈成果](https://www.douyin.com/search/%E4%BF%84%E6%96%B9%E5%85%AC%E5%B8%83%E4%BF%84%E7%BE%8E%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E6%88%90%E6%9E%9C) — 1209.1万
 2. [长虹电器原董事长倪润峰去世](https://www.douyin.com/search/%E9%95%BF%E8%99%B9%E7%94%B5%E5%99%A8%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%80%AA%E6%B6%A6%E5%B3%B0%E5%8E%BB%E4%B8%96) — 1190.1万
 3. [新一轮俄美乌三方会谈](https://www.douyin.com/search/%E6%96%B0%E4%B8%80%E8%BD%AE%E4%BF%84%E7%BE%8E%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88) — 1167万
-4. [11月12日24时油价下调](https://www.douyin.com/search/11%E6%9C%8812%E6%97%A524%E6%97%B6%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83) — 1160.9万
+4. [11月12日24时油价下调](https://www.douyin.com/search/11%E6%9C%8812%E6%97%A524%E6%97%B6%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83) — 1161.7万
 5. [中国外贸的APEC底色](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E7%9A%84APEC%E5%BA%95%E8%89%B2) — 1155万
 6. [天凉热乎美食登场](https://www.douyin.com/search/%E5%A4%A9%E5%87%89%E7%83%AD%E4%B9%8E%E7%BE%8E%E9%A3%9F%E7%99%BB%E5%9C%BA) — 1149.7万
 7. [纪念孙中山先生诞辰160周年](https://www.douyin.com/search/%E7%BA%AA%E5%BF%B5%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AF%9E%E8%BE%B0160%E5%91%A8%E5%B9%B4) — 1144.7万
