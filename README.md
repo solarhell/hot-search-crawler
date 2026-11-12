@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-12 22:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-12 23:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -21,14 +21,14 @@
 4. [传承中山精神的时代价值](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E6%89%BF%E4%B8%AD%E5%B1%B1%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%97%B6%E4%BB%A3%E4%BB%B7%E5%80%BC%23) — 174.4万 · 新
 5. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 148.3万 · 新
 6. [德芙广告宣扬错误婚恋观被罚80万元](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82%E8%A2%AB%E7%BD%9A80%E4%B8%87%E5%85%83%23) — 136.3万 · 新
-7. [天涯共此诗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23) — 129万 · 新
-8. [许飞厉娜又封神了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%8F%88%E5%B0%81%E7%A5%9E%E4%BA%86%23) — 126万 · 新
-9. [马化腾 危机感](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8C%96%E8%85%BE+%E5%8D%B1%E6%9C%BA%E6%84%9F) — 123.1万 · 新
+7. [马化腾 危机感](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8C%96%E8%85%BE+%E5%8D%B1%E6%9C%BA%E6%84%9F) — 130万 · 新
+8. [天涯共此诗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23) — 129万 · 新
+9. [许飞厉娜又封神了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%8F%88%E5%B0%81%E7%A5%9E%E4%BA%86%23) — 126万 · 新
 10. [山姆399元充绒量300克羽绒服断货](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86399%E5%85%83%E5%85%85%E7%BB%92%E9%87%8F300%E5%85%8B%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%96%AD%E8%B4%A7%23) — 115.8万 · 新
 
 ### 抖音
 
-1. [11月12日24时油价下调](https://www.douyin.com/search/11%E6%9C%8812%E6%97%A524%E6%97%B6%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83) — 1212.7万
+1. [11月12日24时油价下调](https://www.douyin.com/search/11%E6%9C%8812%E6%97%A524%E6%97%B6%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83) — 1248.3万
 2. [俄方公布俄美乌三方会谈成果](https://www.douyin.com/search/%E4%BF%84%E6%96%B9%E5%85%AC%E5%B8%83%E4%BF%84%E7%BE%8E%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E6%88%90%E6%9E%9C) — 1209.1万
 3. [烟火美食夯吃挑战开赛了](https://www.douyin.com/search/%E7%83%9F%E7%81%AB%E7%BE%8E%E9%A3%9F%E5%A4%AF%E5%90%83%E6%8C%91%E6%88%98%E5%BC%80%E8%B5%9B%E4%BA%86) — 1192.4万
 4. [长虹电器原董事长倪润峰去世](https://www.douyin.com/search/%E9%95%BF%E8%99%B9%E7%94%B5%E5%99%A8%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%80%AA%E6%B6%A6%E5%B3%B0%E5%8E%BB%E4%B8%96) — 1190.1万
