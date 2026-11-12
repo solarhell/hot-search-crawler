@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-12 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-12 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -22,9 +22,9 @@
 5. [女孩没带课本被老师打到抽搐倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E5%B8%A6%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%80%92%E5%9C%B0%23) — 94.1万 · 新
 6. [冰尘退役](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9%23) — 90.1万 · 新
 7. [奔驰CEO称在中国车要大得惊人](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%A6%81%E5%A4%A7%E5%BE%97%E6%83%8A%E4%BA%BA%23) — 82.6万
-8. [油价](https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7) — 80万 · 新
-9. [中国外贸跑出好成绩](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E8%B7%91%E5%87%BA%E5%A5%BD%E6%88%90%E7%BB%A9%23) — 71.4万
-10. [许飞 我们娜娜子](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BB%AC%E5%A8%9C%E5%A8%9C%E5%AD%90) — 70.4万 · 新
+8. [被老师打到抽搐女孩父母常年在外务工](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%B8%B8%E5%B9%B4%E5%9C%A8%E5%A4%96%E5%8A%A1%E5%B7%A5%23) — 82.5万 · 新
+9. [油价](https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7) — 80万 · 新
+10. [中国外贸跑出好成绩](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E8%B7%91%E5%87%BA%E5%A5%BD%E6%88%90%E7%BB%A9%23) — 72.6万
 
 ### 抖音
 
@@ -35,9 +35,9 @@
 5. [天凉热乎美食登场](https://www.douyin.com/search/%E5%A4%A9%E5%87%89%E7%83%AD%E4%B9%8E%E7%BE%8E%E9%A3%9F%E7%99%BB%E5%9C%BA) — 1149.7万
 6. [纪念孙中山先生诞辰160周年](https://www.douyin.com/search/%E7%BA%AA%E5%BF%B5%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AF%9E%E8%BE%B0160%E5%91%A8%E5%B9%B4) — 1144.7万
 7. [国内成品油价格或迎下调](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%88%96%E8%BF%8E%E4%B8%8B%E8%B0%83) — 1139.7万
-8. [网购一个家系列](https://www.douyin.com/search/%E7%BD%91%E8%B4%AD%E4%B8%80%E4%B8%AA%E5%AE%B6%E7%B3%BB%E5%88%97) — 1110.7万
-9. [AI算力成消费新热点](https://www.douyin.com/search/AI%E7%AE%97%E5%8A%9B%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E7%83%AD%E7%82%B9) — 1108.6万
-10. [哈登助骑士复仇尼克斯](https://www.douyin.com/search/%E5%93%88%E7%99%BB%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%A4%8D%E4%BB%87%E5%B0%BC%E5%85%8B%E6%96%AF) — 1096.9万
+8. [火箭115:108击败勇士](https://www.douyin.com/search/%E7%81%AB%E7%AE%AD115:108%E5%87%BB%E8%B4%A5%E5%8B%87%E5%A3%AB) — 1137.1万
+9. [网购一个家系列](https://www.douyin.com/search/%E7%BD%91%E8%B4%AD%E4%B8%80%E4%B8%AA%E5%AE%B6%E7%B3%BB%E5%88%97) — 1110.7万
+10. [AI算力成消费新热点](https://www.douyin.com/search/AI%E7%AE%97%E5%8A%9B%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E7%83%AD%E7%82%B9) — 1108.6万
 
 ### 小红书
 
