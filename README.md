@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-12 15:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-12 16:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 148.3万 · 新
-2. [山姆399元充绒量300克羽绒服断货](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86399%E5%85%83%E5%85%85%E7%BB%92%E9%87%8F300%E5%85%8B%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%96%AD%E8%B4%A7%23) — 115.8万 · 新
-3. [腾讯辟谣裁员50%](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%BE%9F%E8%B0%A3%E8%A3%81%E5%91%9850%25%23) — 111.8万 · 新
-4. [青稚给文吉儿表白 笑不出来](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD+%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5) — 109.8万 · 新
-5. [正午阳光番位争议为何越吵越烈](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE%E4%B8%BA%E4%BD%95%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%83%88%23) — 108.7万 · 新
-6. [正午阳光这是什么意思](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23) — 105.7万 · 热
-7. [女孩没带课本被老师打到抽搐倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E5%B8%A6%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%80%92%E5%9C%B0%23) — 94.1万 · 新
-8. [天涯共此诗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23) — 93.5万 · 新
-9. [冰尘退役](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9%23) — 90.1万 · 新
-10. [奔驰CEO称在中国车要大得惊人](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%A6%81%E5%A4%A7%E5%BE%97%E6%83%8A%E4%BA%BA%23) — 82.6万
+1. [山姆399元羽绒服打脸谁](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%89%93%E8%84%B8%E8%B0%81%23) — 182.6万 · 新
+2. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 148.3万 · 新
+3. [德芙广告宣扬错误婚恋观被罚80万元](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82%E8%A2%AB%E7%BD%9A80%E4%B8%87%E5%85%83%23) — 136.3万 · 新
+4. [天涯共此诗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23) — 129万 · 新
+5. [许飞厉娜又封神了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%8F%88%E5%B0%81%E7%A5%9E%E4%BA%86%23) — 126万 · 新
+6. [山姆399元充绒量300克羽绒服断货](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86399%E5%85%83%E5%85%85%E7%BB%92%E9%87%8F300%E5%85%8B%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%96%AD%E8%B4%A7%23) — 115.8万 · 新
+7. [腾讯辟谣裁员50%](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%BE%9F%E8%B0%A3%E8%A3%81%E5%91%9850%25%23) — 111.8万 · 新
+8. [青稚给文吉儿表白 笑不出来](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD+%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5) — 109.8万 · 新
+9. [正午阳光番位争议为何越吵越烈](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE%E4%B8%BA%E4%BD%95%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%83%88%23) — 108.7万 · 新
+10. [正午阳光这是什么意思](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23) — 105.7万 · 热
 
 ### 抖音
 
@@ -37,7 +37,7 @@
 7. [国内成品油价格或迎下调](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%88%96%E8%BF%8E%E4%B8%8B%E8%B0%83) — 1139.7万
 8. [火箭115:108击败勇士](https://www.douyin.com/search/%E7%81%AB%E7%AE%AD115:108%E5%87%BB%E8%B4%A5%E5%8B%87%E5%A3%AB) — 1137.1万
 9. [网购一个家系列](https://www.douyin.com/search/%E7%BD%91%E8%B4%AD%E4%B8%80%E4%B8%AA%E5%AE%B6%E7%B3%BB%E5%88%97) — 1110.7万
-10. [AI算力成消费新热点](https://www.douyin.com/search/AI%E7%AE%97%E5%8A%9B%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E7%83%AD%E7%82%B9) — 1108.6万
+10. [海上风电装机量居全球首位](https://www.douyin.com/search/%E6%B5%B7%E4%B8%8A%E9%A3%8E%E7%94%B5%E8%A3%85%E6%9C%BA%E9%87%8F%E5%B1%85%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D) — 1110.3万
 
 ### 小红书
 
