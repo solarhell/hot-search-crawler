@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-12 12:18**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-12 13:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 117.4万 · 新
+1. [后会友期](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F) — 148.3万 · 新
 2. [山姆399元充绒量300克羽绒服断货](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86399%E5%85%83%E5%85%85%E7%BB%92%E9%87%8F300%E5%85%8B%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%96%AD%E8%B4%A7%23) — 115.8万 · 新
 3. [正午阳光番位争议为何越吵越烈](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE%E4%B8%BA%E4%BD%95%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%83%88%23) — 108.7万 · 新
 4. [正午阳光这是什么意思](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%23) — 105.7万 · 热
 5. [女孩没带课本被老师打到抽搐倒地](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E5%B8%A6%E8%AF%BE%E6%9C%AC%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%80%92%E5%9C%B0%23) — 94.1万 · 新
-6. [奔驰CEO称在中国车要大得惊人](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%A6%81%E5%A4%A7%E5%BE%97%E6%83%8A%E4%BA%BA%23) — 82.6万
-7. [油价](https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7) — 80万 · 新
-8. [彩票店主私兑825万奖金全家被起诉](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A8%E5%BA%97%E4%B8%BB%E7%A7%81%E5%85%91825%E4%B8%87%E5%A5%96%E9%87%91%E5%85%A8%E5%AE%B6%E8%A2%AB%E8%B5%B7%E8%AF%89%23) — 70.3万
-9. [何以中国壮美八桂](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%A3%AE%E7%BE%8E%E5%85%AB%E6%A1%82%23) — 67.5万 · 新
-10. [我国外贸的APEC底色越来越浓](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E7%9A%84APEC%E5%BA%95%E8%89%B2%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%B5%93%23) — 67.2万
+6. [冰尘退役](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9%23) — 90.1万 · 新
+7. [奔驰CEO称在中国车要大得惊人](https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E7%A7%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%A6%81%E5%A4%A7%E5%BE%97%E6%83%8A%E4%BA%BA%23) — 82.6万
+8. [油价](https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7) — 80万 · 新
+9. [中国外贸跑出好成绩](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E8%B7%91%E5%87%BA%E5%A5%BD%E6%88%90%E7%BB%A9%23) — 71.4万
+10. [许飞 我们娜娜子](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BB%AC%E5%A8%9C%E5%A8%9C%E5%AD%90) — 70.4万 · 新
 
 ### 抖音
 
@@ -37,7 +37,7 @@
 7. [国内成品油价格或迎下调](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%88%96%E8%BF%8E%E4%B8%8B%E8%B0%83) — 1139.7万
 8. [网购一个家系列](https://www.douyin.com/search/%E7%BD%91%E8%B4%AD%E4%B8%80%E4%B8%AA%E5%AE%B6%E7%B3%BB%E5%88%97) — 1110.7万
 9. [AI算力成消费新热点](https://www.douyin.com/search/AI%E7%AE%97%E5%8A%9B%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E7%83%AD%E7%82%B9) — 1108.6万
-10. [胡塞武装发射导弹袭击沙特](https://www.douyin.com/search/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9) — 1069.1万
+10. [哈登助骑士复仇尼克斯](https://www.douyin.com/search/%E5%93%88%E7%99%BB%E5%8A%A9%E9%AA%91%E5%A3%AB%E5%A4%8D%E4%BB%87%E5%B0%BC%E5%85%8B%E6%96%AF) — 1096.9万
 
 ### 小红书
 
