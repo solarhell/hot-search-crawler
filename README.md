@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-13 23:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-14 00:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [刘欢妻子长文](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87%23) — 201.5万 · 新
-2. [白小纯成绩](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%88%90%E7%BB%A9%23) — 184万 · 新
-3. [王子璇白小纯4公里开了三小时](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E5%B0%8F%E7%BA%AF4%E5%85%AC%E9%87%8C%E5%BC%80%E4%BA%86%E4%B8%89%E5%B0%8F%E6%97%B6%23) — 178.8万 · 新
-4. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 178.1万 · 新
-5. [2027研究生报考人数347万](https://s.weibo.com/weibo?q=%232027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87%23) — 162.1万 · 新
-6. [飞秒手术要降价了](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86%23) — 145.3万 · 新
-7. [王忠林被查](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%A0%E6%9E%97%E8%A2%AB%E6%9F%A5%23) — 125.3万 · 新
-8. [男子失业断供与银行协商还贷被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E4%B8%9A%E6%96%AD%E4%BE%9B%E4%B8%8E%E9%93%B6%E8%A1%8C%E5%8D%8F%E5%95%86%E8%BF%98%E8%B4%B7%E8%A2%AB%E6%8B%92%23) — 120.9万 · 新
-9. [考研人数](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0) — 117.7万 · 新
-10. [飞秒手术全球1000万例中国750万例](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23) — 116.3万 · 新
+1. [老板假装扫了500余次付款码](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%81%87%E8%A3%85%E6%89%AB%E4%BA%86500%E4%BD%99%E6%AC%A1%E4%BB%98%E6%AC%BE%E7%A0%81%23) — 93.5万
+2. [主人提醒邻居别给猫按电梯](https://s.weibo.com/weibo?q=%E4%B8%BB%E4%BA%BA%E6%8F%90%E9%86%92%E9%82%BB%E5%B1%85%E5%88%AB%E7%BB%99%E7%8C%AB%E6%8C%89%E7%94%B5%E6%A2%AF) — 67.1万
+3. [APEC时隔12年再次来到中国](https://s.weibo.com/weibo?q=%23APEC%E6%97%B6%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23) — 51.8万
+4. [白小纯因为青稚这几句话一直憋眼泪](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%9B%A0%E4%B8%BA%E9%9D%92%E7%A8%9A%E8%BF%99%E5%87%A0%E5%8F%A5%E8%AF%9D%E4%B8%80%E7%9B%B4%E6%86%8B%E7%9C%BC%E6%B3%AA%23) — 51.3万 · 综艺
+5. [飞秒手术全球1000万例中国750万例](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23) — 51万
+6. [黄仁勋因私德丑闻离场只是表象](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%A0%E7%A7%81%E5%BE%B7%E4%B8%91%E9%97%BB%E7%A6%BB%E5%9C%BA%E5%8F%AA%E6%98%AF%E8%A1%A8%E8%B1%A1%23) — 50.4万 · 新
+7. [王晶回应麻将女王票房](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E5%9B%9E%E5%BA%94%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E7%A5%A8%E6%88%BF%23) — 49.4万
+8. [华为五界顺序调整](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BA%94%E7%95%8C%E9%A1%BA%E5%BA%8F%E8%B0%83%E6%95%B4%23) — 49.1万
+9. [老公一天干了一辈子家务](https://s.weibo.com/weibo?q=%E8%80%81%E5%85%AC%E4%B8%80%E5%A4%A9%E5%B9%B2%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E5%AE%B6%E5%8A%A1) — 48.4万
+10. [曝Zeus和T1签约3年打到Faker退役](https://s.weibo.com/weibo?q=%23%E6%9B%9DZeus%E5%92%8CT1%E7%AD%BE%E7%BA%A63%E5%B9%B4%E6%89%93%E5%88%B0Faker%E9%80%80%E5%BD%B9%23) — 47.8万
 
 ### 抖音
 
-1. [国内金饰价跌穿1200元](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E9%87%91%E9%A5%B0%E4%BB%B7%E8%B7%8C%E7%A9%BF1200%E5%85%83) — 1213.7万
-2. [烟火美食夯吃挑战开赛了](https://www.douyin.com/search/%E7%83%9F%E7%81%AB%E7%BE%8E%E9%A3%9F%E5%A4%AF%E5%90%83%E6%8C%91%E6%88%98%E5%BC%80%E8%B5%9B%E4%BA%86) — 1210.7万
-3. [油价下调 加满一箱油少花约26元](https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%20%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%E7%BA%A626%E5%85%83) — 1177.4万
-4. [2027研究生报考人数347万](https://www.douyin.com/search/2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87) — 1132.6万
-5. [课本里的逍遥游有画面了](https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E9%80%8D%E9%81%A5%E6%B8%B8%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86) — 1131.8万
-6. [我国将加快构建现代化基础设施体系](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%BD%93%E7%B3%BB) — 1127.5万
-7. [亚太之问中国作答](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%BD%9C%E7%AD%94) — 1125.8万
-8. [秋冬落地签是一杯warm drink](https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E8%90%BD%E5%9C%B0%E7%AD%BE%E6%98%AF%E4%B8%80%E6%9D%AFwarm%20drink) — 1116.9万
-9. [手工敲虾到底有多好吃](https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83) — 1110.2万
-10. [双十一最应该打折的是我的手](https://www.douyin.com/search/%E5%8F%8C%E5%8D%81%E4%B8%80%E6%9C%80%E5%BA%94%E8%AF%A5%E6%89%93%E6%8A%98%E7%9A%84%E6%98%AF%E6%88%91%E7%9A%84%E6%89%8B) — 1108.7万
+1. [手工敲虾到底有多好吃](https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83) — 1110.3万
+2. [课本里的逍遥游有画面了](https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E9%80%8D%E9%81%A5%E6%B8%B8%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86) — 1072.6万
+3. [解锁APEC限定“寻宝”路线](https://www.douyin.com/search/%E8%A7%A3%E9%94%81APEC%E9%99%90%E5%AE%9A%E2%80%9C%E5%AF%BB%E5%AE%9D%E2%80%9D%E8%B7%AF%E7%BA%BF) — 1010.8万
+4. [油价下调 加满一箱油少花约26元](https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%20%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%E7%BA%A626%E5%85%83) — 984.1万
+5. [2027研究生报考人数347万](https://www.douyin.com/search/2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87) — 915.4万
+6. [以我之名为LPL加油](https://www.douyin.com/search/%E4%BB%A5%E6%88%91%E4%B9%8B%E5%90%8D%E4%B8%BALPL%E5%8A%A0%E6%B2%B9) — 893.9万
+7. [EDG官宣CHICHOO离队](https://www.douyin.com/search/EDG%E5%AE%98%E5%AE%A3CHICHOO%E7%A6%BB%E9%98%9F) — 782.8万
+8. [阿根廷vs乌拉圭](https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%B9%8C%E6%8B%89%E5%9C%AD) — 781.5万
+9. [国务院安委会约谈11个市级政府](https://www.douyin.com/search/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%89%E5%A7%94%E4%BC%9A%E7%BA%A6%E8%B0%8811%E4%B8%AA%E5%B8%82%E7%BA%A7%E6%94%BF%E5%BA%9C) — 777.3万
+10. [76人战胜猛龙](https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E7%8C%9B%E9%BE%99) — 776.3万
 
 ### 小红书
 
@@ -52,7 +52,7 @@
 9. [原来古诗词里的河南真的存在](https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8) — 727.8万 · 热
 10. [蒸出了奶香爆米花馒头](https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4) — 716.2万 · 热
 
-[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-13.md)
+[完整快照](data/latest-hourly.json) · [今日归档](archives/2026-11-14.md)
 <!-- END HOTSEARCH -->
 
 ## 特性
