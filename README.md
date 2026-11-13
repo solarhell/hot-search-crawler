@@ -11,19 +11,19 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-13 12:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-13 13:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [刘欢妻子长文](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87%23) — 201.5万 · 新
 2. [王子璇白小纯4公里开了三小时](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E5%B0%8F%E7%BA%AF4%E5%85%AC%E9%87%8C%E5%BC%80%E4%BA%86%E4%B8%89%E5%B0%8F%E6%97%B6%23) — 178.8万 · 新
 3. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 178.1万 · 新
-4. [男子失业断供与银行协商还贷被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E4%B8%9A%E6%96%AD%E4%BE%9B%E4%B8%8E%E9%93%B6%E8%A1%8C%E5%8D%8F%E5%95%86%E8%BF%98%E8%B4%B7%E8%A2%AB%E6%8B%92%23) — 120.9万 · 新
-5. [考研人数](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0) — 117.7万 · 新
-6. [男子花四千多元做AI短剧火了](https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%9B%9B%E5%8D%83%E5%A4%9A%E5%85%83%E5%81%9AAI%E7%9F%AD%E5%89%A7%E7%81%AB%E4%BA%86) — 104.9万 · 新
-7. [多元供给赋能线上消费新活力](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%85%83%E4%BE%9B%E7%BB%99%E8%B5%8B%E8%83%BD%E7%BA%BF%E4%B8%8A%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B%23) — 100.4万 · 新
-8. [张萌后悔叫马天宇上节目](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%E5%8F%AB%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8A%E8%8A%82%E7%9B%AE) — 100.4万 · 新
-9. [2027研究生报考人数347万](https://s.weibo.com/weibo?q=%232027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87%23) — 99.8万 · 新
+4. [2027研究生报考人数347万](https://s.weibo.com/weibo?q=%232027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87%23) — 162.1万 · 新
+5. [男子失业断供与银行协商还贷被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E4%B8%9A%E6%96%AD%E4%BE%9B%E4%B8%8E%E9%93%B6%E8%A1%8C%E5%8D%8F%E5%95%86%E8%BF%98%E8%B4%B7%E8%A2%AB%E6%8B%92%23) — 120.9万 · 新
+6. [考研人数](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0) — 117.7万 · 新
+7. [男子花四千多元做AI短剧火了](https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%9B%9B%E5%8D%83%E5%A4%9A%E5%85%83%E5%81%9AAI%E7%9F%AD%E5%89%A7%E7%81%AB%E4%BA%86) — 104.9万 · 新
+8. [多元供给赋能线上消费新活力](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%85%83%E4%BE%9B%E7%BB%99%E8%B5%8B%E8%83%BD%E7%BA%BF%E4%B8%8A%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B%23) — 100.4万 · 新
+9. [张萌后悔叫马天宇上节目](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E5%90%8E%E6%82%94%E5%8F%AB%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8A%E8%8A%82%E7%9B%AE) — 100.4万 · 新
 10. [微软Outlook服务宕机](https://s.weibo.com/weibo?q=%E5%BE%AE%E8%BD%AFOutlook%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA) — 91.2万 · 新
 
 ### 抖音
@@ -31,11 +31,11 @@
 1. [国内金饰价跌穿1200元](https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E9%87%91%E9%A5%B0%E4%BB%B7%E8%B7%8C%E7%A9%BF1200%E5%85%83) — 1213.7万
 2. [烟火美食夯吃挑战开赛了](https://www.douyin.com/search/%E7%83%9F%E7%81%AB%E7%BE%8E%E9%A3%9F%E5%A4%AF%E5%90%83%E6%8C%91%E6%88%98%E5%BC%80%E8%B5%9B%E4%BA%86) — 1210.7万
 3. [油价下调 加满一箱油少花约26元](https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%20%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%E7%BA%A626%E5%85%83) — 1175.7万
-4. [课本里的逍遥游有画面了](https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E9%80%8D%E9%81%A5%E6%B8%B8%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86) — 1131.8万
-5. [亚太之问中国作答](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%BD%9C%E7%AD%94) — 1125.8万
-6. [秋冬落地签是一杯warm drink](https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E8%90%BD%E5%9C%B0%E7%AD%BE%E6%98%AF%E4%B8%80%E6%9D%AFwarm%20drink) — 1116.9万
-7. [我国将加快构建现代化基础设施体系](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%BD%93%E7%B3%BB) — 1110万
-8. [2027研究生报考人数347万](https://www.douyin.com/search/2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87) — 1109.4万
+4. [2027研究生报考人数347万](https://www.douyin.com/search/2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87) — 1132.6万
+5. [课本里的逍遥游有画面了](https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E9%80%8D%E9%81%A5%E6%B8%B8%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86) — 1131.8万
+6. [我国将加快构建现代化基础设施体系](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%BD%93%E7%B3%BB) — 1127.5万
+7. [亚太之问中国作答](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%BD%9C%E7%AD%94) — 1125.8万
+8. [秋冬落地签是一杯warm drink](https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E8%90%BD%E5%9C%B0%E7%AD%BE%E6%98%AF%E4%B8%80%E6%9D%AFwarm%20drink) — 1116.9万
 9. [双十一最应该打折的是我的手](https://www.douyin.com/search/%E5%8F%8C%E5%8D%81%E4%B8%80%E6%9C%80%E5%BA%94%E8%AF%A5%E6%89%93%E6%8A%98%E7%9A%84%E6%98%AF%E6%88%91%E7%9A%84%E6%89%8B) — 1108.7万
 10. [刘欢妻子发公开信：他是这样的人](https://www.douyin.com/search/%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%9A%E4%BB%96%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA) — 1108.6万
 
