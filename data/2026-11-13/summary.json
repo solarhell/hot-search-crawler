@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-13",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-13T20:24:18.18645175+08:00",
+  "updated_at": "2026-11-13T21:24:16.350001406+08:00",
   "boards": [
     {
       "platform": "weibo",
@@ -65,8 +65,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-13T15:24:14.788319233+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 7
         },
         {
           "title": "王忠林被查",
@@ -75,8 +75,8 @@
           "tag": "新",
           "best_rank": 1,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 3
         },
         {
           "title": "男子失业断供与银行协商还贷被拒",
@@ -107,6 +107,16 @@
           "first_seen": "2026-11-13T17:24:16.76412152+08:00",
           "last_seen": "2026-11-13T19:24:17.131159871+08:00",
           "appearances": 3
+        },
+        {
+          "title": "飞秒手术全球1000万例中国750万例",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23",
+          "hot": 1120878,
+          "tag": "新",
+          "best_rank": 1,
+          "first_seen": "2026-11-13T20:24:16.581796244+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
         },
         {
           "title": "我国严禁任何形式代孕",
@@ -167,16 +177,6 @@
           "first_seen": "2026-11-13T09:24:14.099866465+08:00",
           "last_seen": "2026-11-13T12:24:20.254697078+08:00",
           "appearances": 4
-        },
-        {
-          "title": "飞秒手术全球1000万例中国750万例",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23",
-          "hot": 841838,
-          "tag": "新",
-          "best_rank": 2,
-          "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 1
         },
         {
           "title": "后会友期陈晓楠评论区",
@@ -432,12 +432,31 @@
           "appearances": 4
         },
         {
+          "title": "青春华章我们的新长征",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B0%E9%95%BF%E5%BE%81%23",
+          "hot": 721216,
+          "best_rank": 3,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
+        },
+        {
           "title": "天涯共此诗",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23",
           "hot": 709483,
           "best_rank": 3,
           "first_seen": "2026-11-13T11:24:15.787984469+08:00",
           "last_seen": "2026-11-13T11:24:15.787984469+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "白小纯这段可以纳入北影教材了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%BF%99%E6%AE%B5%E5%8F%AF%E4%BB%A5%E7%BA%B3%E5%85%A5%E5%8C%97%E5%BD%B1%E6%95%99%E6%9D%90%E4%BA%86%23",
+          "hot": 707846,
+          "tag": "新",
+          "best_rank": 4,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
           "appearances": 1
         },
         {
@@ -763,8 +782,8 @@
           "tag": "新",
           "best_rank": 6,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 3
         },
         {
           "title": "黄仁勋辞职马斯克回应",
@@ -873,8 +892,8 @@
           "tag": "新",
           "best_rank": 11,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 3
         },
         {
           "title": "英伟达临时CEO曾因黄仁勋入职",
@@ -884,6 +903,16 @@
           "best_rank": 18,
           "first_seen": "2026-11-13T09:24:14.099866465+08:00",
           "last_seen": "2026-11-13T09:24:14.099866465+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "葡萄牙全队将穿7号球服致敬C罗",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E5%85%A8%E9%98%9F%E5%B0%86%E7%A9%BF7%E5%8F%B7%E7%90%83%E6%9C%8D%E8%87%B4%E6%95%ACC%E7%BD%97%23",
+          "hot": 391836,
+          "tag": "新",
+          "best_rank": 5,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
           "appearances": 1
         },
         {
@@ -944,6 +973,16 @@
           "best_rank": 13,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
           "last_seen": "2026-11-13T19:24:17.131159871+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "王晶电影麻将女王票房4455元",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%99%B6%E7%94%B5%E5%BD%B1%E9%BA%BB%E5%B0%86%E5%A5%B3%E7%8E%8B%E7%A5%A8%E6%88%BF4455%E5%85%83",
+          "hot": 382297,
+          "tag": "新",
+          "best_rank": 6,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
           "appearances": 1
         },
         {
@@ -1093,6 +1132,16 @@
           "appearances": 1
         },
         {
+          "title": "EDG官宣nobody离队",
+          "url": "https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3nobody%E7%A6%BB%E9%98%9F%23",
+          "hot": 327184,
+          "tag": "新",
+          "best_rank": 7,
+          "first_seen": "2026-11-13T20:24:16.581796244+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
+        },
+        {
           "title": "水均益墓前和刘欢女儿合影送别",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%9D%87%E7%9B%8A%E5%A2%93%E5%89%8D%E5%92%8C%E5%88%98%E6%AC%A2%E5%A5%B3%E5%84%BF%E5%90%88%E5%BD%B1%E9%80%81%E5%88%AB%23",
           "hot": 324724,
@@ -1152,6 +1201,16 @@
           "appearances": 1
         },
         {
+          "title": "波切蒂诺担任曼联主教练",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%8B%85%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E6%95%99%E7%BB%83%23",
+          "hot": 309288,
+          "tag": "新",
+          "best_rank": 10,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
+        },
+        {
           "title": "余承东出席问界发布会",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%87%BA%E5%B8%AD%E9%97%AE%E7%95%8C%E5%8F%91%E5%B8%83%E4%BC%9A%23",
           "hot": 308753,
@@ -1201,16 +1260,6 @@
           "appearances": 1
         },
         {
-          "title": "EDG官宣nobody离队",
-          "url": "https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3nobody%E7%A6%BB%E9%98%9F%23",
-          "hot": 289068,
-          "tag": "新",
-          "best_rank": 7,
-          "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 1
-        },
-        {
           "title": "宁愿综艺糊也不要花少6热度",
           "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E6%84%BF%E7%BB%BC%E8%89%BA%E7%B3%8A%E4%B9%9F%E4%B8%8D%E8%A6%81%E8%8A%B1%E5%B0%916%E7%83%AD%E5%BA%A6",
           "hot": 285786,
@@ -1246,7 +1295,17 @@
           "tag": "新",
           "best_rank": 12,
           "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "深夜徐老师怀孕",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%A4%9C%E5%BE%90%E8%80%81%E5%B8%88%E6%80%80%E5%AD%95%23",
+          "hot": 278771,
+          "tag": "新",
+          "best_rank": 12,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
           "appearances": 1
         },
         {
@@ -1276,7 +1335,17 @@
           "tag": "新",
           "best_rank": 14,
           "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
+        },
+        {
+          "title": "爽哥心疼大美",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%BD%E5%93%A5%E5%BF%83%E7%96%BC%E5%A4%A7%E7%BE%8E%23",
+          "hot": 267419,
+          "tag": "新",
+          "best_rank": 13,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
           "appearances": 1
         },
         {
@@ -1300,13 +1369,23 @@
           "appearances": 1
         },
         {
+          "title": "芒果把这段放出来",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%8A%8A%E8%BF%99%E6%AE%B5%E6%94%BE%E5%87%BA%E6%9D%A5",
+          "hot": 261034,
+          "tag": "新",
+          "best_rank": 14,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
+        },
+        {
           "title": "华为PuraXView激活销量破百万",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView%E6%BF%80%E6%B4%BB%E9%94%80%E9%87%8F%E7%A0%B4%E7%99%BE%E4%B8%87",
           "hot": 221200,
           "best_rank": 18,
           "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
         },
         {
           "title": "婚外胚胎案原配回应为何坚持不离婚",
@@ -1334,6 +1413,35 @@
           "first_seen": "2026-11-13T03:24:19.418869593+08:00",
           "last_seen": "2026-11-13T08:24:14.48896463+08:00",
           "appearances": 6
+        },
+        {
+          "title": "梓渝run it高音",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%93%E6%B8%9Drun+it%E9%AB%98%E9%9F%B3",
+          "hot": 192237,
+          "tag": "新",
+          "best_rank": 17,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "教师长期集体赌博学校监管去哪了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E9%9B%86%E4%BD%93%E8%B5%8C%E5%8D%9A%E5%AD%A6%E6%A0%A1%E7%9B%91%E7%AE%A1%E5%8E%BB%E5%93%AA%E4%BA%86%23",
+          "hot": 191936,
+          "best_rank": 18,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
+        },
+        {
+          "title": "代孕违背伦理道德",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E5%AD%95%E8%BF%9D%E8%83%8C%E4%BC%A6%E7%90%86%E9%81%93%E5%BE%B7",
+          "hot": 191558,
+          "tag": "新",
+          "best_rank": 19,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
         },
         {
           "title": "英伟达股民天塌了",
@@ -1471,8 +1579,8 @@
           "hot": 11773520,
           "best_rank": 1,
           "first_seen": "2026-11-13T09:24:14.099866465+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 12
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 13
         },
         {
           "title": "2027研究生报考人数347万",
@@ -1480,8 +1588,8 @@
           "hot": 11326357,
           "best_rank": 1,
           "first_seen": "2026-11-13T12:24:20.254697078+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 10
         },
         {
           "title": "课本里的逍遥游有画面了",
@@ -1489,8 +1597,8 @@
           "hot": 11318208,
           "best_rank": 2,
           "first_seen": "2026-11-13T09:24:14.099866465+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 12
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 13
         },
         {
           "title": "我国将加快构建现代化基础设施体系",
@@ -1520,6 +1628,15 @@
           "appearances": 14
         },
         {
+          "title": "手工敲虾到底有多好吃",
+          "url": "https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83",
+          "hot": 11101373,
+          "best_rank": 2,
+          "first_seen": "2026-11-13T13:24:19.192433096+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 9
+        },
+        {
           "title": "双十一最应该打折的是我的手",
           "url": "https://www.douyin.com/search/%E5%8F%8C%E5%8D%81%E4%B8%80%E6%9C%80%E5%BA%94%E8%AF%A5%E6%89%93%E6%8A%98%E7%9A%84%E6%98%AF%E6%88%91%E7%9A%84%E6%89%8B",
           "hot": 11087279,
@@ -1536,15 +1653,6 @@
           "first_seen": "2026-11-13T00:24:16.960772655+08:00",
           "last_seen": "2026-11-13T18:01:43.084781404+08:00",
           "appearances": 12
-        },
-        {
-          "title": "手工敲虾到底有多好吃",
-          "url": "https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83",
-          "hot": 11085054,
-          "best_rank": 2,
-          "first_seen": "2026-11-13T13:24:19.192433096+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 8
         },
         {
           "title": "双向奔赴的投资",
@@ -1570,17 +1678,17 @@
           "hot": 11032980,
           "best_rank": 4,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 3
         },
         {
           "title": "解锁APEC限定“寻宝”路线",
           "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81APEC%E9%99%90%E5%AE%9A%E2%80%9C%E5%AF%BB%E5%AE%9D%E2%80%9D%E8%B7%AF%E7%BA%BF",
-          "hot": 11021573,
+          "hot": 11032191,
           "best_rank": 3,
           "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
         },
         {
           "title": "首个AI漫剧晚会阵容官宣",
@@ -1601,6 +1709,15 @@
           "appearances": 9
         },
         {
+          "title": "情呀爱呀手势舞",
+          "url": "https://www.douyin.com/search/%E6%83%85%E5%91%80%E7%88%B1%E5%91%80%E6%89%8B%E5%8A%BF%E8%88%9E",
+          "hot": 10339041,
+          "best_rank": 5,
+          "first_seen": "2026-11-13T13:24:19.192433096+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 6
+        },
+        {
           "title": "淡人友好冬日旅行",
           "url": "https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E5%8F%8B%E5%A5%BD%E5%86%AC%E6%97%A5%E6%97%85%E8%A1%8C",
           "hot": 10284738,
@@ -1610,22 +1727,13 @@
           "appearances": 6
         },
         {
-          "title": "情呀爱呀手势舞",
-          "url": "https://www.douyin.com/search/%E6%83%85%E5%91%80%E7%88%B1%E5%91%80%E6%89%8B%E5%8A%BF%E8%88%9E",
-          "hot": 10279680,
-          "best_rank": 5,
-          "first_seen": "2026-11-13T13:24:19.192433096+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 5
-        },
-        {
           "title": "76人战胜猛龙",
           "url": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E7%8C%9B%E9%BE%99",
           "hot": 10272264,
           "best_rank": 5,
           "first_seen": "2026-11-13T15:24:14.788319233+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 7
         },
         {
           "title": "天凉热乎美食登场",
@@ -1702,11 +1810,11 @@
         {
           "title": "银杏的故事不止一树金黄",
           "url": "https://www.douyin.com/search/%E9%93%B6%E6%9D%8F%E7%9A%84%E6%95%85%E4%BA%8B%E4%B8%8D%E6%AD%A2%E4%B8%80%E6%A0%91%E9%87%91%E9%BB%84",
-          "hot": 8694700,
+          "hot": 8776799,
           "best_rank": 7,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 3
         },
         {
           "title": "时间从来证明不了什么",
@@ -1720,20 +1828,20 @@
         {
           "title": "以我之名为LPL加油",
           "url": "https://www.douyin.com/search/%E4%BB%A5%E6%88%91%E4%B9%8B%E5%90%8D%E4%B8%BALPL%E5%8A%A0%E6%B2%B9",
-          "hot": 8404278,
+          "hot": 8493494,
           "best_rank": 9,
           "first_seen": "2026-11-13T17:24:16.76412152+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 4
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 5
         },
         {
           "title": "德国小伙从唐诗悟出人生智慧",
           "url": "https://www.douyin.com/search/%E5%BE%B7%E5%9B%BD%E5%B0%8F%E4%BC%99%E4%BB%8E%E5%94%90%E8%AF%97%E6%82%9F%E5%87%BA%E4%BA%BA%E7%94%9F%E6%99%BA%E6%85%A7",
-          "hot": 8346507,
+          "hot": 8449031,
           "best_rank": 10,
           "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
         },
         {
           "title": "京东收购CECONOMY59.8%股权",
@@ -1759,8 +1867,8 @@
           "hot": 7907340,
           "best_rank": 13,
           "first_seen": "2026-11-13T14:24:15.281483906+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 7
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 8
         },
         {
           "title": "停车楼飘移帅炸了",
@@ -1772,13 +1880,22 @@
           "appearances": 6
         },
         {
+          "title": "阿根廷vs乌拉圭",
+          "url": "https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%B9%8C%E6%8B%89%E5%9C%AD",
+          "hot": 7831483,
+          "best_rank": 11,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
+        },
+        {
           "title": "昊天武道会扬州线下总决赛开战",
           "url": "https://www.douyin.com/search/%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A%E6%89%AC%E5%B7%9E%E7%BA%BF%E4%B8%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E6%88%98",
           "hot": 7821700,
           "best_rank": 14,
           "first_seen": "2026-11-13T12:24:20.254697078+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 9
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 10
         },
         {
           "title": "“大同采空区塌陷引发强震”不实",
@@ -1786,8 +1903,8 @@
           "hot": 7819059,
           "best_rank": 13,
           "first_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 1
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 2
         },
         {
           "title": "证监会：全力维护市场平稳运行",
@@ -1867,8 +1984,8 @@
           "hot": 7752624,
           "best_rank": 13,
           "first_seen": "2026-11-13T00:24:16.960772655+08:00",
-          "last_seen": "2026-11-13T13:24:19.192433096+08:00",
-          "appearances": 11
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 12
         },
         {
           "title": "十万狂花入梦来定档",
@@ -1883,10 +2000,10 @@
           "title": "这口猪刨花拌面吃商极高",
           "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%8C%AA%E5%88%A8%E8%8A%B1%E6%8B%8C%E9%9D%A2%E5%90%83%E5%95%86%E6%9E%81%E9%AB%98",
           "hot": 7746209,
-          "best_rank": 18,
+          "best_rank": 15,
           "first_seen": "2026-11-13T15:24:14.788319233+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 6
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 7
         },
         {
           "title": "根本没有这样的团战",
@@ -1912,8 +2029,17 @@
           "hot": 7742072,
           "best_rank": 14,
           "first_seen": "2026-11-13T13:24:19.192433096+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 8
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 9
+        },
+        {
+          "title": "上抖音看阿图什杯",
+          "url": "https://www.douyin.com/search/%E4%B8%8A%E6%8A%96%E9%9F%B3%E7%9C%8B%E9%98%BF%E5%9B%BE%E4%BB%80%E6%9D%AF",
+          "hot": 7741993,
+          "best_rank": 14,
+          "first_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 1
         },
         {
           "title": "告别信开机",
@@ -1975,8 +2101,8 @@
           "hot": 7718893,
           "best_rank": 17,
           "first_seen": "2026-11-13T19:24:17.131159871+08:00",
-          "last_seen": "2026-11-13T20:24:16.581796244+08:00",
-          "appearances": 2
+          "last_seen": "2026-11-13T21:24:14.823288719+08:00",
+          "appearances": 3
         },
         {
           "title": "彭啸补招进入国足集训名单",
