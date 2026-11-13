@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-13 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-13 18:01**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [飞秒手术要降价了](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86%23) — 145.3万 · 新
 7. [男子失业断供与银行协商还贷被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E4%B8%9A%E6%96%AD%E4%BE%9B%E4%B8%8E%E9%93%B6%E8%A1%8C%E5%8D%8F%E5%95%86%E8%BF%98%E8%B4%B7%E8%A2%AB%E6%8B%92%23) — 120.9万 · 新
 8. [考研人数](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0) — 117.7万 · 新
-9. [我国严禁任何形式代孕](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%A5%E7%A6%81%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BB%A3%E5%AD%95%23) — 106.6万 · 新
-10. [黄仁勋刚辞职美媒就给中国扣帽子](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%88%9A%E8%BE%9E%E8%81%8C%E7%BE%8E%E5%AA%92%E5%B0%B1%E7%BB%99%E4%B8%AD%E5%9B%BD%E6%89%A3%E5%B8%BD%E5%AD%90%23) — 105.1万 · 新
+9. [官方通报交大基因编辑事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BA%A4%E5%A4%A7%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E4%BA%8B%E4%BB%B6%23) — 115.4万 · 新
+10. [我国严禁任何形式代孕](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%A5%E7%A6%81%E4%BB%BB%E4%BD%95%E5%BD%A2%E5%BC%8F%E4%BB%A3%E5%AD%95%23) — 106.6万 · 新
 
 ### 抖音
 
