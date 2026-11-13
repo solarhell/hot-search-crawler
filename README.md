@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-13 09:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-13 10:09**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [刘欢妻子长文](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E9%95%BF%E6%96%87%23) — 201.5万 · 新
 2. [王子璇白小纯4公里开了三小时](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E5%B0%8F%E7%BA%AF4%E5%85%AC%E9%87%8C%E5%BC%80%E4%BA%86%E4%B8%89%E5%B0%8F%E6%97%B6%23) — 178.8万 · 新
 3. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7) — 178.1万 · 新
-4. [普通人用AI和会用AI的人](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23) — 80.3万
-5. [传承中山精神的时代价值](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E6%89%BF%E4%B8%AD%E5%B1%B1%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%97%B6%E4%BB%A3%E4%BB%B7%E5%80%BC%23) — 80.1万
-6. [给阿嬷的情书获奖反应冷淡](https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E8%8E%B7%E5%A5%96%E5%8F%8D%E5%BA%94%E5%86%B7%E6%B7%A1) — 79.2万 · 电影
-7. [女孩腹痛持续一年癌细胞全身转移](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%85%B9%E7%97%9B%E6%8C%81%E7%BB%AD%E4%B8%80%E5%B9%B4%E7%99%8C%E7%BB%86%E8%83%9E%E5%85%A8%E8%BA%AB%E8%BD%AC%E7%A7%BB%23) — 78.9万
-8. [向太问许飞为什么当时不解开误会](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E9%97%AE%E8%AE%B8%E9%A3%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E6%97%B6%E4%B8%8D%E8%A7%A3%E5%BC%80%E8%AF%AF%E4%BC%9A%23) — 77.7万 · 新
-9. [字节冲击BAT格局](https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%E5%86%B2%E5%87%BBBAT%E6%A0%BC%E5%B1%80) — 77.1万
-10. [官方通报母女点豆芽吃7碗饭摆拍](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AF%8D%E5%A5%B3%E7%82%B9%E8%B1%86%E8%8A%BD%E5%90%837%E7%A2%97%E9%A5%AD%E6%91%86%E6%8B%8D%23) — 76.3万
+4. [微软Outlook服务宕机](https://s.weibo.com/weibo?q=%E5%BE%AE%E8%BD%AFOutlook%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA) — 91.2万 · 新
+5. [普通人用AI和会用AI的人](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23) — 80.3万
+6. [传承中山精神的时代价值](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E6%89%BF%E4%B8%AD%E5%B1%B1%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%97%B6%E4%BB%A3%E4%BB%B7%E5%80%BC%23) — 80.1万
+7. [给阿嬷的情书获奖反应冷淡](https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E8%8E%B7%E5%A5%96%E5%8F%8D%E5%BA%94%E5%86%B7%E6%B7%A1) — 79.2万 · 电影
+8. [女孩腹痛持续一年癌细胞全身转移](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%85%B9%E7%97%9B%E6%8C%81%E7%BB%AD%E4%B8%80%E5%B9%B4%E7%99%8C%E7%BB%86%E8%83%9E%E5%85%A8%E8%BA%AB%E8%BD%AC%E7%A7%BB%23) — 78.9万
+9. [向太问许飞为什么当时不解开误会](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E9%97%AE%E8%AE%B8%E9%A3%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E6%97%B6%E4%B8%8D%E8%A7%A3%E5%BC%80%E8%AF%AF%E4%BC%9A%23) — 77.7万 · 新
+10. [字节冲击BAT格局](https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%E5%86%B2%E5%87%BBBAT%E6%A0%BC%E5%B1%80) — 77.1万
 
 ### 抖音
 
