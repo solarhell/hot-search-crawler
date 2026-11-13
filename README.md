@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-13 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-13 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -24,7 +24,7 @@
 7. [王忠林被查](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%A0%E6%9E%97%E8%A2%AB%E6%9F%A5%23) — 125.3万 · 新
 8. [男子失业断供与银行协商还贷被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E4%B8%9A%E6%96%AD%E4%BE%9B%E4%B8%8E%E9%93%B6%E8%A1%8C%E5%8D%8F%E5%95%86%E8%BF%98%E8%B4%B7%E8%A2%AB%E6%8B%92%23) — 120.9万 · 新
 9. [考研人数](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0) — 117.7万 · 新
-10. [官方通报交大基因编辑事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BA%A4%E5%A4%A7%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E4%BA%8B%E4%BB%B6%23) — 115.4万 · 新
+10. [飞秒手术全球1000万例中国750万例](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23) — 116.3万 · 新
 
 ### 抖音
 
@@ -36,7 +36,7 @@
 6. [我国将加快构建现代化基础设施体系](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%BD%93%E7%B3%BB) — 1127.5万
 7. [亚太之问中国作答](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%BD%9C%E7%AD%94) — 1125.8万
 8. [秋冬落地签是一杯warm drink](https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E8%90%BD%E5%9C%B0%E7%AD%BE%E6%98%AF%E4%B8%80%E6%9D%AFwarm%20drink) — 1116.9万
-9. [手工敲虾到底有多好吃](https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83) — 1110.1万
+9. [手工敲虾到底有多好吃](https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83) — 1110.2万
 10. [双十一最应该打折的是我的手](https://www.douyin.com/search/%E5%8F%8C%E5%8D%81%E4%B8%80%E6%9C%80%E5%BA%94%E8%AF%A5%E6%89%93%E6%8A%98%E7%9A%84%E6%98%AF%E6%88%91%E7%9A%84%E6%89%8B) — 1108.7万
 
 ### 小红书
