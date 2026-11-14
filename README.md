@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-14 19:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-14 20:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -28,7 +28,7 @@
 
 ### 抖音
 
-1. [国足对阵马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1210.6万
+1. [国足对阵马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1210.7万
 2. [国足对阵马来西亚前瞻](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%89%8D%E7%9E%BB) — 1210.5万
 3. [KPL年总决战凤凰山](https://www.douyin.com/search/KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E6%88%98%E5%87%A4%E5%87%B0%E5%B1%B1) — 1210.2万
 4. [美国航班全国性地面停飞](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%88%AA%E7%8F%AD%E5%85%A8%E5%9B%BD%E6%80%A7%E5%9C%B0%E9%9D%A2%E5%81%9C%E9%A3%9E) — 1201万
@@ -36,8 +36,8 @@
 6. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1163.4万
 7. [阿根廷1:2乌拉圭](https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B71:2%E4%B9%8C%E6%8B%89%E5%9C%AD) — 1152.2万
 8. [为亚太地区增“绿”](https://www.douyin.com/search/%E4%B8%BA%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%E5%A2%9E%E2%80%9C%E7%BB%BF%E2%80%9D) — 1137.9万
-9. [上抖音看阿图什杯](https://www.douyin.com/search/%E4%B8%8A%E6%8A%96%E9%9F%B3%E7%9C%8B%E9%98%BF%E5%9B%BE%E4%BB%80%E6%9D%AF) — 1127.9万
-10. [手工敲虾到底有多好吃](https://www.douyin.com/search/%E6%89%8B%E5%B7%A5%E6%95%B2%E8%99%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83) — 1110.4万
+9. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1133.7万
+10. [上抖音看阿图什杯](https://www.douyin.com/search/%E4%B8%8A%E6%8A%96%E9%9F%B3%E7%9C%8B%E9%98%BF%E5%9B%BE%E4%BB%80%E6%9D%AF) — 1127.9万
 
 ### 小红书
 
