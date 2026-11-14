@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-14 22:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-14 23:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [WB夺冠](https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0) — 667.4万 · 新
 2. [国足马来西亚爆发冲突](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23) — 229.6万 · 新
 3. [来自深圳的邀请函](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E6%B7%B1%E5%9C%B3%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD%23) — 209.2万
-4. [2026KPL年总决赛](https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B) — 193.1万 · 热
-5. [青稚再获巅峰挑战赛冠军](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%86%8D%E8%8E%B7%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B%23) — 183.8万 · 新
-6. [无人健身房火了小伙5年开1300家](https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6%23) — 148万 · 新
-7. [真的建议大家上班带点零食](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E5%B8%A6%E7%82%B9%E9%9B%B6%E9%A3%9F) — 140万 · 新
-8. [美全国范围实施地面停飞](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%AE%9E%E6%96%BD%E5%9C%B0%E9%9D%A2%E5%81%9C%E9%A3%9E%23) — 126.6万 · 新
-9. [美国回应全国航班停飞](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%85%A8%E5%9B%BD%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%23) — 119.5万 · 新
-10. [业内称山姆399元羽绒服是钩子商品](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E7%A7%B0%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%98%AF%E9%92%A9%E5%AD%90%E5%95%86%E5%93%81%23) — 117.2万 · 新
+4. [梓墨FMVP](https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP) — 205.2万 · 新
+5. [2026KPL年总决赛](https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B) — 193.1万 · 热
+6. [青稚再获巅峰挑战赛冠军](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%86%8D%E8%8E%B7%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B%23) — 183.8万 · 新
+7. [无人健身房火了小伙5年开1300家](https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6%23) — 148万 · 新
+8. [真的建议大家上班带点零食](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E5%B8%A6%E7%82%B9%E9%9B%B6%E9%A3%9F) — 140万 · 新
+9. [美全国范围实施地面停飞](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%AE%9E%E6%96%BD%E5%9C%B0%E9%9D%A2%E5%81%9C%E9%A3%9E%23) — 126.6万 · 新
+10. [美国回应全国航班停飞](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%85%A8%E5%9B%BD%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%23) — 119.5万 · 新
 
 ### 抖音
 
 1. [国足2:0马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32:0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1218.6万
-2. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1212万
+2. [BLG对阵GEN](https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN) — 1213.3万
 3. [国足对阵马来西亚](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A) — 1211.6万
 4. [国足对阵马来西亚前瞻](https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%89%8D%E7%9E%BB) — 1210.5万
 5. [KPL年总决战凤凰山](https://www.douyin.com/search/KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E6%88%98%E5%87%A4%E5%87%B0%E5%B1%B1) — 1210.2万
 6. [美国航班全国性地面停飞](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%88%AA%E7%8F%AD%E5%85%A8%E5%9B%BD%E6%80%A7%E5%9C%B0%E9%9D%A2%E5%81%9C%E9%A3%9E) — 1201万
-7. [阿根廷vs乌拉圭](https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%B9%8C%E6%8B%89%E5%9C%AD) — 1167.6万
-8. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1160.9万
+7. [我国新增3处世界地质遗产地](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0) — 1181.1万
+8. [阿根廷vs乌拉圭](https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%B9%8C%E6%8B%89%E5%9C%AD) — 1167.6万
 9. [阿根廷1:2乌拉圭](https://www.douyin.com/search/%E9%98%BF%E6%A0%B9%E5%BB%B71:2%E4%B9%8C%E6%8B%89%E5%9C%AD) — 1152.2万
-10. [为亚太地区增“绿”](https://www.douyin.com/search/%E4%B8%BA%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%E5%A2%9E%E2%80%9C%E7%BB%BF%E2%80%9D) — 1137.9万
+10. [北京WB夺得KPL年总冠军](https://www.douyin.com/search/%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%BE%97KPL%E5%B9%B4%E6%80%BB%E5%86%A0%E5%86%9B) — 1139.6万
 
 ### 小红书
 
