@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 15:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 16:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -24,7 +24,7 @@
 7. [天霸管理层再次离间青稚白小纯](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%AE%A1%E7%90%86%E5%B1%82%E5%86%8D%E6%AC%A1%E7%A6%BB%E9%97%B4%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF) — 123.2万 · 新
 8. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
 9. [马天宇想分遗产的朋友是谁](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23) — 117.7万 · 新
-10. [美术生不是被AI干掉的](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84) — 110.1万 · 新
+10. [业主搜到咒自家小孩WiFi名后续](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E6%90%9C%E5%88%B0%E5%92%92%E8%87%AA%E5%AE%B6%E5%B0%8F%E5%AD%A9WiFi%E5%90%8D%E5%90%8E%E7%BB%AD%23) — 115.3万 · 热
 
 ### 抖音
 
@@ -35,7 +35,7 @@
 5. [神舟二十四号发射圆满成功](https://www.douyin.com/search/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F) — 1197.5万
 6. [拜仁欧冠不敌里尔遭遇首败](https://www.douyin.com/search/%E6%8B%9C%E4%BB%81%E6%AC%A7%E5%86%A0%E4%B8%8D%E6%95%8C%E9%87%8C%E5%B0%94%E9%81%AD%E9%81%87%E9%A6%96%E8%B4%A5) — 1188.8万
 7. [今晚24时油价预计下调](https://www.douyin.com/search/%E4%BB%8A%E6%99%9A24%E6%97%B6%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83) — 1186.8万
-8. [提前预习圣诞穿搭](https://www.douyin.com/search/%E6%8F%90%E5%89%8D%E9%A2%84%E4%B9%A0%E5%9C%A3%E8%AF%9E%E7%A9%BF%E6%90%AD) — 1176.8万
+8. [提前预习圣诞穿搭](https://www.douyin.com/search/%E6%8F%90%E5%89%8D%E9%A2%84%E4%B9%A0%E5%9C%A3%E8%AF%9E%E7%A9%BF%E6%90%AD) — 1182.6万
 9. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1171.5万
 10. [杜兰特狄龙场上对喷](https://www.douyin.com/search/%E6%9D%9C%E5%85%B0%E7%89%B9%E7%8B%84%E9%BE%99%E5%9C%BA%E4%B8%8A%E5%AF%B9%E5%96%B7) — 1170.7万
 
