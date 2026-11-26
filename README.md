@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 16:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 17:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -22,9 +22,9 @@
 5. [新一代通信网建设实施方案来了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23) — 126.6万 · 新
 6. [厉娜给许飞擦眼泪说我陪着你](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E6%93%A6%E7%9C%BC%E6%B3%AA%E8%AF%B4%E6%88%91%E9%99%AA%E7%9D%80%E4%BD%A0) — 124.6万 · 新
 7. [天霸管理层再次离间青稚白小纯](https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%AE%A1%E7%90%86%E5%B1%82%E5%86%8D%E6%AC%A1%E7%A6%BB%E9%97%B4%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF) — 123.2万 · 新
-8. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
-9. [马天宇想分遗产的朋友是谁](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23) — 117.7万 · 新
-10. [业主搜到咒自家小孩WiFi名后续](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E6%90%9C%E5%88%B0%E5%92%92%E8%87%AA%E5%AE%B6%E5%B0%8F%E5%AD%A9WiFi%E5%90%8D%E5%90%8E%E7%BB%AD%23) — 115.3万 · 热
+8. [后会友期才播到第8天](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%89%8D%E6%92%AD%E5%88%B0%E7%AC%AC8%E5%A4%A9) — 122.4万 · 新
+9. [金价扛不住了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23) — 118.1万 · 新
+10. [马天宇想分遗产的朋友是谁](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E5%88%86%E9%81%97%E4%BA%A7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%B0%81%23) — 117.7万 · 新
 
 ### 抖音
 
