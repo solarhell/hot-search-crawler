@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-26 20:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-26 21:12**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -36,8 +36,8 @@
 6. [拜仁欧冠不敌里尔遭遇首败](https://www.douyin.com/search/%E6%8B%9C%E4%BB%81%E6%AC%A7%E5%86%A0%E4%B8%8D%E6%95%8C%E9%87%8C%E5%B0%94%E9%81%AD%E9%81%87%E9%A6%96%E8%B4%A5) — 1188.8万
 7. [今晚24时油价预计下调](https://www.douyin.com/search/%E4%BB%8A%E6%99%9A24%E6%97%B6%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83) — 1186.8万
 8. [提前预习圣诞穿搭](https://www.douyin.com/search/%E6%8F%90%E5%89%8D%E9%A2%84%E4%B9%A0%E5%9C%A3%E8%AF%9E%E7%A9%BF%E6%90%AD) — 1182.6万
-9. [亚太合作鹏程万里](https://www.douyin.com/search/%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C) — 1171.5万
-10. [杜兰特狄龙场上对喷](https://www.douyin.com/search/%E6%9D%9C%E5%85%B0%E7%89%B9%E7%8B%84%E9%BE%99%E5%9C%BA%E4%B8%8A%E5%AF%B9%E5%96%B7) — 1170.7万
+9. [上海申花7:1大胜淡滨尼流浪者](https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B17:1%E5%A4%A7%E8%83%9C%E6%B7%A1%E6%BB%A8%E5%B0%BC%E6%B5%81%E6%B5%AA%E8%80%85) — 1180.8万
+10. [中宣部原副部长蔡赴朝被开除党籍](https://www.douyin.com/search/%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E8%94%A1%E8%B5%B4%E6%9C%9D%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D) — 1178.5万
 
 ### 小红书
 
