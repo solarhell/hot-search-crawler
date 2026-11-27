@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-27 14:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-27 15:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,24 +20,24 @@
 3. [女子因超40岁被酒店拒办入住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E8%B6%8540%E5%B2%81%E8%A2%AB%E9%85%92%E5%BA%97%E6%8B%92%E5%8A%9E%E5%85%A5%E4%BD%8F%23) — 165.7万 · 新
 4. [政府机关带头过紧日子](https://s.weibo.com/weibo?q=%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90) — 162.6万 · 新
 5. [被大疆竞业范围震撼到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%A7%E7%96%86%E7%AB%9E%E4%B8%9A%E8%8C%83%E5%9B%B4%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86) — 144.7万 · 新
-6. [三只松鼠致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23) — 139.4万 · 热
-7. [警方回应50余人摘蜜桔仅留下10元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9450%E4%BD%99%E4%BA%BA%E6%91%98%E8%9C%9C%E6%A1%94%E4%BB%85%E7%95%99%E4%B8%8B10%E5%85%83%23) — 113.1万 · 新
-8. [服务贸易发展十五五规划来了](https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%9D%A5%E4%BA%86%23) — 112.6万 · 新
-9. [A股又爆发](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%88%86%E5%8F%91%23) — 96.2万 · 新
-10. [走错果园摘走数百斤蜜桔仅留下10元](https://s.weibo.com/weibo?q=%23%E8%B5%B0%E9%94%99%E6%9E%9C%E5%9B%AD%E6%91%98%E8%B5%B0%E6%95%B0%E7%99%BE%E6%96%A4%E8%9C%9C%E6%A1%94%E4%BB%85%E7%95%99%E4%B8%8B10%E5%85%83%23) — 91.2万 · 新
+6. [A股史诗级暴涨原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23) — 144.1万 · 新
+7. [三只松鼠致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23) — 139.4万 · 热
+8. [警方回应50余人摘蜜桔仅留下10元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9450%E4%BD%99%E4%BA%BA%E6%91%98%E8%9C%9C%E6%A1%94%E4%BB%85%E7%95%99%E4%B8%8B10%E5%85%83%23) — 113.1万 · 新
+9. [服务贸易发展十五五规划来了](https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%9D%A5%E4%BA%86%23) — 112.6万 · 新
+10. [A股又爆发](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%88%86%E5%8F%91%23) — 96.2万 · 新
 
 ### 抖音
 
-1. [A股午盘三大指数走高](https://www.douyin.com/search/A%E8%82%A1%E5%8D%88%E7%9B%98%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B5%B0%E9%AB%98) — 1233.8万
-2. [U17国足8:0斐济](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38:0%E6%96%90%E6%B5%8E) — 1213.4万
-3. [U17国足迎战斐济争出线](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E8%BF%8E%E6%88%98%E6%96%90%E6%B5%8E%E4%BA%89%E5%87%BA%E7%BA%BF) — 1213.4万
-4. [中国男篮80:82不敌沙特男篮](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80:82%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE) — 1211.3万
-5. [2026世界市长对话乌鲁木齐](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90) — 1170.3万
-6. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1163.3万
-7. [我国将加快培育服务贸易发展新动能](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E5%9F%B9%E8%82%B2%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E6%96%B0%E5%8A%A8%E8%83%BD) — 1127.3万
-8. [蔡磊回应病情进入终末期](https://www.douyin.com/search/%E8%94%A1%E7%A3%8A%E5%9B%9E%E5%BA%94%E7%97%85%E6%83%85%E8%BF%9B%E5%85%A5%E7%BB%88%E6%9C%AB%E6%9C%9F) — 1102万
-9. [今日起电视开机广告没了](https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E8%B5%B7%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E5%B9%BF%E5%91%8A%E6%B2%A1%E4%BA%86) — 1101.4万
-10. [欧联奥林匹亚科斯vsAC米兰](https://www.douyin.com/search/%E6%AC%A7%E8%81%94%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A%E7%A7%91%E6%96%AFvsAC%E7%B1%B3%E5%85%B0) — 1095.6万
+1. [A股全线收红 创业板涨超11%](https://www.douyin.com/search/A%E8%82%A1%E5%85%A8%E7%BA%BF%E6%94%B6%E7%BA%A2%20%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%B6%A8%E8%B6%8511%25) — 1242.8万
+2. [A股午盘三大指数走高](https://www.douyin.com/search/A%E8%82%A1%E5%8D%88%E7%9B%98%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B5%B0%E9%AB%98) — 1233.8万
+3. [U17国足8:0斐济](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B38:0%E6%96%90%E6%B5%8E) — 1213.4万
+4. [U17国足迎战斐济争出线](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E8%BF%8E%E6%88%98%E6%96%90%E6%B5%8E%E4%BA%89%E5%87%BA%E7%BA%BF) — 1213.4万
+5. [中国男篮80:82不敌沙特男篮](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80:82%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE) — 1211.3万
+6. [2026世界市长对话乌鲁木齐](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90) — 1170.3万
+7. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1163.3万
+8. [我国将加快培育服务贸易发展新动能](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E5%9F%B9%E8%82%B2%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E6%96%B0%E5%8A%A8%E8%83%BD) — 1152.6万
+9. [普通人冬日彩色穿搭公式](https://www.douyin.com/search/%E6%99%AE%E9%80%9A%E4%BA%BA%E5%86%AC%E6%97%A5%E5%BD%A9%E8%89%B2%E7%A9%BF%E6%90%AD%E5%85%AC%E5%BC%8F) — 1134.1万
+10. [蔡磊回应病情进入终末期](https://www.douyin.com/search/%E8%94%A1%E7%A3%8A%E5%9B%9E%E5%BA%94%E7%97%85%E6%83%85%E8%BF%9B%E5%85%A5%E7%BB%88%E6%9C%AB%E6%9C%9F) — 1102万
 
 ### 小红书
 
