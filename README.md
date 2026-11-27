@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-27 21:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-27 22:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -35,7 +35,7 @@
 5. [U17国足迎战斐济争出线](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E8%BF%8E%E6%88%98%E6%96%90%E6%B5%8E%E4%BA%89%E5%87%BA%E7%BA%BF) — 1213.4万
 6. [中国男篮80:82不敌沙特男篮](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80:82%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9%E7%94%B7%E7%AF%AE) — 1211.3万
 7. [2026世界市长对话乌鲁木齐](https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90) — 1170.3万
-8. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1163.3万
+8. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1169.9万
 9. [我国将加快培育服务贸易发展新动能](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BF%AB%E5%9F%B9%E8%82%B2%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E6%96%B0%E5%8A%A8%E8%83%BD) — 1152.6万
 10. [普通人冬日彩色穿搭公式](https://www.douyin.com/search/%E6%99%AE%E9%80%9A%E4%BA%BA%E5%86%AC%E6%97%A5%E5%BD%A9%E8%89%B2%E7%A9%BF%E6%90%AD%E5%85%AC%E5%BC%8F) — 1134.1万
 
