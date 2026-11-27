@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-28 04:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-28 05:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -33,8 +33,8 @@
 3. [养老托育两头难有了国家级解法](https://www.douyin.com/search/%E5%85%BB%E8%80%81%E6%89%98%E8%82%B2%E4%B8%A4%E5%A4%B4%E9%9A%BE%E6%9C%89%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%A7%A3%E6%B3%95) — 1117.7万
 4. [草莓桶蛋糕已经进化成XXXL号了](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86) — 1106.7万
 5. [MotoGP八冠王马奎斯宣布退役](https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9) — 1100.4万
-6. [巴基斯坦航天员视频音轨被篡改](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9) — 1045.4万
-7. [在济南过一个冒热气的周末](https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB) — 1030.8万
+6. [在济南过一个冒热气的周末](https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB) — 1049.2万
+7. [巴基斯坦航天员视频音轨被篡改](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9) — 1045.4万
 8. [U17国少在抖音庆祝世少赛出线](https://www.douyin.com/search/U17%E5%9B%BD%E5%B0%91%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%BA%86%E7%A5%9D%E4%B8%96%E5%B0%91%E8%B5%9B%E5%87%BA%E7%BA%BF) — 1026.6万
 9. [国常会：加力发挥国家队稳市作用](https://www.douyin.com/search/%E5%9B%BD%E5%B8%B8%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%8A%9B%E5%8F%91%E6%8C%A5%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%A8%B3%E5%B8%82%E4%BD%9C%E7%94%A8) — 915.3万
 10. [WBG官宣Elk离队](https://www.douyin.com/search/WBG%E5%AE%98%E5%AE%A3Elk%E7%A6%BB%E9%98%9F) — 915.3万
