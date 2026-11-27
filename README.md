@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-27 18:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-27 19:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [政府机关带头过紧日子](https://s.weibo.com/weibo?q=%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90) — 162.6万 · 新
 7. [被大疆竞业范围震撼到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%A7%E7%96%86%E7%AB%9E%E4%B8%9A%E8%8C%83%E5%9B%B4%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86) — 144.7万 · 新
 8. [三只松鼠致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23) — 139.4万 · 热
-9. [一诺 孩子们我被封杀了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA+%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E8%A2%AB%E5%B0%81%E6%9D%80%E4%BA%86) — 122.3万 · 新
-10. [医保局工作人员直播间辱骂咨询者](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%B1%E9%AA%82%E5%92%A8%E8%AF%A2%E8%80%85%23) — 120万 · 新
+9. [医保局工作人员直播间辱骂咨询者](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%B1%E9%AA%82%E5%92%A8%E8%AF%A2%E8%80%85%23) — 123.8万 · 新
+10. [一诺 孩子们我被封杀了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA+%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E8%A2%AB%E5%B0%81%E6%9D%80%E4%BA%86) — 122.3万 · 新
 
 ### 抖音
 
