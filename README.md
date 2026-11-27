@@ -11,20 +11,20 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-27 17:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-27 18:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
 1. [中国十大最宜居城市](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E6%9C%80%E5%AE%9C%E5%B1%85%E5%9F%8E%E5%B8%82) — 254.8万 · 新
-2. [海康威视取消大小周遭员工抵制](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E9%81%AD%E5%91%98%E5%B7%A5%E6%8A%B5%E5%88%B6%23) — 205.4万 · 新
-3. [A股史诗级暴涨原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23) — 202.4万 · 新
-4. [女子因超40岁被酒店拒办入住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E8%B6%8540%E5%B2%81%E8%A2%AB%E9%85%92%E5%BA%97%E6%8B%92%E5%8A%9E%E5%85%A5%E4%BD%8F%23) — 165.7万 · 新
-5. [政府机关带头过紧日子](https://s.weibo.com/weibo?q=%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90) — 162.6万 · 新
-6. [被大疆竞业范围震撼到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%A7%E7%96%86%E7%AB%9E%E4%B8%9A%E8%8C%83%E5%9B%B4%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86) — 144.7万 · 新
-7. [三只松鼠致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23) — 139.4万 · 热
-8. [一诺 孩子们我被封杀了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA+%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E8%A2%AB%E5%B0%81%E6%9D%80%E4%BA%86) — 122.3万 · 新
-9. [警方回应50余人摘蜜桔仅留下10元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%9450%E4%BD%99%E4%BA%BA%E6%91%98%E8%9C%9C%E6%A1%94%E4%BB%85%E7%95%99%E4%B8%8B10%E5%85%83%23) — 113.1万 · 新
-10. [服务贸易发展十五五规划来了](https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%9D%A5%E4%BA%86%23) — 112.6万 · 新
+2. [九尾秒删](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%A7%92%E5%88%A0%23) — 221.4万 · 新
+3. [海康威视取消大小周遭员工抵制](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E9%81%AD%E5%91%98%E5%B7%A5%E6%8A%B5%E5%88%B6%23) — 205.4万 · 新
+4. [A股史诗级暴涨原因](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23) — 202.4万 · 新
+5. [女子因超40岁被酒店拒办入住](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E8%B6%8540%E5%B2%81%E8%A2%AB%E9%85%92%E5%BA%97%E6%8B%92%E5%8A%9E%E5%85%A5%E4%BD%8F%23) — 165.7万 · 新
+6. [政府机关带头过紧日子](https://s.weibo.com/weibo?q=%E6%94%BF%E5%BA%9C%E6%9C%BA%E5%85%B3%E5%B8%A6%E5%A4%B4%E8%BF%87%E7%B4%A7%E6%97%A5%E5%AD%90) — 162.6万 · 新
+7. [被大疆竞业范围震撼到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%A7%E7%96%86%E7%AB%9E%E4%B8%9A%E8%8C%83%E5%9B%B4%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86) — 144.7万 · 新
+8. [三只松鼠致歉声明](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23) — 139.4万 · 热
+9. [一诺 孩子们我被封杀了](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA+%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E8%A2%AB%E5%B0%81%E6%9D%80%E4%BA%86) — 122.3万 · 新
+10. [医保局工作人员直播间辱骂咨询者](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%B1%E9%AA%82%E5%92%A8%E8%AF%A2%E8%80%85%23) — 120万 · 新
 
 ### 抖音
 
