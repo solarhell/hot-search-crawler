@@ -11,33 +11,33 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-28 08:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-28 09:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
-1. [董明珠现场发火魏建军解围](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4) — 139.3万 · 新
+1. [董明珠现场发火魏建军解围](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4) — 146.5万 · 新
 2. [三只松鼠一夜整改反而让人唏嘘](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E4%B8%80%E5%A4%9C%E6%95%B4%E6%94%B9%E5%8F%8D%E8%80%8C%E8%AE%A9%E4%BA%BA%E5%94%8F%E5%98%98%23) — 91.4万 · 热
-3. [央行新规取消贷款罚息利率上下限](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90%23) — 86.1万 · 新
-4. [180秒回顾神24发射任务](https://s.weibo.com/weibo?q=%23180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23) — 70万
-5. [多平台已下架纸质短剧](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E7%BA%B8%E8%B4%A8%E7%9F%AD%E5%89%A7%23) — 65万 · 热
-6. [千万不要用纸巾包贵重物品](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81) — 58.8万 · 新
-7. [高血压标准更新](https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E6%A0%87%E5%87%86%E6%9B%B4%E6%96%B0) — 55.1万 · 新
-8. [新质生产力大咖说AI季](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23) — 53.5万
-9. [董明珠训员工 魏建军解围](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E8%AE%AD%E5%91%98%E5%B7%A5+%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4) — 41.5万 · 新
-10. [王兴称外卖行业已走到拐点](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%85%B4%E7%A7%B0%E5%A4%96%E5%8D%96%E8%A1%8C%E4%B8%9A%E5%B7%B2%E8%B5%B0%E5%88%B0%E6%8B%90%E7%82%B9%23) — 35.4万 · 新
+3. [千万不要用纸巾包贵重物品](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81) — 89.7万 · 新
+4. [央行新规取消贷款罚息利率上下限](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90%23) — 86.1万 · 新
+5. [180秒回顾神24发射任务](https://s.weibo.com/weibo?q=%23180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23) — 70万
+6. [武契奇称一旦绝食将不接受救治](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E4%B8%80%E6%97%A6%E7%BB%9D%E9%A3%9F%E5%B0%86%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB%23) — 66.3万 · 新
+7. [多平台已下架纸质短剧](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E7%BA%B8%E8%B4%A8%E7%9F%AD%E5%89%A7%23) — 65万 · 热
+8. [高血压标准更新](https://s.weibo.com/weibo?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E6%A0%87%E5%87%86%E6%9B%B4%E6%96%B0) — 55.1万 · 新
+9. [新质生产力大咖说AI季](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23) — 53.5万
+10. [董明珠训员工 魏建军解围](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E8%AE%AD%E5%91%98%E5%B7%A5+%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4) — 41.5万 · 新
 
 ### 抖音
 
-1. [驻日使馆提醒中国公民防范地震](https://www.douyin.com/search/%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E5%9C%B0%E9%9C%87) — 1181.3万
-2. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1150.1万
-3. [巴基斯坦航天员视频音轨被篡改](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9) — 1141.5万
-4. [养老托育两头难有了国家级解法](https://www.douyin.com/search/%E5%85%BB%E8%80%81%E6%89%98%E8%82%B2%E4%B8%A4%E5%A4%B4%E9%9A%BE%E6%9C%89%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%A7%A3%E6%B3%95) — 1136.7万
-5. [草莓桶蛋糕已经进化成XXXL号了](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86) — 1125.8万
-6. [MotoGP八冠王马奎斯宣布退役](https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9) — 1121.5万
-7. [淡人穿出时髦感的冬季穿搭](https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD) — 1107.2万
-8. [WBG官宣Elk离队](https://www.douyin.com/search/WBG%E5%AE%98%E5%AE%A3Elk%E7%A6%BB%E9%98%9F) — 1050.9万
-9. [在济南过一个冒热气的周末](https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB) — 1049.2万
-10. [拿破仑夹克轻松拿捏秋冬混搭风](https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E) — 1040.3万
+1. [美股三大股指全线收涨](https://www.douyin.com/search/%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%85%A8%E7%BA%BF%E6%94%B6%E6%B6%A8) — 1185.7万
+2. [驻日使馆提醒中国公民防范地震](https://www.douyin.com/search/%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E5%9C%B0%E9%9C%87) — 1181.3万
+3. [2026广州车展开幕](https://www.douyin.com/search/2026%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E5%BC%80%E5%B9%95) — 1150.1万
+4. [巴基斯坦航天员视频音轨被篡改](https://www.douyin.com/search/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%A7%86%E9%A2%91%E9%9F%B3%E8%BD%A8%E8%A2%AB%E7%AF%A1%E6%94%B9) — 1141.5万
+5. [养老托育两头难有了国家级解法](https://www.douyin.com/search/%E5%85%BB%E8%80%81%E6%89%98%E8%82%B2%E4%B8%A4%E5%A4%B4%E9%9A%BE%E6%9C%89%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%A7%A3%E6%B3%95) — 1136.7万
+6. [草莓桶蛋糕已经进化成XXXL号了](https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86) — 1129.2万
+7. [MotoGP八冠王马奎斯宣布退役](https://www.douyin.com/search/MotoGP%E5%85%AB%E5%86%A0%E7%8E%8B%E9%A9%AC%E5%A5%8E%E6%96%AF%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9) — 1121.5万
+8. [淡人穿出时髦感的冬季穿搭](https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD) — 1107.2万
+9. [WBG官宣Elk离队](https://www.douyin.com/search/WBG%E5%AE%98%E5%AE%A3Elk%E7%A6%BB%E9%98%9F) — 1050.9万
+10. [在济南过一个冒热气的周末](https://www.douyin.com/search/%E5%9C%A8%E6%B5%8E%E5%8D%97%E8%BF%87%E4%B8%80%E4%B8%AA%E5%86%92%E7%83%AD%E6%B0%94%E7%9A%84%E5%91%A8%E6%9C%AB) — 1049.2万
 
 ### 小红书
 
