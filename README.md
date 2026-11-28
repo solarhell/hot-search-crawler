@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-28 13:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-28 14:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -23,8 +23,8 @@
 6. [178万卖房次日得知拆迁房主反悔](https://s.weibo.com/weibo?q=%23178%E4%B8%87%E5%8D%96%E6%88%BF%E6%AC%A1%E6%97%A5%E5%BE%97%E7%9F%A5%E6%8B%86%E8%BF%81%E6%88%BF%E4%B8%BB%E5%8F%8D%E6%82%94%23) — 90.6万 · 新
 7. [千万不要用纸巾包贵重物品](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81) — 89.7万 · 新
 8. [央行新规取消贷款罚息利率上下限](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90%23) — 86.1万 · 新
-9. [工业经济新动能澎湃](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83%23) — 71.5万 · 新
-10. [180秒回顾神24发射任务](https://s.weibo.com/weibo?q=%23180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23) — 70万
+9. [白小纯把兄弟的经济状况梭哈了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%8A%8A%E5%85%84%E5%BC%9F%E7%9A%84%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%E6%A2%AD%E5%93%88%E4%BA%86%23) — 84.2万 · 新
+10. [工业经济新动能澎湃](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83%23) — 71.5万 · 新
 
 ### 抖音
 
