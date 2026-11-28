@@ -1,143 +1,146 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T10:24:19.460960364+08:00",
+  "generated_at": "2026-11-28T11:24:14.538458492+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-28T10:24:20.380978934+08:00",
-      "elapsed_ms": 919,
+      "fetched_at": "2026-11-28T11:24:15.661578933+08:00",
+      "elapsed_ms": 1123,
       "items": [
         {
           "rank": 1,
-          "title": "董明珠现场发火魏建军解围",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
-          "hot": 1152378
+          "title": "董明珠让拿手机员工没动她急了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E8%AE%A9%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%91%98%E5%B7%A5%E6%B2%A1%E5%8A%A8%E5%A5%B9%E6%80%A5%E4%BA%86%23",
+          "hot": 1834281,
+          "tag": "新"
         },
         {
           "rank": 2,
-          "title": "千万不要用纸巾包贵重物品",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81",
-          "hot": 828739
+          "title": "女子身高153难买衣服怒而自己做",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98153%E9%9A%BE%E4%B9%B0%E8%A1%A3%E6%9C%8D%E6%80%92%E8%80%8C%E8%87%AA%E5%B7%B1%E5%81%9A%23",
+          "hot": 967951,
+          "tag": "新"
         },
         {
           "rank": 3,
           "title": "工业经济新动能澎湃",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83%23",
-          "hot": 679391,
+          "hot": 715004,
           "tag": "新"
         },
         {
           "rank": 4,
-          "title": "陆翊称拒绝调解文吉儿王子璇",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%86%E7%BF%8A%E7%A7%B0%E6%8B%92%E7%BB%9D%E8%B0%83%E8%A7%A3%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87",
-          "hot": 479302
+          "title": "董明珠现场发火魏建军解围",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
+          "hot": 340025
         },
         {
           "rank": 5,
-          "title": "牧民遇4只雪豹五方都愣住了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A7%E6%B0%91%E9%81%874%E5%8F%AA%E9%9B%AA%E8%B1%B9%E4%BA%94%E6%96%B9%E9%83%BD%E6%84%A3%E4%BD%8F%E4%BA%86%23",
-          "hot": 383489,
+          "title": "曝苹果器重iPhone20Pro系列",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%99%A8%E9%87%8DiPhone20Pro%E7%B3%BB%E5%88%97",
+          "hot": 294335,
           "tag": "新"
         },
         {
           "rank": 6,
-          "title": "朋友借网贷被拒后说我小气",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%80%9F%E7%BD%91%E8%B4%B7%E8%A2%AB%E6%8B%92%E5%90%8E%E8%AF%B4%E6%88%91%E5%B0%8F%E6%B0%94",
-          "hot": 320162
+          "title": "牧民遇4只雪豹五方都愣住了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A7%E6%B0%91%E9%81%874%E5%8F%AA%E9%9B%AA%E8%B1%B9%E4%BA%94%E6%96%B9%E9%83%BD%E6%84%A3%E4%BD%8F%E4%BA%86%23",
+          "hot": 279200
         },
         {
           "rank": 7,
-          "title": "央行新规取消贷款罚息利率上下限",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90%23",
-          "hot": 308664
+          "title": "千万不要用纸巾包贵重物品",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81",
+          "hot": 278929
         },
         {
           "rank": 8,
-          "title": "高交会成海外观察中国科技创新窗口",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%A4%E4%BC%9A%E6%88%90%E6%B5%B7%E5%A4%96%E8%A7%82%E5%AF%9F%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E7%AA%97%E5%8F%A3%23",
-          "hot": 292365,
-          "tag": "新"
+          "title": "外网评价肖战研讨会背头造型",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E7%BD%91%E8%AF%84%E4%BB%B7%E8%82%96%E6%88%98%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%83%8C%E5%A4%B4%E9%80%A0%E5%9E%8B",
+          "hot": 246051,
+          "tag": "剧集"
         },
         {
           "rank": 9,
-          "title": "国考公共科目笔试",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%85%AC%E5%85%B1%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95",
-          "hot": 290015
+          "title": "长崎将南京大屠杀篡改为南京事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%B4%8E%E5%B0%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%AF%A1%E6%94%B9%E4%B8%BA%E5%8D%97%E4%BA%AC%E4%BA%8B%E4%BB%B6%23",
+          "hot": 245673,
+          "tag": "新"
         },
         {
           "rank": 10,
-          "title": "许飞 天娱前员工",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%A4%A9%E5%A8%B1%E5%89%8D%E5%91%98%E5%B7%A5",
-          "hot": 287256,
-          "tag": "综艺"
+          "title": "宋慧乔和孔刘的新剧来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E5%92%8C%E5%AD%94%E5%88%98%E7%9A%84%E6%96%B0%E5%89%A7%E6%9D%A5%E4%BA%86%23",
+          "hot": 245404
         },
         {
           "rank": 11,
           "title": "网友扒出厉娜雪藏期间行程图",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%89%92%E5%87%BA%E5%8E%89%E5%A8%9C%E9%9B%AA%E8%97%8F%E6%9C%9F%E9%97%B4%E8%A1%8C%E7%A8%8B%E5%9B%BE%23",
-          "hot": 287200,
+          "hot": 245116,
           "tag": "热"
         },
         {
           "rank": 12,
           "title": "汪顺 陈慧佳",
           "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E9%A1%BA+%E9%99%88%E6%85%A7%E4%BD%B3",
-          "hot": 284432,
+          "hot": 244733,
           "tag": "热"
         },
         {
           "rank": 13,
           "title": "曝汪顺结婚了",
           "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%B1%AA%E9%A1%BA%E7%BB%93%E5%A9%9A%E4%BA%86",
-          "hot": 283927,
-          "tag": "热"
+          "hot": 244146
         },
         {
           "rank": 14,
-          "title": "胡兵做了单眼皮后睡觉眼睛闭不上",
-          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%B5%E5%81%9A%E4%BA%86%E5%8D%95%E7%9C%BC%E7%9A%AE%E5%90%8E%E7%9D%A1%E8%A7%89%E7%9C%BC%E7%9D%9B%E9%97%AD%E4%B8%8D%E4%B8%8A",
-          "hot": 281733
+          "title": "马天宇能不能让许飞摸一下小孩",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E8%AE%B8%E9%A3%9E%E6%91%B8%E4%B8%80%E4%B8%8B%E5%B0%8F%E5%AD%A9%23",
+          "hot": 243861,
+          "tag": "新"
         },
         {
           "rank": 15,
-          "title": "三星堆金面具正在变脆",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%87%91%E9%9D%A2%E5%85%B7%E6%AD%A3%E5%9C%A8%E5%8F%98%E8%84%86%23",
-          "hot": 280902,
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+          "hot": 243436,
           "tag": "新"
         },
         {
           "rank": 16,
-          "title": "厉娜前经纪人张阿瞳发文",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BC%A0%E9%98%BF%E7%9E%B3%E5%8F%91%E6%96%87%23",
-          "hot": 278640
+          "title": "胡兵做了单眼皮后睡觉眼睛闭不上",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%B5%E5%81%9A%E4%BA%86%E5%8D%95%E7%9C%BC%E7%9A%AE%E5%90%8E%E7%9D%A1%E8%A7%89%E7%9C%BC%E7%9D%9B%E9%97%AD%E4%B8%8D%E4%B8%8A",
+          "hot": 242781
         },
         {
           "rank": 17,
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
-          "hot": 277913,
-          "tag": "新"
+          "title": "厉娜前经纪人张阿瞳发文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BC%A0%E9%98%BF%E7%9E%B3%E5%8F%91%E6%96%87%23",
+          "hot": 242495
         },
         {
           "rank": 18,
-          "title": "第一次听说吃雪蛤直接抵制",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E8%AF%B4%E5%90%83%E9%9B%AA%E8%9B%A4%E7%9B%B4%E6%8E%A5%E6%8A%B5%E5%88%B6",
-          "hot": 276917
+          "title": "微博国际文化交流之夜全阵容",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E4%B9%8B%E5%A4%9C%E5%85%A8%E9%98%B5%E5%AE%B9",
+          "hot": 242068,
+          "tag": "新"
         },
         {
           "rank": 19,
-          "title": "宋慧乔和孔刘的新剧来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E5%92%8C%E5%AD%94%E5%88%98%E7%9A%84%E6%96%B0%E5%89%A7%E6%9D%A5%E4%BA%86%23",
-          "hot": 268346
+          "title": "国考公共科目笔试",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%85%AC%E5%85%B1%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95",
+          "hot": 241474
         },
         {
           "rank": 20,
-          "title": "冯骥长文谈AI时代人怎么办",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E9%AA%A5%E9%95%BF%E6%96%87%E8%B0%88AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E",
-          "hot": 182877
+          "title": "00后民警喜提第一面锦旗秒变显眼包",
+          "url": "https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%B0%91%E8%AD%A6%E5%96%9C%E6%8F%90%E7%AC%AC%E4%B8%80%E9%9D%A2%E9%94%A6%E6%97%97%E7%A7%92%E5%8F%98%E6%98%BE%E7%9C%BC%E5%8C%85%23",
+          "hot": 241079,
+          "tag": "新"
         }
       ]
     },
@@ -145,14 +148,27 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-28T10:24:21.084593429+08:00",
-      "elapsed_ms": 1623,
+      "fetched_at": "2026-11-28T11:24:16.125580444+08:00",
+      "elapsed_ms": 1587,
       "items": [
         {
           "rank": 1,
+          "title": "詹姆斯开场三分3连中",
+          "url": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BC%80%E5%9C%BA%E4%B8%89%E5%88%863%E8%BF%9E%E4%B8%AD",
+          "hot": 11588239,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795830597,
+            "label": 1,
+            "sentence_id": "2768778",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 2,
           "title": "U17国足将迎战塞尔维亚",
           "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A",
-          "hot": 11738204,
+          "hot": 11242363,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795827764,
@@ -162,23 +178,10 @@
           }
         },
         {
-          "rank": 2,
-          "title": "草莓桶蛋糕已经进化成XXXL号了",
-          "url": "https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86",
-          "hot": 11409545,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795757547,
-            "label": 3,
-            "sentence_id": "2767490",
-            "video_count": 3
-          }
-        },
-        {
           "rank": 3,
           "title": "八部门印发服务贸易发展十五五规划",
           "url": "https://www.douyin.com/search/%E5%85%AB%E9%83%A8%E9%97%A8%E5%8D%B0%E5%8F%91%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92",
-          "hot": 11214982,
+          "hot": 11153960,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795831379,
@@ -191,32 +194,45 @@
           "rank": 4,
           "title": "淡人穿出时髦感的冬季穿搭",
           "url": "https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
-          "hot": 11158044,
+          "hot": 11065120,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795749457,
+            "label": 3,
             "sentence_id": "2767191",
             "video_count": 1
           }
         },
         {
           "rank": 5,
-          "title": "U17世界杯16强对阵正式出炉",
-          "url": "https://www.douyin.com/search/U17%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%87%BA%E7%82%89",
-          "hot": 10512500,
+          "title": "草莓桶蛋糕已经进化成XXXL号了",
+          "url": "https://www.douyin.com/search/%E8%8D%89%E8%8E%93%E6%A1%B6%E8%9B%8B%E7%B3%95%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90XXXL%E5%8F%B7%E4%BA%86",
+          "hot": 10485606,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795824218,
-            "label": 1,
-            "sentence_id": "2768652",
-            "video_count": 4
+            "event_time": 1795757547,
+            "sentence_id": "2767490",
+            "video_count": 3
           }
         },
         {
           "rank": 6,
+          "title": "冬天来一口榴莲炒冰夯爆了",
+          "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86",
+          "hot": 10455117,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795761404,
+            "label": 17,
+            "sentence_id": "2767661",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 7,
           "title": "拿破仑夹克轻松拿捏秋冬混搭风",
           "url": "https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E",
-          "hot": 10509940,
+          "hot": 9342205,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795755877,
@@ -225,22 +241,23 @@
           }
         },
         {
-          "rank": 7,
-          "title": "冬天来一口榴莲炒冰夯爆了",
-          "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86",
-          "hot": 9371462,
+          "rank": 8,
+          "title": "U17世界杯16强对阵正式出炉",
+          "url": "https://www.douyin.com/search/U17%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%E5%AF%B9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%87%BA%E7%82%89",
+          "hot": 9306896,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795761404,
-            "sentence_id": "2767661",
-            "video_count": 3
+            "event_time": 1795824218,
+            "label": 1,
+            "sentence_id": "2768652",
+            "video_count": 5
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "歼20A运20B将首次亮相航展",
           "url": "https://www.douyin.com/search/%E6%AD%BC20A%E8%BF%9020B%E5%B0%86%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E8%88%AA%E5%B1%95",
-          "hot": 9325274,
+          "hot": 9278153,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795770425,
@@ -249,10 +266,10 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "国常会：加力发挥国家队稳市作用",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E5%B8%B8%E4%BC%9A%EF%BC%9A%E5%8A%A0%E5%8A%9B%E5%8F%91%E6%8C%A5%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%A8%B3%E5%B8%82%E4%BD%9C%E7%94%A8",
-          "hot": 9305353,
+          "hot": 9233393,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795756403,
@@ -261,47 +278,36 @@
           }
         },
         {
-          "rank": 10,
-          "title": "崇左麦那湖百万垂钓赛来了",
-          "url": "https://www.douyin.com/search/%E5%B4%87%E5%B7%A6%E9%BA%A6%E9%82%A3%E6%B9%96%E7%99%BE%E4%B8%87%E5%9E%82%E9%92%93%E8%B5%9B%E6%9D%A5%E4%BA%86",
-          "hot": 9297829,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795774411,
-            "sentence_id": "2768274",
-            "video_count": 2
-          }
-        },
-        {
           "rank": 11,
-          "title": "上汽MG官宣燃油车停产时间",
-          "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B1%BDMG%E5%AE%98%E5%AE%A3%E7%87%83%E6%B2%B9%E8%BD%A6%E5%81%9C%E4%BA%A7%E6%97%B6%E9%97%B4",
-          "hot": 9218440,
+          "title": "特谢拉发文正式告别上海申花",
+          "url": "https://www.douyin.com/search/%E7%89%B9%E8%B0%A2%E6%8B%89%E5%8F%91%E6%96%87%E6%AD%A3%E5%BC%8F%E5%91%8A%E5%88%AB%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1",
+          "hot": 9185094,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795767501,
-            "sentence_id": "2767952",
-            "video_count": 5
+            "event_time": 1795825943,
+            "label": 1,
+            "sentence_id": "2768674",
+            "video_count": 1
           }
         },
         {
           "rank": 12,
-          "title": "U17国少在抖音庆祝世少赛出线",
-          "url": "https://www.douyin.com/search/U17%E5%9B%BD%E5%B0%91%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%BA%86%E7%A5%9D%E4%B8%96%E5%B0%91%E8%B5%9B%E5%87%BA%E7%BA%BF",
-          "hot": 9181224,
+          "title": "你看世间朗朗有光照",
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E7%9C%8B%E4%B8%96%E9%97%B4%E6%9C%97%E6%9C%97%E6%9C%89%E5%85%89%E7%85%A7",
+          "hot": 9183453,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795780504,
-            "label": 3,
-            "sentence_id": "2768389",
-            "video_count": 11
+            "event_time": 1795773969,
+            "label": 9,
+            "sentence_id": "2768265",
+            "video_count": 8
           }
         },
         {
           "rank": 13,
           "title": "我爱上一张脸失去所有底线",
           "url": "https://www.douyin.com/search/%E6%88%91%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BC%A0%E8%84%B8%E5%A4%B1%E5%8E%BB%E6%89%80%E6%9C%89%E5%BA%95%E7%BA%BF",
-          "hot": 8988219,
+          "hot": 9065432,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795786182,
@@ -312,9 +318,73 @@
         },
         {
           "rank": 14,
+          "title": "我懵懵懂懂过了一年",
+          "url": "https://www.douyin.com/search/%E6%88%91%E6%87%B5%E6%87%B5%E6%87%82%E6%87%82%E8%BF%87%E4%BA%86%E4%B8%80%E5%B9%B4",
+          "hot": 9009470,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795772623,
+            "label": 9,
+            "sentence_id": "2768221",
+            "video_count": 9
+          }
+        },
+        {
+          "rank": 15,
+          "title": "济南医保局回应咨询者被辱骂",
+          "url": "https://www.douyin.com/search/%E6%B5%8E%E5%8D%97%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94%E5%92%A8%E8%AF%A2%E8%80%85%E8%A2%AB%E8%BE%B1%E9%AA%82",
+          "hot": 8799307,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795762414,
+            "label": 3,
+            "sentence_id": "2767706",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 16,
+          "title": "上汽MG官宣燃油车停产时间",
+          "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B1%BDMG%E5%AE%98%E5%AE%A3%E7%87%83%E6%B2%B9%E8%BD%A6%E5%81%9C%E4%BA%A7%E6%97%B6%E9%97%B4",
+          "hot": 8798913,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795767501,
+            "sentence_id": "2767952",
+            "video_count": 5
+          }
+        },
+        {
+          "rank": 17,
+          "title": "媒体专访巴基斯坦航天员中文老师",
+          "url": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E4%B8%93%E8%AE%BF%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%AD%E6%96%87%E8%80%81%E5%B8%88",
+          "hot": 8538559,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795824137,
+            "label": 1,
+            "sentence_id": "2768650",
+            "video_count": 1
+          }
+        },
+        {
+          "rank": 18,
+          "title": "绝区零FES",
+          "url": "https://www.douyin.com/search/%E7%BB%9D%E5%8C%BA%E9%9B%B6FES",
+          "hot": 8423363,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795792437,
+            "label": 3,
+            "sentence_id": "2768594",
+            "video_count": 3
+          }
+        },
+        {
+          "rank": 19,
           "title": "严苛的训练迎来了专业选手",
           "url": "https://www.douyin.com/search/%E4%B8%A5%E8%8B%9B%E7%9A%84%E8%AE%AD%E7%BB%83%E8%BF%8E%E6%9D%A5%E4%BA%86%E4%B8%93%E4%B8%9A%E9%80%89%E6%89%8B",
-          "hot": 8953441,
+          "hot": 8290042,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795778208,
@@ -324,80 +394,16 @@
           }
         },
         {
-          "rank": 15,
-          "title": "你看世间朗朗有光照",
-          "url": "https://www.douyin.com/search/%E4%BD%A0%E7%9C%8B%E4%B8%96%E9%97%B4%E6%9C%97%E6%9C%97%E6%9C%89%E5%85%89%E7%85%A7",
-          "hot": 8663135,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795773969,
-            "label": 9,
-            "sentence_id": "2768265",
-            "video_count": 8
-          }
-        },
-        {
-          "rank": 16,
-          "title": "二档大姨模仿申请出战",
-          "url": "https://www.douyin.com/search/%E4%BA%8C%E6%A1%A3%E5%A4%A7%E5%A7%A8%E6%A8%A1%E4%BB%BF%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98",
-          "hot": 8466425,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795772429,
-            "label": 9,
-            "sentence_id": "2768213",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 17,
-          "title": "看海BO3挑战",
-          "url": "https://www.douyin.com/search/%E7%9C%8B%E6%B5%B7BO3%E6%8C%91%E6%88%98",
-          "hot": 8260102,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795770840,
-            "label": 9,
-            "sentence_id": "2768133",
-            "video_count": 4
-          }
-        },
-        {
-          "rank": 18,
-          "title": "绝区零FES",
-          "url": "https://www.douyin.com/search/%E7%BB%9D%E5%8C%BA%E9%9B%B6FES",
-          "hot": 8181712,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795792437,
-            "sentence_id": "2768594",
-            "video_count": 3
-          }
-        },
-        {
-          "rank": 19,
-          "title": "两京十五日难得的明君直臣",
-          "url": "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E9%9A%BE%E5%BE%97%E7%9A%84%E6%98%8E%E5%90%9B%E7%9B%B4%E8%87%A3",
-          "hot": 8135565,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795766664,
-            "label": 11,
-            "sentence_id": "2767887",
-            "video_count": 3
-          }
-        },
-        {
           "rank": 20,
-          "title": "侯明昊北京演唱会",
-          "url": "https://www.douyin.com/search/%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 8130822,
+          "title": "红发白敬亭帅到风扇摇头",
+          "url": "https://www.douyin.com/search/%E7%BA%A2%E5%8F%91%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B8%85%E5%88%B0%E9%A3%8E%E6%89%87%E6%91%87%E5%A4%B4",
+          "hot": 8271677,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795790413,
+            "event_time": 1795823166,
             "label": 3,
-            "sentence_id": "2768565",
-            "video_count": 3
+            "sentence_id": "2768640",
+            "video_count": 1
           }
         }
       ]
@@ -406,8 +412,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": true,
-      "fetched_at": "2026-11-28T10:24:20.473630037+08:00",
-      "elapsed_ms": 1012,
+      "fetched_at": "2026-11-28T11:24:15.002673455+08:00",
+      "elapsed_ms": 464,
       "items": [
         {
           "rank": 1,
