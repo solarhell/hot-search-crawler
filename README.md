@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-28 18:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-28 19:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -20,11 +20,11 @@
 3. [董明珠直播训员工引争议](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%9B%B4%E6%92%AD%E8%AE%AD%E5%91%98%E5%B7%A5%E5%BC%95%E4%BA%89%E8%AE%AE) — 141.9万 · 新
 4. [曝后会友期只剩三组嘉宾](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%8F%AA%E5%89%A9%E4%B8%89%E7%BB%84%E5%98%89%E5%AE%BE%23) — 115.2万 · 新
 5. [女子身高153难买衣服怒而自己做](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%AB%E9%AB%98153%E9%9A%BE%E4%B9%B0%E8%A1%A3%E6%9C%8D%E6%80%92%E8%80%8C%E8%87%AA%E5%B7%B1%E5%81%9A%23) — 108.9万 · 新
-6. [NBA回应东契奇与球迷冲突](https://s.weibo.com/weibo?q=%23NBA%E5%9B%9E%E5%BA%94%E4%B8%9C%E5%A5%91%E5%A5%87%E4%B8%8E%E7%90%83%E8%BF%B7%E5%86%B2%E7%AA%81%23) — 108.1万 · 新
-7. [警方提级办理52人摘橘仅留10元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8F%90%E7%BA%A7%E5%8A%9E%E7%90%8652%E4%BA%BA%E6%91%98%E6%A9%98%E4%BB%85%E7%95%9910%E5%85%83%23) — 107.5万 · 新
-8. [三只松鼠一夜整改反而让人唏嘘](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E4%B8%80%E5%A4%9C%E6%95%B4%E6%94%B9%E5%8F%8D%E8%80%8C%E8%AE%A9%E4%BA%BA%E5%94%8F%E5%98%98%23) — 91.4万 · 热
-9. [178万卖房次日得知拆迁房主反悔](https://s.weibo.com/weibo?q=%23178%E4%B8%87%E5%8D%96%E6%88%BF%E6%AC%A1%E6%97%A5%E5%BE%97%E7%9F%A5%E6%8B%86%E8%BF%81%E6%88%BF%E4%B8%BB%E5%8F%8D%E6%82%94%23) — 90.6万 · 新
-10. [千万不要用纸巾包贵重物品](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81) — 89.7万 · 新
+6. [警方提级办理52人摘橘仅留10元](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%8F%90%E7%BA%A7%E5%8A%9E%E7%90%8652%E4%BA%BA%E6%91%98%E6%A9%98%E4%BB%85%E7%95%9910%E5%85%83%23) — 108.2万 · 新
+7. [NBA回应东契奇与球迷冲突](https://s.weibo.com/weibo?q=%23NBA%E5%9B%9E%E5%BA%94%E4%B8%9C%E5%A5%91%E5%A5%87%E4%B8%8E%E7%90%83%E8%BF%B7%E5%86%B2%E7%AA%81%23) — 108.1万 · 新
+8. [神23神24航天员在轨交接仪式](https://s.weibo.com/weibo?q=%23%E7%A5%9E23%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5%E4%BB%AA%E5%BC%8F%23) — 107.9万 · 新
+9. [物流网络持续织密夯实高质量发展根基](https://s.weibo.com/weibo?q=%23%E7%89%A9%E6%B5%81%E7%BD%91%E7%BB%9C%E6%8C%81%E7%BB%AD%E7%BB%87%E5%AF%86%E5%A4%AF%E5%AE%9E%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%A0%B9%E5%9F%BA%23) — 107.6万 · 新
+10. [小米回应电视开机仍有广告](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E4%BB%8D%E6%9C%89%E5%B9%BF%E5%91%8A%23) — 106.9万 · 新
 
 ### 抖音
 
