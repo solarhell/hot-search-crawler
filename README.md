@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-29 00:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-29 01:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -19,25 +19,25 @@
 2. [户籍工作人员把刘招男改成刘照嫣](https://s.weibo.com/weibo?q=%E6%88%B7%E7%B1%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%8A%E5%88%98%E6%8B%9B%E7%94%B7%E6%94%B9%E6%88%90%E5%88%98%E7%85%A7%E5%AB%A3) — 69.1万 · 新
 3. [三重变化勾勒消费市场新图景](https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%87%8D%E5%8F%98%E5%8C%96%E5%8B%BE%E5%8B%92%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%96%B0%E5%9B%BE%E6%99%AF%23) — 54.7万
 4. [霍启山娜然宣布恋情](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%AE%A3%E5%B8%83%E6%81%8B%E6%83%85%23) — 47.9万 · 热
-5. [女子将40万黄金放车顶开一路忘拿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%8640%E4%B8%87%E9%BB%84%E9%87%91%E6%94%BE%E8%BD%A6%E9%A1%B6%E5%BC%80%E4%B8%80%E8%B7%AF%E5%BF%98%E6%8B%BF%23) — 32.9万
-6. [厉娜察觉被点煤气灯](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%AF%9F%E8%A7%89%E8%A2%AB%E7%82%B9%E7%85%A4%E6%B0%94%E7%81%AF) — 31.4万 · 热
-7. [最强厄尔尼诺将影响我国今冬明春](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%23) — 28.5万
-8. [后会友期未播路透](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9C%AA%E6%92%AD%E8%B7%AF%E9%80%8F) — 28.3万 · 综艺
-9. [全国电视开机率已降至30%](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E5%B7%B2%E9%99%8D%E8%87%B330%25%23) — 28万
-10. [巴基斯坦总理天地通话秀中文](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E5%A4%A9%E5%9C%B0%E9%80%9A%E8%AF%9D%E7%A7%80%E4%B8%AD%E6%96%87%23) — 27.5万 · 新
+5. [冰雪旅游全域升温燃动冬日文旅](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E6%97%85%E6%B8%B8%E5%85%A8%E5%9F%9F%E5%8D%87%E6%B8%A9%E7%87%83%E5%8A%A8%E5%86%AC%E6%97%A5%E6%96%87%E6%97%85%23) — 43.1万
+6. [厉娜察觉被点煤气灯](https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%AF%9F%E8%A7%89%E8%A2%AB%E7%82%B9%E7%85%A4%E6%B0%94%E7%81%AF) — 42.1万 · 热
+7. [易烊千玺回复了王俊凯王源](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%A4%8D%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%23) — 40.6万 · 热
+8. [女子将40万黄金放车顶开一路忘拿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%8640%E4%B8%87%E9%BB%84%E9%87%91%E6%94%BE%E8%BD%A6%E9%A1%B6%E5%BC%80%E4%B8%80%E8%B7%AF%E5%BF%98%E6%8B%BF%23) — 32.9万
+9. [最强厄尔尼诺将影响我国今冬明春](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%23) — 28.5万
+10. [后会友期未播路透](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9C%AA%E6%92%AD%E8%B7%AF%E9%80%8F) — 28.3万 · 综艺
 
 ### 抖音
 
 1. [淡人穿出时髦感的冬季穿搭](https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD) — 1212.6万
 2. [U17国足将迎战塞尔维亚](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A) — 1078.8万
-3. [神23和神24航天员完成在轨交接](https://www.douyin.com/search/%E7%A5%9E23%E5%92%8C%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5) — 1024.2万
-4. [坐火车的正确打开方式](https://www.douyin.com/search/%E5%9D%90%E7%81%AB%E8%BD%A6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F) — 994.8万
-5. [巴方官员同巴基斯坦航天员通话](https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D) — 943.8万
-6. [俄乌两军冬季战前补给成重中之重](https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E5%86%AC%E5%AD%A3%E6%88%98%E5%89%8D%E8%A1%A5%E7%BB%99%E6%88%90%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D) — 911.3万
-7. [拿破仑夹克轻松拿捏秋冬混搭风](https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E) — 812.7万
-8. [冬天来一口榴莲炒冰夯爆了](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86) — 798.3万
-9. [冬装和冷空气一起到货了](https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86) — 794.2万
-10. [立陶宛高层两天内对台三次发声](https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0) — 783.1万
+3. [神23和神24航天员完成在轨交接](https://www.douyin.com/search/%E7%A5%9E23%E5%92%8C%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5) — 1053.8万
+4. [坐火车的正确打开方式](https://www.douyin.com/search/%E5%9D%90%E7%81%AB%E8%BD%A6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F) — 1042.2万
+5. [巴方官员同巴基斯坦航天员通话](https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D) — 960.4万
+6. [立陶宛高层两天内对台三次发声](https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0) — 954.4万
+7. [俄乌两军冬季战前补给成重中之重](https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E5%86%AC%E5%AD%A3%E6%88%98%E5%89%8D%E8%A1%A5%E7%BB%99%E6%88%90%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D) — 911.3万
+8. [拿破仑夹克轻松拿捏秋冬混搭风](https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E) — 843万
+9. [冬天来一口榴莲炒冰夯爆了](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86) — 822.7万
+10. [冬装和冷空气一起到货了](https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86) — 794.2万
 
 ### 小红书
 
