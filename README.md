@@ -11,7 +11,7 @@
 **实时 JSON**：<https://solarhell.github.io/hot-search-crawler/latest.json>
 
 <!-- BEGIN HOTSEARCH -->
-> 数据更新于 **2026-11-29 03:24**（Asia/Shanghai），展示今日榜单前 10。
+> 数据更新于 **2026-11-29 04:24**（Asia/Shanghai），展示今日榜单前 10。
 
 ### 微博
 
@@ -30,14 +30,14 @@
 
 1. [淡人穿出时髦感的冬季穿搭](https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD) — 1212.6万
 2. [俄乌两军冬季战前补给成重中之重](https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E5%86%AC%E5%AD%A3%E6%88%98%E5%89%8D%E8%A1%A5%E7%BB%99%E6%88%90%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D) — 1140.3万
-3. [U17国足将迎战塞尔维亚](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A) — 1078.8万
-4. [神23和神24航天员完成在轨交接](https://www.douyin.com/search/%E7%A5%9E23%E5%92%8C%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5) — 1078万
+3. [U17国足将迎战塞尔维亚](https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A) — 1100.6万
+4. [神23和神24航天员完成在轨交接](https://www.douyin.com/search/%E7%A5%9E23%E5%92%8C%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5) — 1078.6万
 5. [坐火车的正确打开方式](https://www.douyin.com/search/%E5%9D%90%E7%81%AB%E8%BD%A6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F) — 1044万
-6. [立陶宛高层两天内对台三次发声](https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0) — 990.3万
+6. [立陶宛高层两天内对台三次发声](https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0) — 1008.3万
 7. [巴方官员同巴基斯坦航天员通话](https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D) — 960.4万
 8. [拿破仑夹克轻松拿捏秋冬混搭风](https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E) — 874.7万
-9. [冬天来一口榴莲炒冰夯爆了](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86) — 858.2万
-10. [冬装和冷空气一起到货了](https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86) — 851.6万
+9. [冬天来一口榴莲炒冰夯爆了](https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86) — 872.9万
+10. [冬装和冷空气一起到货了](https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86) — 872.6万
 
 ### 小红书
 

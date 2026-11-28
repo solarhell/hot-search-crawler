@@ -1,141 +1,143 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-29T03:24:15.418272906+08:00",
+  "generated_at": "2026-11-29T04:24:15.679616863+08:00",
   "timezone": "Asia/Shanghai",
   "boards": [
     {
       "platform": "weibo",
       "name": "微博",
       "ok": true,
-      "fetched_at": "2026-11-29T03:24:16.50770482+08:00",
-      "elapsed_ms": 1089,
+      "fetched_at": "2026-11-29T04:24:16.844440443+08:00",
+      "elapsed_ms": 1164,
       "items": [
         {
           "rank": 1,
           "title": "户籍工作人员把刘招男改成刘照嫣",
           "url": "https://s.weibo.com/weibo?q=%E6%88%B7%E7%B1%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%8A%E5%88%98%E6%8B%9B%E7%94%B7%E6%94%B9%E6%88%90%E5%88%98%E7%85%A7%E5%AB%A3",
-          "hot": 241607,
+          "hot": 184812,
           "tag": "热"
         },
         {
           "rank": 2,
           "title": "曼联0比4布伦特福德",
           "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%940%E6%AF%944%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7",
-          "hot": 236349
+          "hot": 180639
         },
         {
           "rank": 3,
           "title": "冰雪旅游全域升温燃动冬日文旅",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E6%97%85%E6%B8%B8%E5%85%A8%E5%9F%9F%E5%8D%87%E6%B8%A9%E7%87%83%E5%8A%A8%E5%86%AC%E6%97%A5%E6%96%87%E6%97%85%23",
-          "hot": 230302
+          "hot": 160567
         },
         {
           "rank": 4,
           "title": "霍启山娜然宣布恋情",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%AE%A3%E5%B8%83%E6%81%8B%E6%83%85%23",
-          "hot": 225233,
+          "hot": 151231,
           "tag": "热"
         },
         {
           "rank": 5,
           "title": "厉娜察觉被点煤气灯",
           "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%AF%9F%E8%A7%89%E8%A2%AB%E7%82%B9%E7%85%A4%E6%B0%94%E7%81%AF",
-          "hot": 216486,
+          "hot": 144416,
           "tag": "热"
         },
         {
           "rank": 6,
           "title": "曝寡姐美队卷入私密录像风波",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AF%A1%E5%A7%90%E7%BE%8E%E9%98%9F%E5%8D%B7%E5%85%A5%E7%A7%81%E5%AF%86%E5%BD%95%E5%83%8F%E9%A3%8E%E6%B3%A2%23",
-          "hot": 210253,
+          "hot": 133480,
           "tag": "热"
         },
         {
           "rank": 7,
-          "title": "女生回应酒吧蹦迪偶遇于东来",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E9%85%92%E5%90%A7%E8%B9%A6%E8%BF%AA%E5%81%B6%E9%81%87%E4%BA%8E%E4%B8%9C%E6%9D%A5%23",
-          "hot": 90587
+          "title": "难怪都说霍家三兄弟三段婚事",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E9%83%BD%E8%AF%B4%E9%9C%8D%E5%AE%B6%E4%B8%89%E5%85%84%E5%BC%9F%E4%B8%89%E6%AE%B5%E5%A9%9A%E4%BA%8B%23",
+          "hot": 56339
         },
         {
           "rank": 8,
-          "title": "难怪都说霍家三兄弟三段婚事",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E9%83%BD%E8%AF%B4%E9%9C%8D%E5%AE%B6%E4%B8%89%E5%85%84%E5%BC%9F%E4%B8%89%E6%AE%B5%E5%A9%9A%E4%BA%8B%23",
-          "hot": 74666
+          "title": "宇树机器人杀进美国达人秀总决赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%80%E8%BF%9B%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E6%80%BB%E5%86%B3%E8%B5%9B%23",
+          "hot": 56240
         },
         {
           "rank": 9,
-          "title": "宇树机器人杀进美国达人秀总决赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%80%E8%BF%9B%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E6%80%BB%E5%86%B3%E8%B5%9B%23",
-          "hot": 74435
+          "title": "两京十五日史冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B2%E5%86%A0%23",
+          "hot": 55974,
+          "tag": "剧集"
         },
         {
           "rank": 10,
-          "title": "女子将40万黄金放车顶开一路忘拿",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%8640%E4%B8%87%E9%BB%84%E9%87%91%E6%94%BE%E8%BD%A6%E9%A1%B6%E5%BC%80%E4%B8%80%E8%B7%AF%E5%BF%98%E6%8B%BF%23",
-          "hot": 73387
+          "title": "证监会严肃查处南京路宝宝总",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%A5%E8%82%83%E6%9F%A5%E5%A4%84%E5%8D%97%E4%BA%AC%E8%B7%AF%E5%AE%9D%E5%AE%9D%E6%80%BB%23",
+          "hot": 55426
         },
         {
           "rank": 11,
           "title": "曝柳岩取关厉娜",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9F%B3%E5%B2%A9%E5%8F%96%E5%85%B3%E5%8E%89%E5%A8%9C%23",
-          "hot": 73180,
+          "hot": 54981,
           "tag": "热"
         },
         {
           "rank": 12,
           "title": "霍家三个儿媳三种国籍",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%AE%B6%E4%B8%89%E4%B8%AA%E5%84%BF%E5%AA%B3%E4%B8%89%E7%A7%8D%E5%9B%BD%E7%B1%8D%23",
-          "hot": 72393
+          "hot": 54833
         },
         {
           "rank": 13,
           "title": "司机送还遗失手机收100元乘客报警",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E9%80%81%E8%BF%98%E9%81%97%E5%A4%B1%E6%89%8B%E6%9C%BA%E6%94%B6100%E5%85%83%E4%B9%98%E5%AE%A2%E6%8A%A5%E8%AD%A6%23",
-          "hot": 71839
+          "hot": 54531
         },
         {
           "rank": 14,
           "title": "易烊千玺回复了王俊凯王源",
           "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%A4%8D%E4%BA%86%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%23",
-          "hot": 71094,
+          "hot": 54262,
           "tag": "热"
         },
         {
           "rank": 15,
-          "title": "王安宇王楚然抽象开团秒跟",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%8A%BD%E8%B1%A1%E5%BC%80%E5%9B%A2%E7%A7%92%E8%B7%9F%23",
-          "hot": 70815,
-          "tag": "综艺"
+          "title": "女生回应酒吧蹦迪偶遇于东来",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E9%85%92%E5%90%A7%E8%B9%A6%E8%BF%AA%E5%81%B6%E9%81%87%E4%BA%8E%E4%B8%9C%E6%9D%A5%23",
+          "hot": 53842
         },
         {
           "rank": 16,
           "title": "白小纯只记得沙特道歉的原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%AA%E8%AE%B0%E5%BE%97%E6%B2%99%E7%89%B9%E9%81%93%E6%AD%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
-          "hot": 70792
+          "hot": 53562
         },
         {
           "rank": 17,
-          "title": "张泉灵评论区被质问哭什么",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%89%E7%81%B5%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E8%B4%A8%E9%97%AE%E5%93%AD%E4%BB%80%E4%B9%88",
-          "hot": 69790
+          "title": "王安宇王楚然抽象开团秒跟",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%8A%BD%E8%B1%A1%E5%BC%80%E5%9B%A2%E7%A7%92%E8%B7%9F%23",
+          "hot": 53041,
+          "tag": "综艺"
         },
         {
           "rank": 18,
-          "title": "娜然合照中与霍母亲密牵手",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E7%84%B6%E5%90%88%E7%85%A7%E4%B8%AD%E4%B8%8E%E9%9C%8D%E6%AF%8D%E4%BA%B2%E5%AF%86%E7%89%B5%E6%89%8B%23",
-          "hot": 69328
+          "title": "曼联10轮不胜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%9410%E8%BD%AE%E4%B8%8D%E8%83%9C%23",
+          "hot": 52783
         },
         {
           "rank": 19,
           "title": "为什么很少看到青海IP",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%B0%E9%9D%92%E6%B5%B7IP",
-          "hot": 68732
+          "hot": 52237
         },
         {
           "rank": 20,
-          "title": "最强厄尔尼诺将影响我国今冬明春",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%E4%BB%8A%E5%86%AC%E6%98%8E%E6%98%A5%23",
-          "hot": 68112
+          "title": "李思潼获金狮大赏影后",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%80%9D%E6%BD%BC%E8%8E%B7%E9%87%91%E7%8B%AE%E5%A4%A7%E8%B5%8F%E5%BD%B1%E5%90%8E%23",
+          "hot": 52091,
+          "tag": "电影"
         }
       ]
     },
@@ -143,14 +145,14 @@
       "platform": "douyin",
       "name": "抖音",
       "ok": true,
-      "fetched_at": "2026-11-29T03:24:16.586220942+08:00",
-      "elapsed_ms": 1167,
+      "fetched_at": "2026-11-29T04:24:18.514041163+08:00",
+      "elapsed_ms": 2834,
       "items": [
         {
           "rank": 1,
           "title": "俄乌两军冬季战前补给成重中之重",
           "url": "https://www.douyin.com/search/%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%86%9B%E5%86%AC%E5%AD%A3%E6%88%98%E5%89%8D%E8%A1%A5%E7%BB%99%E6%88%90%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D",
-          "hot": 11402594,
+          "hot": 11282218,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795847974,
@@ -161,21 +163,21 @@
         },
         {
           "rank": 2,
-          "title": "淡人穿出时髦感的冬季穿搭",
-          "url": "https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
-          "hot": 11037402,
+          "title": "U17国足将迎战塞尔维亚",
+          "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A",
+          "hot": 11005589,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795749457,
-            "sentence_id": "2767191",
-            "video_count": 1
+            "event_time": 1795827764,
+            "sentence_id": "2768708",
+            "video_count": 5
           }
         },
         {
           "rank": 3,
           "title": "神23和神24航天员完成在轨交接",
           "url": "https://www.douyin.com/search/%E7%A5%9E23%E5%92%8C%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5",
-          "hot": 10780052,
+          "hot": 10785592,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795856083,
@@ -186,21 +188,21 @@
         },
         {
           "rank": 4,
-          "title": "U17国足将迎战塞尔维亚",
-          "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A",
-          "hot": 10633826,
+          "title": "淡人穿出时髦感的冬季穿搭",
+          "url": "https://www.douyin.com/search/%E6%B7%A1%E4%BA%BA%E7%A9%BF%E5%87%BA%E6%97%B6%E9%AB%A6%E6%84%9F%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD",
+          "hot": 10645808,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795827764,
-            "sentence_id": "2768708",
-            "video_count": 5
+            "event_time": 1795749457,
+            "sentence_id": "2767191",
+            "video_count": 1
           }
         },
         {
           "rank": 5,
           "title": "坐火车的正确打开方式",
           "url": "https://www.douyin.com/search/%E5%9D%90%E7%81%AB%E8%BD%A6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F",
-          "hot": 9903645,
+          "hot": 10085836,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795828314,
@@ -212,7 +214,7 @@
           "rank": 6,
           "title": "立陶宛高层两天内对台三次发声",
           "url": "https://www.douyin.com/search/%E7%AB%8B%E9%99%B6%E5%AE%9B%E9%AB%98%E5%B1%82%E4%B8%A4%E5%A4%A9%E5%86%85%E5%AF%B9%E5%8F%B0%E4%B8%89%E6%AC%A1%E5%8F%91%E5%A3%B0",
-          "hot": 9902631,
+          "hot": 10083184,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795830282,
@@ -224,7 +226,7 @@
           "rank": 7,
           "title": "拿破仑夹克轻松拿捏秋冬混搭风",
           "url": "https://www.douyin.com/search/%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%A4%B9%E5%85%8B%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A7%8B%E5%86%AC%E6%B7%B7%E6%90%AD%E9%A3%8E",
-          "hot": 8747446,
+          "hot": 8732985,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795755877,
@@ -236,7 +238,7 @@
           "rank": 8,
           "title": "冬天来一口榴莲炒冰夯爆了",
           "url": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E6%9D%A5%E4%B8%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E7%82%92%E5%86%B0%E5%A4%AF%E7%88%86%E4%BA%86",
-          "hot": 8582410,
+          "hot": 8728853,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795761404,
@@ -248,7 +250,7 @@
           "rank": 9,
           "title": "冬装和冷空气一起到货了",
           "url": "https://www.douyin.com/search/%E5%86%AC%E8%A3%85%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E4%B8%80%E8%B5%B7%E5%88%B0%E8%B4%A7%E4%BA%86",
-          "hot": 8515621,
+          "hot": 8725528,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795746048,
@@ -261,7 +263,7 @@
           "rank": 10,
           "title": "巴方官员同巴基斯坦航天员通话",
           "url": "https://www.douyin.com/search/%E5%B7%B4%E6%96%B9%E5%AE%98%E5%91%98%E5%90%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D",
-          "hot": 8483269,
+          "hot": 8487677,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795848013,
@@ -273,7 +275,7 @@
           "rank": 11,
           "title": "余秀华现身许飞杭州演唱会",
           "url": "https://www.douyin.com/search/%E4%BD%99%E7%A7%80%E5%8D%8E%E7%8E%B0%E8%BA%AB%E8%AE%B8%E9%A3%9E%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 8269443,
+          "hot": 8453544,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795875705,
@@ -285,7 +287,7 @@
           "rank": 12,
           "title": "边伯贤澳门见面会唱了女孩",
           "url": "https://www.douyin.com/search/%E8%BE%B9%E4%BC%AF%E8%B4%A4%E6%BE%B3%E9%97%A8%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%94%B1%E4%BA%86%E5%A5%B3%E5%AD%A9",
-          "hot": 8212794,
+          "hot": 8330937,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795877348,
@@ -297,7 +299,7 @@
           "rank": 13,
           "title": "绵竹辟谣“多次违停也要去烤肉店”",
           "url": "https://www.douyin.com/search/%E7%BB%B5%E7%AB%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%A4%9A%E6%AC%A1%E8%BF%9D%E5%81%9C%E4%B9%9F%E8%A6%81%E5%8E%BB%E7%83%A4%E8%82%89%E5%BA%97%E2%80%9D",
-          "hot": 8115933,
+          "hot": 8244387,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795868498,
@@ -308,21 +310,21 @@
         },
         {
           "rank": 14,
-          "title": "阿图什杯半决赛",
-          "url": "https://www.douyin.com/search/%E9%98%BF%E5%9B%BE%E4%BB%80%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B",
-          "hot": 7833487,
+          "title": "歼35A首次近距离展示",
+          "url": "https://www.douyin.com/search/%E6%AD%BC35A%E9%A6%96%E6%AC%A1%E8%BF%91%E8%B7%9D%E7%A6%BB%E5%B1%95%E7%A4%BA",
+          "hot": 7914100,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795847515,
-            "sentence_id": "2769303",
-            "video_count": 4
+            "event_time": 1795834809,
+            "sentence_id": "2768935",
+            "video_count": 9
           }
         },
         {
           "rank": 15,
           "title": "黄霄雲厦门演唱会",
           "url": "https://www.douyin.com/search/%E9%BB%84%E9%9C%84%E9%9B%B2%E5%8E%A6%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 7826390,
+          "hot": 7829206,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795850349,
@@ -334,7 +336,7 @@
           "rank": 16,
           "title": "独牙200万柯秉中夺冠",
           "url": "https://www.douyin.com/search/%E7%8B%AC%E7%89%99200%E4%B8%87%E6%9F%AF%E7%A7%89%E4%B8%AD%E5%A4%BA%E5%86%A0",
-          "hot": 7806523,
+          "hot": 7822533,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795856882,
@@ -344,22 +346,33 @@
         },
         {
           "rank": 17,
-          "title": "王嘉尔重庆演唱会",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E5%98%89%E5%B0%94%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "hot": 7795321,
+          "title": "3名航天员将携神秘礼物返回地球",
+          "url": "https://www.douyin.com/search/3%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E6%90%BA%E7%A5%9E%E7%A7%98%E7%A4%BC%E7%89%A9%E8%BF%94%E5%9B%9E%E5%9C%B0%E7%90%83",
+          "hot": 7816441,
           "extra": {
             "discuss_video_count": 1,
-            "event_time": 1795863587,
-            "label": 3,
-            "sentence_id": "2769759",
-            "video_count": 1
+            "event_time": 1795859026,
+            "sentence_id": "2769645",
+            "video_count": 5
           }
         },
         {
           "rank": 18,
+          "title": "中国女足3:0战胜泰国",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33:0%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD",
+          "hot": 7814018,
+          "extra": {
+            "discuss_video_count": 1,
+            "event_time": 1795873543,
+            "sentence_id": "2770078",
+            "video_count": 4
+          }
+        },
+        {
+          "rank": 19,
           "title": "我担的KissMySoul甜到我心里了",
           "url": "https://www.douyin.com/search/%E6%88%91%E6%8B%85%E7%9A%84KissMySoul%E7%94%9C%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86",
-          "hot": 7786933,
+          "hot": 7784732,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795842231,
@@ -369,28 +382,15 @@
           }
         },
         {
-          "rank": 19,
+          "rank": 20,
           "title": "用小火人的方式打开甄嬛传",
           "url": "https://www.douyin.com/search/%E7%94%A8%E5%B0%8F%E7%81%AB%E4%BA%BA%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E7%94%84%E5%AC%9B%E4%BC%A0",
-          "hot": 7783603,
+          "hot": 7783637,
           "extra": {
             "discuss_video_count": 1,
             "event_time": 1795836353,
             "label": 9,
             "sentence_id": "2768986",
-            "video_count": 10
-          }
-        },
-        {
-          "rank": 20,
-          "title": "萌宠的星期六是灰色的",
-          "url": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E7%9A%84%E6%98%9F%E6%9C%9F%E5%85%AD%E6%98%AF%E7%81%B0%E8%89%B2%E7%9A%84",
-          "hot": 7772587,
-          "extra": {
-            "discuss_video_count": 1,
-            "event_time": 1795835006,
-            "label": 9,
-            "sentence_id": "2768941",
             "video_count": 10
           }
         }
@@ -400,8 +400,8 @@
       "platform": "xiaohongshu",
       "name": "小红书",
       "ok": true,
-      "fetched_at": "2026-11-29T03:24:16.267419962+08:00",
-      "elapsed_ms": 849,
+      "fetched_at": "2026-11-29T04:24:15.995379211+08:00",
+      "elapsed_ms": 315,
       "items": [
         {
           "rank": 1,
